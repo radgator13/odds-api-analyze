@@ -1,9 +1,11 @@
 ﻿import pandas as pd
+import os
 
 # === Load all data ===
 pitcher_df = pd.read_csv("data/betonline_pitcher_props.csv")
 batter_df = pd.read_csv("data/betonline_batter_props.csv")
-team_df = pd.read_csv("data/betonline_team_lines_filtered.csv")  # filtered to only known prop games
+team_df = pd.read_csv("data/betonline_team_lines.csv")
+  # filtered to only known prop games
 
 # Ensure event_id is str
 for df in [pitcher_df, batter_df, team_df]:
@@ -36,14 +38,18 @@ team_flat = flatten_team_props(team_df)
 
 # === Group pitcher and batter props by event_id ===
 def group_props(df, role):
-    prop_cols = ["raw_name", "participant", "description", "line", "odds", "market"]
+    def clean_name(row):
+        for field in ["description", "participant", "raw_name"]:
+            name = row.get(field)
+            if isinstance(name, str) and name.lower() not in ["over", "under"]:
+                return name.strip()
+        return None
 
     def extract_props(group):
         records = []
         for _, row in group.iterrows():
-            # ✅ Updated: get player name from the best available field
-            name = row.get("description") or row.get("participant") or row.get("raw_name")
-            if name and str(name).lower() not in ["over", "under"]:
+            name = clean_name(row)
+            if name:
                 records.append({
                     "player": name,
                     "market": row["market"],
@@ -60,12 +66,19 @@ def group_props(df, role):
 pitcher_grouped = group_props(pitcher_df, "pitcher")
 batter_grouped = group_props(batter_df, "batter")
 
-# === Merge all three ===
+# === Merge all three
 merged = team_flat.merge(pitcher_grouped, on="event_id", how="left")
 merged = merged.merge(batter_grouped, on="event_id", how="left")
 
-# === Save merged output ===
-merged.to_json("data/merged_game_props.json", orient="records", indent=2)
-merged.to_csv("data/merged_game_props.csv", index=False)
+# === Save merged output
+os.makedirs("data", exist_ok=True)
+json_path = os.path.abspath("data/merged_game_props.json")
+csv_path = os.path.abspath("data/merged_game_props.csv")
 
+merged.to_json(json_path, orient="records", indent=2)
+merged.to_csv(csv_path, index=False)
+
+# === Output summary
 print(f"✅ Merged game-level file saved with {len(merged)} rows")
+print(f"📄 JSON: {json_path}")
+print(f"📄 CSV:  {csv_path}")

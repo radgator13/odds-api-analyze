@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f8b4879b-25a2-4b83-a6d9-b7bb9870e573</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Odds_API_Baseball_Betting_Lines_V1.00.py</StartupFile>
+    <StartupFile>run_odds_api.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,16 +26,31 @@
     <Compile Include="bet_logic\Step_4_final_merged_readable_odds_api.py" />
     <Compile Include="bet_logic\Step_2_flatten_odds_api_events.py" />
     <Compile Include="bet_logic\Step_1_get_BETONLINE_odds.py" />
-    <Compile Include="Odds_API_Baseball_Betting_Lines_V1.00.py" />
+    <Compile Include="Full_Training_Script.py" />
+    <Compile Include="get_scores_full-with-pitcher.py" />
+    <Compile Include="Join_Stats.py" />
     <Compile Include="run_odds_api.py" />
+    <Compile Include="scrape_schedule_and_starters.py" />
+    <Compile Include="scrape_stathead_stats.py" />
     <Compile Include="test.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="archive\" />
     <Folder Include="bet_logic\" />
+    <Folder Include="models\" />
+    <Folder Include="new_data\" />
+    <Folder Include="new_data\archive\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include=".gitignore" />
+    <Content Include="data\boxscores_pitcher_full-MASTER.csv" />
+    <Content Include="data\pitcher_id_map.csv" />
+    <Content Include="data\team_name_map.csv" />
+    <Content Include="new_data\archive\player_game_pitching.new_20250524_102320.csv" />
+    <Content Include="new_data\stathead_batting_game_data.csv" />
+    <Content Include="new_data\stathead_game_logs.csv" />
+    <Content Include="new_data\stathead_player_pitching_game_data.csv" />
+    <Content Include="new_data\stathead_team_pitching_game_data.csv" />
     <Content Include="requirements.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />

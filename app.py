@@ -27,7 +27,11 @@ st.markdown("Explore team, batter, and pitcher props from BetOnline.")
 # === Filters ===
 col1, col2, col3, col4 = st.columns(4)
 
-type_filter = col1.multiselect("Prop Type", df["type"].unique(), default=["batter", "pitcher"])
+options = df["type"].unique().tolist() if "type" in df.columns else []
+default_types = [t for t in ["batter", "pitcher"] if t in options]
+
+type_filter = col1.multiselect("Prop Type", options, default=default_types)
+
 market_filter = col2.multiselect("Markets", sorted(df["market"].dropna().unique()), default=sorted(df["market"].dropna().unique()))
 team_filter = col3.multiselect("Teams (Home/Away)", sorted(set(df["home_team"]) | set(df["away_team"])))
 player_search = col4.text_input("Search Player or Team")

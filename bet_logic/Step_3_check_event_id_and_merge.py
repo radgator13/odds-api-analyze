@@ -1,15 +1,31 @@
 ﻿import pandas as pd
 import os
+import shutil
+from datetime import datetime, date
 
 # === Load all data ===
 pitcher_df = pd.read_csv("data/betonline_pitcher_props.csv")
 batter_df = pd.read_csv("data/betonline_batter_props.csv")
-team_df = pd.read_csv("data/betonline_team_lines.csv")
-  # filtered to only known prop games
+team_df = pd.read_csv("data/betonline_team_lines.csv")  # Use unfiltered, fresh file
 
 # Ensure event_id is str
 for df in [pitcher_df, batter_df, team_df]:
     df["event_id"] = df["event_id"].astype(str)
+
+# === Add commence_time and filter stale rows ===
+def normalize_and_filter(df, label):
+    df["commence_time"] = pd.to_datetime(df["commence_time"], errors="coerce")
+    df["game_date"] = df["commence_time"].dt.date
+    today = date.today()
+    fresh_df = df[df["game_date"] >= today].copy()
+
+    print(f"\n📅 {label} — game dates:")
+    print(fresh_df['game_date'].value_counts().sort_index())
+    return fresh_df
+
+pitcher_df = normalize_and_filter(pitcher_df, "Pitcher Props")
+batter_df = normalize_and_filter(batter_df, "Batter Props")
+team_df = normalize_and_filter(team_df, "Team Lines")
 
 # === Flatten team lines ===
 def flatten_team_props(df):
@@ -36,12 +52,12 @@ def flatten_team_props(df):
 
 team_flat = flatten_team_props(team_df)
 
-# === Group pitcher and batter props by event_id ===
+# === Group props
 def group_props(df, role):
     def clean_name(row):
         for field in ["description", "participant", "raw_name"]:
             name = row.get(field)
-            if isinstance(name, str) and name.lower() not in ["over", "under"]:
+            if isinstance(name, str) and name.strip().lower() not in ["over", "under"]:
                 return name.strip()
         return None
 
@@ -62,7 +78,6 @@ def group_props(df, role):
     grouped.columns = ["event_id", f"{role}_props"]
     return grouped
 
-# ✅ Group props
 pitcher_grouped = group_props(pitcher_df, "pitcher")
 batter_grouped = group_props(batter_df, "batter")
 
@@ -70,15 +85,26 @@ batter_grouped = group_props(batter_df, "batter")
 merged = team_flat.merge(pitcher_grouped, on="event_id", how="left")
 merged = merged.merge(batter_grouped, on="event_id", how="left")
 
-# === Save merged output
-os.makedirs("data", exist_ok=True)
-json_path = os.path.abspath("data/merged_game_props.json")
-csv_path = os.path.abspath("data/merged_game_props.csv")
+# === Add game_date and check
+merged["commence_time"] = pd.to_datetime(merged["commence_time"], errors="coerce")
+merged["game_date"] = merged["commence_time"].dt.date
 
-merged.to_json(json_path, orient="records", indent=2)
-merged.to_csv(csv_path, index=False)
+if merged["game_date"].max() < date.today():
+    raise ValueError("❌ STOP: All merged games are from the past. Check your input files.")
 
-# === Output summary
-print(f"✅ Merged game-level file saved with {len(merged)} rows")
-print(f"📄 JSON: {json_path}")
-print(f"📄 CSV:  {csv_path}")
+# === Auto-backup old file
+backup_dir = "data/backups"
+os.makedirs(backup_dir, exist_ok=True)
+if os.path.exists("data/merged_game_props.csv"):
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    backup_path = os.path.join(backup_dir, f"merged_game_props_backup_{timestamp}.csv")
+    shutil.copy("data/merged_game_props.csv", backup_path)
+    print(f"\n📦 Previous merged_game_props.csv backed up to:\n   {backup_path}")
+
+# === Save new output
+merged.to_json("data/merged_game_props.json", orient="records", indent=2)
+merged.to_csv("data/merged_game_props.csv", index=False)
+
+print(f"\n✅ Merged game-level file saved with {len(merged)} rows")
+print(f"📄 JSON: {os.path.abspath('data/merged_game_props.json')}")
+print(f"📄 CSV:  {os.path.abspath('data/merged_game_props.csv')}")

@@ -29,6 +29,8 @@
     <Compile Include="Full_Training_Script.py" />
     <Compile Include="get_scores_full-with-pitcher.py" />
     <Compile Include="Join_Stats.py" />
+    <Compile Include="pipeline.py" />
+    <Compile Include="predict_props_with_model.py" />
     <Compile Include="run_odds_api.py" />
     <Compile Include="scrape_schedule_and_starters.py" />
     <Compile Include="scrape_stathead_stats.py" />
@@ -38,10 +40,12 @@
     <Folder Include="archive\" />
     <Folder Include="bet_logic\" />
     <Folder Include="models\" />
+    <Folder Include="filtered_bets\" />
     <Folder Include="new_data\" />
     <Folder Include="new_data\archive\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".env" />
     <Content Include=".gitignore" />
     <Content Include="data\boxscores_pitcher_full-MASTER.csv" />
     <Content Include="data\pitcher_id_map.csv" />

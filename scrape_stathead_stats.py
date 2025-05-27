@@ -9,6 +9,19 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import builtins
+import sys
+original_print = builtins.print
+
+def safe_print(*args, **kwargs):
+    try:
+        original_print(*args, **kwargs)
+    except UnicodeEncodeError:
+        fallback = [str(arg).encode('ascii', errors='ignore').decode() for arg in args]
+        original_print(*fallback, **kwargs)
+
+builtins.print = safe_print
+
 
 # === LOAD .env VARIABLES
 load_dotenv()
@@ -23,7 +36,7 @@ LOGIN_URL = "https://stathead.com/users/login.cgi"
 URLS = {
     "batting": "https://stathead.com/baseball/team-batting-game-finder.cgi?request=1&order_by=date&timeframe=last_n_days&previous_days=3",
     "team_pitching": "https://stathead.com/baseball/team-pitching-game-finder.cgi?request=1&timeframe=last_n_days&previous_days=3",
-    "player_pitching": "https://stathead.com/baseball/player-pitching-game-finder.cgi?request=1&order_by=p_ip&timeframe=last_n_days&previous_days=3",
+    "player_pitching": "https://stathead.com/baseball/player-pitching-game-finder.cgi?request=1&order_by=p_ip&timeframe=last_n_days&previous_days=3&ccomp%5B1%5D=gt&cval%5B1%5D=3.5&cstat%5B1%5D=p_ip",
     "game_logs": "https://stathead.com/baseball/team-batting-game-finder.cgi?request=1&timeframe=last_n_days&previous_days=3"
 }
 
@@ -76,7 +89,10 @@ def download_and_convert(url: str, output_filename: str):
     latest_xls = xls_files[0]
     df = pd.read_html(latest_xls, flavor="bs4")[0]
     csv_path = os.path.join(CSV_TARGET_DIR, output_filename)
-    df.to_csv(csv_path, index=False)
+    # Append if file exists; write header only if it's a new file
+    write_header = not os.path.exists(csv_path)
+    df.to_csv(csv_path, mode="a", header=write_header, index=False)
+    print(f"✅ Appended {len(df)} rows to {csv_path}")
     print(f"✅ Saved CSV to {csv_path}")
 
 try:

@@ -1,76 +1,105 @@
 ﻿import streamlit as st
 import pandas as pd
-import altair as alt
+from datetime import datetime
+import os
 
-st.set_page_config(page_title="MLB Odds Analyzer", layout="wide")
+st.set_page_config(page_title="Pitcher SO Prop Model", layout="wide")
 
-# === Load data ===
+st.title("🎯 MLB Strikeout Prop Model")
+
+# === Load Data ===
 @st.cache_data
 def load_data():
-    return pd.read_csv("data/clean_all_props_flat.csv")
+    df = pd.read_csv("predicted_pitcher_props_with_edges.csv")
+    df["game_date"] = pd.to_datetime(df["game_date"]).dt.date  # ensure it's date, not string
+    return df
 
 df = load_data()
 
-st.title("⚾ MLB Odds Analyzer")
-import datetime
+# === Sidebar filters ===
+st.sidebar.header("🔍 Filters")
 
-# === Date filter ===
-st.markdown("### 📅 Select Game Date")
-selected_date = st.date_input("Game Date", datetime.date.today())
+# Edge slider
+min_edge = st.sidebar.slider("Minimum Edge", -5.0, 5.0, value=0.75, step=0.05)
 
-# Convert game time to date for filtering
-df["game_date"] = pd.to_datetime(df["commence_time"]).dt.date
-df = df[df["game_date"] == selected_date]
+# Odds slider
+odds_range = st.sidebar.slider("Odds Range", -200, 200, (-200, 200), step=5)
 
-st.markdown("Explore team, batter, and pitcher props from BetOnline.")
+# Recommendation selector
+recommendation = st.sidebar.multiselect(
+    "Bet Recommendation",
+    options=["✅ Over", "✅ Under", "❌ No Bet"],
+    default=["✅ Over", "✅ Under"]
+)
 
-# === Filters ===
-col1, col2, col3, col4 = st.columns(4)
+# Game date selector
+min_date = df["game_date"].min()
+max_date = df["game_date"].max()
+selected_date = st.sidebar.date_input(
+    "Game Date",
+    value=min_date,
+    min_value=min_date,
+    max_value=max_date
+)
 
-options = df["type"].unique().tolist() if "type" in df.columns else []
-default_types = [t for t in ["batter", "pitcher"] if t in options]
+# === Filtered Data ===
+filtered = df[
+    (df["edge"].abs() >= min_edge) &
+    (df["odds"].between(odds_range[0], odds_range[1])) &
+    (df["bet_recommendation"].isin(recommendation)) &
+    (df["game_date"] == selected_date)
+]
 
-type_filter = col1.multiselect("Prop Type", options, default=default_types)
+# === Add Fireball Confidence (1–5) ===
+def fireball_confidence(edge):
+    abs_edge = abs(edge)
+    if abs_edge >= 2.5:
+        return "🔥🔥🔥🔥🔥"
+    elif abs_edge >= 2.0:
+        return "🔥🔥🔥🔥"
+    elif abs_edge >= 1.5:
+        return "🔥🔥🔥"
+    elif abs_edge >= 1.0:
+        return "🔥🔥"
+    elif abs_edge >= 0.75:
+        return "🔥"
+    else:
+        return "❌"
 
-market_filter = col2.multiselect("Markets", sorted(df["market"].dropna().unique()), default=sorted(df["market"].dropna().unique()))
-team_filter = col3.multiselect("Teams (Home/Away)", sorted(set(df["home_team"]) | set(df["away_team"])))
-player_search = col4.text_input("Search Player or Team")
+filtered["confidence"] = filtered["edge"].apply(fireball_confidence)
 
-filtered = df.copy()
-filtered = filtered[filtered["type"].isin(type_filter)]
-filtered = filtered[filtered["market"].isin(market_filter)]
+# === Main Table ===
+st.subheader(f"📋 Filtered Results ({len(filtered)} bets shown)")
+st.dataframe(
+    filtered[[
+        "game_date", "player", "line", "odds", "predicted_SO", "edge", "bet_recommendation", "confidence"
+    ]].style.format({
+        "predicted_SO": "{:.2f}",
+        "edge": "{:.2f}",
+        "odds": "{:+}"
+    }),
+    use_container_width=True
+)
 
-if team_filter:
-    filtered = filtered[filtered["home_team"].isin(team_filter) | filtered["away_team"].isin(team_filter)]
+# === Download CSV ===
+# Generate filename with timestamp
+timestamp = datetime.now().strftime("%Y-%m-%d_%H%M")
+filename = f"filtered_bets_{timestamp}.csv"
 
-if player_search:
-    filtered = filtered[filtered["player"].str.contains(player_search, case=False, na=False)]
+# Save file to disk in the target directory
+output_dir = "filtered_bets"
+os.makedirs(output_dir, exist_ok=True)
+local_path = os.path.join(output_dir, filename)
 
-# === Table View ===
-st.subheader("📋 Filtered Prop List")
-st.dataframe(filtered.sort_values(by=["type", "player", "market", "line"]), use_container_width=True)
+filtered[[
+    "game_date", "player", "line", "odds", "predicted_SO", "edge", "bet_recommendation", "confidence"
+]].to_csv(local_path, index=False)
 
-# === Chart Section ===
-st.subheader("📈 Odds & Line Distribution")
-
-col5, col6 = st.columns(2)
-
-# Odds Distribution
-with col5:
-    st.markdown("**Odds Distribution**")
-    odds_chart = alt.Chart(filtered.dropna(subset=["odds"])).mark_bar().encode(
-        x=alt.X("odds:Q", bin=alt.Bin(maxbins=30), title="Odds"),
-        y=alt.Y("count():Q", title="Frequency"),
-        color="type"
-    )
-    st.altair_chart(odds_chart, use_container_width=True)
-
-# Line Distribution
-with col6:
-    st.markdown("**Average Line by Market**")
-    avg_line_chart = alt.Chart(filtered.dropna(subset=["line"])).mark_bar().encode(
-        x=alt.X("market:N", title="Market"),
-        y=alt.Y("mean(line):Q", title="Average Line"),
-        color="type:N"
-    )
-    st.altair_chart(avg_line_chart, use_container_width=True)
+st.download_button(
+    label="📥 Download Filtered Bets",
+    data=filtered[[
+        "game_date", "player", "line", "odds", "predicted_SO", "edge", "bet_recommendation", "confidence"
+    ]].to_csv(index=False),
+    file_name=filename,
+    mime="text/csv"
+)

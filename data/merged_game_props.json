@@ -1,61 +1,69 @@
 [
   {
-    "event_id":"299839c827d14fe9ad89b3124be68732",
-    "home_team":"Los Angeles Angels",
-    "away_team":"New York Yankees",
-    "commence_time":1748309880000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":158.0,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":-175.0,
-    "spreads_los_angeles_angels_line":1.5,
-    "spreads_los_angeles_angels_odds":-103.0,
-    "spreads_new_york_yankees_line":-1.5,
-    "spreads_new_york_yankees_odds":-117.0,
-    "totals_over_line":10.0,
-    "totals_over_odds":-113.0,
-    "totals_under_line":10.0,
-    "totals_under_odds":-107.0,
+    "event_id":"094a69015099d2f9b95d92c7b8b2da5e",
+    "home_team":"Kansas City Royals",
+    "away_team":"Cincinnati Reds",
+    "commence_time":1748389260000,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":-101.0,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":-109.0,
+    "spreads_cincinnati_reds_line":1.5,
+    "spreads_cincinnati_reds_odds":-210.0,
+    "spreads_kansas_city_royals_line":-1.5,
+    "spreads_kansas_city_royals_odds":180.0,
+    "totals_over_line":8.0,
+    "totals_over_odds":-110,
+    "totals_under_line":8.0,
+    "totals_under_odds":-110,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":null,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":null,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":null,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":null,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_oakland_athletics_line":null,
     "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -64,833 +72,46 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
+    "h2h_arizona_diamondbacks_line":null,
+    "h2h_arizona_diamondbacks_odds":null,
+    "h2h_pittsburgh_pirates_line":null,
+    "h2h_pittsburgh_pirates_odds":null,
+    "spreads_arizona_diamondbacks_line":null,
+    "spreads_arizona_diamondbacks_odds":null,
+    "spreads_pittsburgh_pirates_line":null,
+    "spreads_pittsburgh_pirates_odds":null,
     "h2h_atlanta_braves_line":null,
     "h2h_atlanta_braves_odds":null,
     "h2h_philadelphia_phillies_line":null,
     "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
+    "h2h_miami_marlins_line":null,
+    "h2h_miami_marlins_odds":null,
+    "h2h_san_diego_padres_line":null,
+    "h2h_san_diego_padres_odds":null,
+    "spreads_miami_marlins_line":null,
+    "spreads_miami_marlins_odds":null,
+    "spreads_san_diego_padres_line":null,
+    "spreads_san_diego_padres_odds":null,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
-    "pitcher_props":[
-      {
-        "player":"Jack Kochanowicz",
-        "market":"pitcher_strikeouts",
-        "line":3.5,
-        "odds":-115
-      },
-      {
-        "player":"Jack Kochanowicz",
-        "market":"pitcher_strikeouts",
-        "line":3.5,
-        "odds":-112
-      },
-      {
-        "player":"Ryan Yarbrough",
-        "market":"pitcher_strikeouts",
-        "line":3.5,
-        "odds":-143
-      },
-      {
-        "player":"Ryan Yarbrough",
-        "market":"pitcher_strikeouts",
-        "line":3.5,
-        "odds":110
-      }
-    ],
-    "batter_props":[
-      {
-        "player":"Luis Rengifo",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":260
-      },
-      {
-        "player":"Luis Rengifo",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1000
-      },
-      {
-        "player":"Luis Rengifo",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-185
-      },
-      {
-        "player":"DJ LeMahieu",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-204
-      },
-      {
-        "player":"DJ LeMahieu",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":250
-      },
-      {
-        "player":"DJ LeMahieu",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":950
-      },
-      {
-        "player":"Aaron Judge",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-333
-      },
-      {
-        "player":"Aaron Judge",
-        "market":"batter_hits",
-        "line":3.5,
-        "odds":1750
-      },
-      {
-        "player":"Aaron Judge",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":178
-      },
-      {
-        "player":"Aaron Judge",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":525
-      },
-      {
-        "player":"Taylor Ward",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-233
-      },
-      {
-        "player":"Taylor Ward",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":700
-      },
-      {
-        "player":"Taylor Ward",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":196
-      },
-      {
-        "player":"Anthony Volpe",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":240
-      },
-      {
-        "player":"Anthony Volpe",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":950
-      },
-      {
-        "player":"Anthony Volpe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-217
-      },
-      {
-        "player":"Nolan Schanuel",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":280
-      },
-      {
-        "player":"Nolan Schanuel",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-167
-      },
-      {
-        "player":"Nolan Schanuel",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Jo Adell",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-147
-      },
-      {
-        "player":"Jo Adell",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1150
-      },
-      {
-        "player":"Jo Adell",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":310
-      },
-      {
-        "player":"Zach Neto",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":199
-      },
-      {
-        "player":"Zach Neto",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":550
-      },
-      {
-        "player":"Zach Neto",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-303
-      },
-      {
-        "player":"Zach Neto",
-        "market":"batter_hits",
-        "line":3.5,
-        "odds":1750
-      },
-      {
-        "player":"Jasson Dom\u00ednguez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":189
-      },
-      {
-        "player":"Jasson Dom\u00ednguez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":675
-      },
-      {
-        "player":"Jasson Dom\u00ednguez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-244
-      },
-      {
-        "player":"Austin Wells",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":200
-      },
-      {
-        "player":"Austin Wells",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":725
-      },
-      {
-        "player":"Austin Wells",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-222
-      },
-      {
-        "player":"Logan O'Hoppe",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":230
-      },
-      {
-        "player":"Logan O'Hoppe",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":800
-      },
-      {
-        "player":"Logan O'Hoppe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-182
-      },
-      {
-        "player":"Jorbit Vivas",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":2000
-      },
-      {
-        "player":"Jorbit Vivas",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-120
-      },
-      {
-        "player":"Jorbit Vivas",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":500
-      },
-      {
-        "player":"Jorge Soler",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Jorge Soler",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-167
-      },
-      {
-        "player":"Jorge Soler",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":280
-      },
-      {
-        "player":"Trent Grisham",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":725
-      },
-      {
-        "player":"Trent Grisham",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":200
-      },
-      {
-        "player":"Trent Grisham",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-222
-      },
-      {
-        "player":"Matthew Lugo",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":310
-      },
-      {
-        "player":"Matthew Lugo",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1200
-      },
-      {
-        "player":"Matthew Lugo",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-141
-      },
-      {
-        "player":"Paul Goldschmidt",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":550
-      },
-      {
-        "player":"Paul Goldschmidt",
-        "market":"batter_hits",
-        "line":3.5,
-        "odds":1750
-      },
-      {
-        "player":"Paul Goldschmidt",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-312
-      },
-      {
-        "player":"Paul Goldschmidt",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":195
-      },
-      {
-        "player":"Yoan Moncada",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-172
-      },
-      {
-        "player":"Yoan Moncada",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Yoan Moncada",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":270
-      },
-      {
-        "player":"Cody Bellinger",
-        "market":"batter_hits",
-        "line":3.5,
-        "odds":1750
-      },
-      {
-        "player":"Cody Bellinger",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":190
-      },
-      {
-        "player":"Cody Bellinger",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-323
-      },
-      {
-        "player":"Cody Bellinger",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":550
-      },
-      {
-        "player":"Taylor Ward",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-233
-      },
-      {
-        "player":"Taylor Ward",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":176
-      },
-      {
-        "player":"Aaron Judge",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":178
-      },
-      {
-        "player":"Aaron Judge",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":-238
-      },
-      {
-        "player":"DJ LeMahieu",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-204
-      },
-      {
-        "player":"DJ LeMahieu",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":155
-      },
-      {
-        "player":"Luis Rengifo",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-185
-      },
-      {
-        "player":"Luis Rengifo",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":140
-      },
-      {
-        "player":"Jo Adell",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-147
-      },
-      {
-        "player":"Jo Adell",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":113
-      },
-      {
-        "player":"Nolan Schanuel",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-167
-      },
-      {
-        "player":"Nolan Schanuel",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":128
-      },
-      {
-        "player":"Austin Wells",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-222
-      },
-      {
-        "player":"Austin Wells",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":168
-      },
-      {
-        "player":"Logan O'Hoppe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-182
-      },
-      {
-        "player":"Logan O'Hoppe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":138
-      },
-      {
-        "player":"Anthony Volpe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-217
-      },
-      {
-        "player":"Anthony Volpe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":163
-      },
-      {
-        "player":"Jasson Dom\u00ednguez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-244
-      },
-      {
-        "player":"Jasson Dom\u00ednguez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":183
-      },
-      {
-        "player":"Matthew Lugo",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-141
-      },
-      {
-        "player":"Matthew Lugo",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":108
-      },
-      {
-        "player":"Paul Goldschmidt",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":195
-      },
-      {
-        "player":"Paul Goldschmidt",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":-263
-      },
-      {
-        "player":"Cody Bellinger",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":190
-      },
-      {
-        "player":"Cody Bellinger",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":-256
-      },
-      {
-        "player":"Yoan Moncada",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-172
-      },
-      {
-        "player":"Yoan Moncada",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":133
-      },
-      {
-        "player":"Jorbit Vivas",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-120
-      },
-      {
-        "player":"Jorbit Vivas",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-108
-      },
-      {
-        "player":"Trent Grisham",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-222
-      },
-      {
-        "player":"Trent Grisham",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":166
-      },
-      {
-        "player":"Jorge Soler",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-167
-      },
-      {
-        "player":"Jorge Soler",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":127
-      },
-      {
-        "player":"Zach Neto",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":199
-      },
-      {
-        "player":"Zach Neto",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":-270
-      },
-      {
-        "player":"Aaron Judge",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":150
-      },
-      {
-        "player":"Aaron Judge",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":1100
-      },
-      {
-        "player":"Taylor Ward",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2400
-      },
-      {
-        "player":"Taylor Ward",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":400
-      },
-      {
-        "player":"DJ LeMahieu",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"DJ LeMahieu",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Luis Rengifo",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Luis Rengifo",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Anthony Volpe",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4400
-      },
-      {
-        "player":"Anthony Volpe",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":700
-      },
-      {
-        "player":"Jo Adell",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Jo Adell",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Nolan Schanuel",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Nolan Schanuel",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Austin Wells",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2400
-      },
-      {
-        "player":"Austin Wells",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":400
-      },
-      {
-        "player":"Jasson Dom\u00ednguez",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":400
-      },
-      {
-        "player":"Jasson Dom\u00ednguez",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2400
-      },
-      {
-        "player":"Zach Neto",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":400
-      },
-      {
-        "player":"Zach Neto",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2400
-      },
-      {
-        "player":"Logan O'Hoppe",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2400
-      },
-      {
-        "player":"Logan O'Hoppe",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":400
-      },
-      {
-        "player":"Yoan Moncada",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":600
-      },
-      {
-        "player":"Yoan Moncada",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3900
-      },
-      {
-        "player":"Jorge Soler",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":400
-      },
-      {
-        "player":"Jorge Soler",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2400
-      },
-      {
-        "player":"Cody Bellinger",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2400
-      },
-      {
-        "player":"Cody Bellinger",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":400
-      },
-      {
-        "player":"Jorbit Vivas",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Jorbit Vivas",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Paul Goldschmidt",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Paul Goldschmidt",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Matthew Lugo",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Matthew Lugo",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Trent Grisham",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":1900
-      },
-      {
-        "player":"Trent Grisham",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":300
-      }
-    ],
-    "game_date":1748304000000
-  },
-  {
-    "event_id":"3f6a919b9cd73679e73146a4caf463f5",
-    "home_team":"Baltimore Orioles",
-    "away_team":"St. Louis Cardinals",
-    "commence_time":1748385360000,
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
     "h2h_los_angeles_angels_line":null,
     "h2h_los_angeles_angels_odds":null,
     "h2h_new_york_yankees_line":null,
@@ -899,50 +120,75 @@
     "spreads_los_angeles_angels_odds":null,
     "spreads_new_york_yankees_line":null,
     "spreads_new_york_yankees_odds":null,
+    "pitcher_props":null,
+    "batter_props":null,
+    "game_date":1748304000000
+  },
+  {
+    "event_id":"3f6a919b9cd73679e73146a4caf463f5",
+    "home_team":"Baltimore Orioles",
+    "away_team":"St. Louis Cardinals",
+    "commence_time":1748385360000,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
     "totals_over_line":9.0,
-    "totals_over_odds":-105.0,
+    "totals_over_odds":-105,
     "totals_under_line":9.0,
-    "totals_under_odds":-115.0,
+    "totals_under_odds":-115,
     "h2h_baltimore_orioles_line":null,
-    "h2h_baltimore_orioles_odds":-115.0,
+    "h2h_baltimore_orioles_odds":-103.0,
     "h2h_st._louis_cardinals_line":null,
-    "h2h_st._louis_cardinals_odds":104.0,
+    "h2h_st._louis_cardinals_odds":-107.0,
+    "spreads_baltimore_orioles_line":1.5,
+    "spreads_baltimore_orioles_odds":-168.0,
+    "spreads_st._louis_cardinals_line":-1.5,
+    "spreads_st._louis_cardinals_odds":148.0,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":null,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":null,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":null,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":null,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_oakland_athletics_line":null,
     "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -951,18 +197,54 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
+    "h2h_arizona_diamondbacks_line":null,
+    "h2h_arizona_diamondbacks_odds":null,
+    "h2h_pittsburgh_pirates_line":null,
+    "h2h_pittsburgh_pirates_odds":null,
+    "spreads_arizona_diamondbacks_line":null,
+    "spreads_arizona_diamondbacks_odds":null,
+    "spreads_pittsburgh_pirates_line":null,
+    "spreads_pittsburgh_pirates_odds":null,
     "h2h_atlanta_braves_line":null,
     "h2h_atlanta_braves_odds":null,
     "h2h_philadelphia_phillies_line":null,
     "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
+    "h2h_miami_marlins_line":null,
+    "h2h_miami_marlins_odds":null,
+    "h2h_san_diego_padres_line":null,
+    "h2h_san_diego_padres_odds":null,
+    "spreads_miami_marlins_line":null,
+    "spreads_miami_marlins_odds":null,
+    "spreads_san_diego_padres_line":null,
+    "spreads_san_diego_padres_odds":null,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
     "pitcher_props":null,
     "batter_props":null,
     "game_date":1748304000000
@@ -972,58 +254,66 @@
     "home_team":"Texas Rangers",
     "away_team":"Toronto Blue Jays",
     "commence_time":1748390760000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
-    "totals_over_line":7.5,
-    "totals_over_odds":-128.0,
-    "totals_under_line":7.5,
-    "totals_under_odds":108.0,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
+    "totals_over_line":8.0,
+    "totals_over_odds":-105,
+    "totals_under_line":8.0,
+    "totals_under_odds":-115,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
-    "h2h_texas_rangers_odds":-155.0,
+    "h2h_texas_rangers_odds":-154.0,
     "h2h_toronto_blue_jays_line":null,
-    "h2h_toronto_blue_jays_odds":140.0,
+    "h2h_toronto_blue_jays_odds":139.0,
+    "spreads_texas_rangers_line":-1.5,
+    "spreads_texas_rangers_odds":132.0,
+    "spreads_toronto_blue_jays_line":1.5,
+    "spreads_toronto_blue_jays_odds":-152.0,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":null,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":null,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":null,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":null,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_oakland_athletics_line":null,
     "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -1032,18 +322,54 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
+    "h2h_arizona_diamondbacks_line":null,
+    "h2h_arizona_diamondbacks_odds":null,
+    "h2h_pittsburgh_pirates_line":null,
+    "h2h_pittsburgh_pirates_odds":null,
+    "spreads_arizona_diamondbacks_line":null,
+    "spreads_arizona_diamondbacks_odds":null,
+    "spreads_pittsburgh_pirates_line":null,
+    "spreads_pittsburgh_pirates_odds":null,
     "h2h_atlanta_braves_line":null,
     "h2h_atlanta_braves_odds":null,
     "h2h_philadelphia_phillies_line":null,
     "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
+    "h2h_miami_marlins_line":null,
+    "h2h_miami_marlins_odds":null,
+    "h2h_san_diego_padres_line":null,
+    "h2h_san_diego_padres_odds":null,
+    "spreads_miami_marlins_line":null,
+    "spreads_miami_marlins_odds":null,
+    "spreads_san_diego_padres_line":null,
+    "spreads_san_diego_padres_odds":null,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
     "pitcher_props":null,
     "batter_props":null,
     "game_date":1748390400000
@@ -1053,58 +379,66 @@
     "home_team":"New York Mets",
     "away_team":"Chicago White Sox",
     "commence_time":1748387460000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
-    "totals_over_line":8.0,
-    "totals_over_odds":-105.0,
-    "totals_under_line":8.0,
-    "totals_under_odds":-115.0,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
+    "totals_over_line":7.5,
+    "totals_over_odds":-110,
+    "totals_under_line":7.5,
+    "totals_under_odds":-110,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":227.0,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":-255.0,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":null,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":null,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":null,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":null,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":1.5,
+    "spreads_chicago_white_sox_odds":100.0,
+    "spreads_new_york_mets_line":-1.5,
+    "spreads_new_york_mets_odds":-120.0,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_oakland_athletics_line":null,
     "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -1113,79 +447,123 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
+    "h2h_arizona_diamondbacks_line":null,
+    "h2h_arizona_diamondbacks_odds":null,
+    "h2h_pittsburgh_pirates_line":null,
+    "h2h_pittsburgh_pirates_odds":null,
+    "spreads_arizona_diamondbacks_line":null,
+    "spreads_arizona_diamondbacks_odds":null,
+    "spreads_pittsburgh_pirates_line":null,
+    "spreads_pittsburgh_pirates_odds":null,
     "h2h_atlanta_braves_line":null,
     "h2h_atlanta_braves_odds":null,
     "h2h_philadelphia_phillies_line":null,
     "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
+    "h2h_miami_marlins_line":null,
+    "h2h_miami_marlins_odds":null,
+    "h2h_san_diego_padres_line":null,
+    "h2h_san_diego_padres_odds":null,
+    "spreads_miami_marlins_line":null,
+    "spreads_miami_marlins_odds":null,
+    "spreads_san_diego_padres_line":null,
+    "spreads_san_diego_padres_odds":null,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
     "pitcher_props":null,
     "batter_props":null,
     "game_date":1748304000000
   },
   {
-    "event_id":"536e18402bcbba92126ba1c9ce970b3f",
-    "home_team":"Arizona Diamondbacks",
-    "away_team":"Pittsburgh Pirates",
-    "commence_time":1748304660000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
-    "totals_over_line":9.0,
-    "totals_over_odds":-128.0,
-    "totals_under_line":9.0,
-    "totals_under_odds":108.0,
+    "event_id":"5a1ff0a09ad0f20acbf93ad43d9da610",
+    "home_team":"Seattle Mariners",
+    "away_team":"Washington Nationals",
+    "commence_time":1748396460000,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
+    "totals_over_line":8.0,
+    "totals_over_odds":-110,
+    "totals_under_line":8.0,
+    "totals_under_odds":-110,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":-184.0,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":166.0,
-    "spreads_arizona_diamondbacks_line":-1.5,
-    "spreads_arizona_diamondbacks_odds":103.0,
-    "spreads_pittsburgh_pirates_line":1.5,
-    "spreads_pittsburgh_pirates_odds":-123.0,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":null,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":null,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":-152.0,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":138.0,
+    "spreads_seattle_mariners_line":-1.5,
+    "spreads_seattle_mariners_odds":135.0,
+    "spreads_washington_nationals_line":1.5,
+    "spreads_washington_nationals_odds":-155.0,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_oakland_athletics_line":null,
     "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -1194,659 +572,6 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
-    "h2h_atlanta_braves_line":null,
-    "h2h_atlanta_braves_odds":null,
-    "h2h_philadelphia_phillies_line":null,
-    "h2h_philadelphia_phillies_odds":null,
-    "h2h_chicago_cubs_line":null,
-    "h2h_chicago_cubs_odds":null,
-    "h2h_colorado_rockies_line":null,
-    "h2h_colorado_rockies_odds":null,
-    "pitcher_props":[
-      {
-        "player":"Ryne Nelson",
-        "market":"pitcher_strikeouts",
-        "line":4.5,
-        "odds":100
-      },
-      {
-        "player":"Ryne Nelson",
-        "market":"pitcher_strikeouts",
-        "line":4.5,
-        "odds":-130
-      },
-      {
-        "player":"Andrew Heaney",
-        "market":"pitcher_strikeouts",
-        "line":3.5,
-        "odds":-127
-      },
-      {
-        "player":"Andrew Heaney",
-        "market":"pitcher_strikeouts",
-        "line":3.5,
-        "odds":-102
-      }
-    ],
-    "batter_props":[
-      {
-        "player":"Oneil Cruz",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":675
-      },
-      {
-        "player":"Oneil Cruz",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-250
-      },
-      {
-        "player":"Oneil Cruz",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":186
-      },
-      {
-        "player":"Ketel Marte",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":149
-      },
-      {
-        "player":"Ketel Marte",
-        "market":"batter_hits",
-        "line":3.5,
-        "odds":1700
-      },
-      {
-        "player":"Ketel Marte",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-385
-      },
-      {
-        "player":"Ketel Marte",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":500
-      },
-      {
-        "player":"Ke'Bryan Hayes",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":260
-      },
-      {
-        "player":"Ke'Bryan Hayes",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1000
-      },
-      {
-        "player":"Ke'Bryan Hayes",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-179
-      },
-      {
-        "player":"Bryan Reynolds",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-213
-      },
-      {
-        "player":"Bryan Reynolds",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":950
-      },
-      {
-        "player":"Bryan Reynolds",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":240
-      },
-      {
-        "player":"Andrew McCutchen",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-208
-      },
-      {
-        "player":"Andrew McCutchen",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":240
-      },
-      {
-        "player":"Andrew McCutchen",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":950
-      },
-      {
-        "player":"Adam Frazier",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-179
-      },
-      {
-        "player":"Adam Frazier",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Adam Frazier",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":270
-      },
-      {
-        "player":"Geraldo Perdomo",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-182
-      },
-      {
-        "player":"Geraldo Perdomo",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":270
-      },
-      {
-        "player":"Geraldo Perdomo",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Jordan Lawlar",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-169
-      },
-      {
-        "player":"Jordan Lawlar",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":280
-      },
-      {
-        "player":"Jordan Lawlar",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Gabriel Moreno",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-227
-      },
-      {
-        "player":"Gabriel Moreno",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":197
-      },
-      {
-        "player":"Gabriel Moreno",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":700
-      },
-      {
-        "player":"Corbin Carroll",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-250
-      },
-      {
-        "player":"Corbin Carroll",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":185
-      },
-      {
-        "player":"Corbin Carroll",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":675
-      },
-      {
-        "player":"Randal Grichuk",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":230
-      },
-      {
-        "player":"Randal Grichuk",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-222
-      },
-      {
-        "player":"Randal Grichuk",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":900
-      },
-      {
-        "player":"Lourdes Gurriel Jr.",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-345
-      },
-      {
-        "player":"Lourdes Gurriel Jr.",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":174
-      },
-      {
-        "player":"Lourdes Gurriel Jr.",
-        "market":"batter_hits",
-        "line":3.5,
-        "odds":1750
-      },
-      {
-        "player":"Lourdes Gurriel Jr.",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":525
-      },
-      {
-        "player":"Eugenio Suarez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":220
-      },
-      {
-        "player":"Eugenio Suarez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-192
-      },
-      {
-        "player":"Eugenio Suarez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":775
-      },
-      {
-        "player":"Spencer Horwitz",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1000
-      },
-      {
-        "player":"Spencer Horwitz",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-192
-      },
-      {
-        "player":"Spencer Horwitz",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":250
-      },
-      {
-        "player":"Alexander Canario",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-172
-      },
-      {
-        "player":"Alexander Canario",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Alexander Canario",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":280
-      },
-      {
-        "player":"Joey Bart",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":270
-      },
-      {
-        "player":"Joey Bart",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Joey Bart",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-175
-      },
-      {
-        "player":"Isiah Kiner-Falefa",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-192
-      },
-      {
-        "player":"Isiah Kiner-Falefa",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":260
-      },
-      {
-        "player":"Isiah Kiner-Falefa",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1000
-      },
-      {
-        "player":"Josh Naylor",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":950
-      },
-      {
-        "player":"Josh Naylor",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":240
-      },
-      {
-        "player":"Josh Naylor",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-208
-      },
-      {
-        "player":"Tim Tawa",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":280
-      },
-      {
-        "player":"Tim Tawa",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Tim Tawa",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-172
-      },
-      {
-        "player":"Bryan Reynolds",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3900
-      },
-      {
-        "player":"Bryan Reynolds",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":600
-      },
-      {
-        "player":"Geraldo Perdomo",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Geraldo Perdomo",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Ketel Marte",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":1400
-      },
-      {
-        "player":"Ketel Marte",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":225
-      },
-      {
-        "player":"Andrew McCutchen",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2900
-      },
-      {
-        "player":"Andrew McCutchen",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":450
-      },
-      {
-        "player":"Adam Frazier",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Adam Frazier",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Oneil Cruz",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":250
-      },
-      {
-        "player":"Oneil Cruz",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":1650
-      },
-      {
-        "player":"Ke'Bryan Hayes",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Ke'Bryan Hayes",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Jordan Lawlar",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4400
-      },
-      {
-        "player":"Jordan Lawlar",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":700
-      },
-      {
-        "player":"Gabriel Moreno",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4400
-      },
-      {
-        "player":"Gabriel Moreno",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":700
-      },
-      {
-        "player":"Corbin Carroll",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2900
-      },
-      {
-        "player":"Corbin Carroll",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":450
-      },
-      {
-        "player":"Eugenio Suarez",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2150
-      },
-      {
-        "player":"Eugenio Suarez",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":350
-      },
-      {
-        "player":"Lourdes Gurriel Jr.",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":400
-      },
-      {
-        "player":"Lourdes Gurriel Jr.",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2400
-      },
-      {
-        "player":"Randal Grichuk",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":400
-      },
-      {
-        "player":"Randal Grichuk",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2400
-      },
-      {
-        "player":"Josh Naylor",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3900
-      },
-      {
-        "player":"Josh Naylor",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":600
-      },
-      {
-        "player":"Alexander Canario",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3900
-      },
-      {
-        "player":"Alexander Canario",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":600
-      },
-      {
-        "player":"Spencer Horwitz",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3900
-      },
-      {
-        "player":"Spencer Horwitz",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":600
-      },
-      {
-        "player":"Isiah Kiner-Falefa",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Isiah Kiner-Falefa",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Joey Bart",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Joey Bart",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Tim Tawa",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2900
-      },
-      {
-        "player":"Tim Tawa",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":450
-      }
-    ],
-    "game_date":1748304000000
-  },
-  {
-    "event_id":"69525031512e80bbf5273e3c889fb509",
-    "home_team":"Tampa Bay Rays",
-    "away_team":"Minnesota Twins",
-    "commence_time":1748300760000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
-    "totals_over_line":9.0,
-    "totals_over_odds":-113.0,
-    "totals_under_line":9.0,
-    "totals_under_odds":-107.0,
-    "h2h_baltimore_orioles_line":null,
-    "h2h_baltimore_orioles_odds":null,
-    "h2h_st._louis_cardinals_line":null,
-    "h2h_st._louis_cardinals_odds":null,
-    "h2h_texas_rangers_line":null,
-    "h2h_texas_rangers_odds":null,
-    "h2h_toronto_blue_jays_line":null,
-    "h2h_toronto_blue_jays_odds":null,
-    "h2h_chicago_white_sox_line":null,
-    "h2h_chicago_white_sox_odds":null,
-    "h2h_new_york_mets_line":null,
-    "h2h_new_york_mets_odds":null,
     "h2h_arizona_diamondbacks_line":null,
     "h2h_arizona_diamondbacks_odds":null,
     "h2h_pittsburgh_pirates_line":null,
@@ -1855,14 +580,14 @@
     "spreads_arizona_diamondbacks_odds":null,
     "spreads_pittsburgh_pirates_line":null,
     "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":102.0,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":-112.0,
-    "spreads_minnesota_twins_line":1.5,
-    "spreads_minnesota_twins_odds":-200.0,
-    "spreads_tampa_bay_rays_line":-1.5,
-    "spreads_tampa_bay_rays_odds":174.0,
+    "h2h_atlanta_braves_line":null,
+    "h2h_atlanta_braves_odds":null,
+    "h2h_philadelphia_phillies_line":null,
+    "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
     "h2h_miami_marlins_line":null,
     "h2h_miami_marlins_odds":null,
     "h2h_san_diego_padres_line":null,
@@ -1871,949 +596,6 @@
     "spreads_miami_marlins_odds":null,
     "spreads_san_diego_padres_line":null,
     "spreads_san_diego_padres_odds":null,
-    "h2h_houston_astros_line":null,
-    "h2h_houston_astros_odds":null,
-    "h2h_oakland_athletics_line":null,
-    "h2h_oakland_athletics_odds":null,
-    "h2h_cleveland_guardians_line":null,
-    "h2h_cleveland_guardians_odds":null,
-    "h2h_los_angeles_dodgers_line":null,
-    "h2h_los_angeles_dodgers_odds":null,
-    "spreads_cleveland_guardians_line":null,
-    "spreads_cleveland_guardians_odds":null,
-    "spreads_los_angeles_dodgers_line":null,
-    "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
-    "h2h_atlanta_braves_line":null,
-    "h2h_atlanta_braves_odds":null,
-    "h2h_philadelphia_phillies_line":null,
-    "h2h_philadelphia_phillies_odds":null,
-    "h2h_chicago_cubs_line":null,
-    "h2h_chicago_cubs_odds":null,
-    "h2h_colorado_rockies_line":null,
-    "h2h_colorado_rockies_odds":null,
-    "pitcher_props":[
-      {
-        "player":"Zack Littell",
-        "market":"pitcher_strikeouts",
-        "line":4.5,
-        "odds":124
-      },
-      {
-        "player":"Zack Littell",
-        "market":"pitcher_strikeouts",
-        "line":4.5,
-        "odds":-161
-      },
-      {
-        "player":"Chris Paddack",
-        "market":"pitcher_strikeouts",
-        "line":3.5,
-        "odds":-125
-      },
-      {
-        "player":"Chris Paddack",
-        "market":"pitcher_strikeouts",
-        "line":3.5,
-        "odds":-103
-      }
-    ],
-    "batter_props":[
-      {
-        "player":"Taylor Walls",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-130
-      },
-      {
-        "player":"Taylor Walls",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1200
-      },
-      {
-        "player":"Taylor Walls",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":330
-      },
-      {
-        "player":"Yandy Diaz",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":575
-      },
-      {
-        "player":"Yandy Diaz",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":169
-      },
-      {
-        "player":"Yandy Diaz",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-270
-      },
-      {
-        "player":"Josh Lowe",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":167
-      },
-      {
-        "player":"Josh Lowe",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":550
-      },
-      {
-        "player":"Josh Lowe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-278
-      },
-      {
-        "player":"Brandon Lowe",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":230
-      },
-      {
-        "player":"Brandon Lowe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-217
-      },
-      {
-        "player":"Brandon Lowe",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":900
-      },
-      {
-        "player":"Ryan Jeffers",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-270
-      },
-      {
-        "player":"Ryan Jeffers",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":575
-      },
-      {
-        "player":"Ryan Jeffers",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":169
-      },
-      {
-        "player":"Trevor Larnach",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":174
-      },
-      {
-        "player":"Trevor Larnach",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":575
-      },
-      {
-        "player":"Trevor Larnach",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-256
-      },
-      {
-        "player":"Royce Lewis",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-213
-      },
-      {
-        "player":"Royce Lewis",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":210
-      },
-      {
-        "player":"Royce Lewis",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":725
-      },
-      {
-        "player":"Carlos Correa",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-333
-      },
-      {
-        "player":"Carlos Correa",
-        "market":"batter_hits",
-        "line":3.5,
-        "odds":1750
-      },
-      {
-        "player":"Carlos Correa",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":525
-      },
-      {
-        "player":"Carlos Correa",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":182
-      },
-      {
-        "player":"Jonathan Aranda",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":189
-      },
-      {
-        "player":"Jonathan Aranda",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":675
-      },
-      {
-        "player":"Jonathan Aranda",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-244
-      },
-      {
-        "player":"Willi Castro",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1000
-      },
-      {
-        "player":"Willi Castro",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-196
-      },
-      {
-        "player":"Willi Castro",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":250
-      },
-      {
-        "player":"Chandler Simpson",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-556
-      },
-      {
-        "player":"Chandler Simpson",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":400
-      },
-      {
-        "player":"Chandler Simpson",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":158
-      },
-      {
-        "player":"Chandler Simpson",
-        "market":"batter_hits",
-        "line":3.5,
-        "odds":1150
-      },
-      {
-        "player":"Danny Jansen",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1150
-      },
-      {
-        "player":"Danny Jansen",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-145
-      },
-      {
-        "player":"Danny Jansen",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":310
-      },
-      {
-        "player":"Ty France",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":650
-      },
-      {
-        "player":"Ty France",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":185
-      },
-      {
-        "player":"Ty France",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-250
-      },
-      {
-        "player":"Kameron Misner",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":290
-      },
-      {
-        "player":"Kameron Misner",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1150
-      },
-      {
-        "player":"Kameron Misner",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-156
-      },
-      {
-        "player":"Junior Caminero",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-263
-      },
-      {
-        "player":"Junior Caminero",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":180
-      },
-      {
-        "player":"Junior Caminero",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":650
-      },
-      {
-        "player":"Kody Clemens",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-204
-      },
-      {
-        "player":"Kody Clemens",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":240
-      },
-      {
-        "player":"Kody Clemens",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":950
-      },
-      {
-        "player":"Christian Vazquez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":270
-      },
-      {
-        "player":"Christian Vazquez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Christian Vazquez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-175
-      },
-      {
-        "player":"Christopher Morel",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1300
-      },
-      {
-        "player":"Christopher Morel",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":340
-      },
-      {
-        "player":"Christopher Morel",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-123
-      },
-      {
-        "player":"Curtis Mead",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Curtis Mead",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-172
-      },
-      {
-        "player":"Curtis Mead",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":270
-      },
-      {
-        "player":"Jose Caballero",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1100
-      },
-      {
-        "player":"Jose Caballero",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":290
-      },
-      {
-        "player":"Jose Caballero",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-156
-      },
-      {
-        "player":"Brandon Lowe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-217
-      },
-      {
-        "player":"Brandon Lowe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":165
-      },
-      {
-        "player":"Josh Lowe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-278
-      },
-      {
-        "player":"Josh Lowe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":205
-      },
-      {
-        "player":"Taylor Walls",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-130
-      },
-      {
-        "player":"Taylor Walls",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":100
-      },
-      {
-        "player":"Ryan Jeffers",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-270
-      },
-      {
-        "player":"Ryan Jeffers",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":197
-      },
-      {
-        "player":"Willi Castro",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-196
-      },
-      {
-        "player":"Willi Castro",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":148
-      },
-      {
-        "player":"Jonathan Aranda",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-244
-      },
-      {
-        "player":"Jonathan Aranda",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":183
-      },
-      {
-        "player":"Carlos Correa",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":182
-      },
-      {
-        "player":"Carlos Correa",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":-244
-      },
-      {
-        "player":"Royce Lewis",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-213
-      },
-      {
-        "player":"Royce Lewis",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":160
-      },
-      {
-        "player":"Kameron Misner",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-156
-      },
-      {
-        "player":"Kameron Misner",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":121
-      },
-      {
-        "player":"Danny Jansen",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-145
-      },
-      {
-        "player":"Danny Jansen",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":111
-      },
-      {
-        "player":"Junior Caminero",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-263
-      },
-      {
-        "player":"Junior Caminero",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":195
-      },
-      {
-        "player":"Ty France",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-250
-      },
-      {
-        "player":"Ty France",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":188
-      },
-      {
-        "player":"Kody Clemens",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-204
-      },
-      {
-        "player":"Kody Clemens",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":156
-      },
-      {
-        "player":"Christian Vazquez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-175
-      },
-      {
-        "player":"Christian Vazquez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":135
-      },
-      {
-        "player":"Trevor Larnach",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-256
-      },
-      {
-        "player":"Trevor Larnach",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":191
-      },
-      {
-        "player":"Yandy Diaz",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-270
-      },
-      {
-        "player":"Yandy Diaz",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":200
-      },
-      {
-        "player":"Chandler Simpson",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":158
-      },
-      {
-        "player":"Chandler Simpson",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":-208
-      },
-      {
-        "player":"Jose Caballero",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-156
-      },
-      {
-        "player":"Jose Caballero",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":121
-      },
-      {
-        "player":"Christopher Morel",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-123
-      },
-      {
-        "player":"Christopher Morel",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-105
-      },
-      {
-        "player":"Curtis Mead",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-172
-      },
-      {
-        "player":"Curtis Mead",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":131
-      },
-      {
-        "player":"Yandy Diaz",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Yandy Diaz",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Brandon Lowe",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2150
-      },
-      {
-        "player":"Brandon Lowe",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":350
-      },
-      {
-        "player":"Josh Lowe",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2400
-      },
-      {
-        "player":"Josh Lowe",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":400
-      },
-      {
-        "player":"Taylor Walls",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Taylor Walls",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Ryan Jeffers",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":1650
-      },
-      {
-        "player":"Ryan Jeffers",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":250
-      },
-      {
-        "player":"Trevor Larnach",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2150
-      },
-      {
-        "player":"Trevor Larnach",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":350
-      },
-      {
-        "player":"Jonathan Aranda",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":350
-      },
-      {
-        "player":"Jonathan Aranda",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2150
-      },
-      {
-        "player":"Royce Lewis",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2150
-      },
-      {
-        "player":"Royce Lewis",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":350
-      },
-      {
-        "player":"Carlos Correa",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Carlos Correa",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Willi Castro",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Willi Castro",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Kameron Misner",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Kameron Misner",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Junior Caminero",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2150
-      },
-      {
-        "player":"Junior Caminero",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":350
-      },
-      {
-        "player":"Chandler Simpson",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Chandler Simpson",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Danny Jansen",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Danny Jansen",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Ty France",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Ty France",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Kody Clemens",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":1650
-      },
-      {
-        "player":"Kody Clemens",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":250
-      },
-      {
-        "player":"Christian Vazquez",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Christian Vazquez",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Curtis Mead",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4400
-      },
-      {
-        "player":"Curtis Mead",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":700
-      },
-      {
-        "player":"Jose Caballero",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3900
-      },
-      {
-        "player":"Jose Caballero",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":600
-      },
-      {
-        "player":"Christopher Morel",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Christopher Morel",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      }
-    ],
-    "game_date":1748217600000
-  },
-  {
-    "event_id":"6d137e41d29c2bbfe70a8818300ba6e2",
-    "home_team":"San Diego Padres",
-    "away_team":"Miami Marlins",
-    "commence_time":1748306460000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
-    "totals_over_line":7.5,
-    "totals_over_odds":-118.0,
-    "totals_under_line":7.5,
-    "totals_under_odds":-102.0,
-    "h2h_baltimore_orioles_line":null,
-    "h2h_baltimore_orioles_odds":null,
-    "h2h_st._louis_cardinals_line":null,
-    "h2h_st._louis_cardinals_odds":null,
-    "h2h_texas_rangers_line":null,
-    "h2h_texas_rangers_odds":null,
-    "h2h_toronto_blue_jays_line":null,
-    "h2h_toronto_blue_jays_odds":null,
-    "h2h_chicago_white_sox_line":null,
-    "h2h_chicago_white_sox_odds":null,
-    "h2h_new_york_mets_line":null,
-    "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":null,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":null,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
     "h2h_minnesota_twins_line":null,
     "h2h_minnesota_twins_odds":null,
     "h2h_tampa_bay_rays_line":null,
@@ -2822,713 +604,91 @@
     "spreads_minnesota_twins_odds":null,
     "spreads_tampa_bay_rays_line":null,
     "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":135.0,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":-149.0,
-    "spreads_miami_marlins_line":1.5,
-    "spreads_miami_marlins_odds":-162.0,
-    "spreads_san_diego_padres_line":-1.5,
-    "spreads_san_diego_padres_odds":142.0,
-    "h2h_houston_astros_line":null,
-    "h2h_houston_astros_odds":null,
-    "h2h_oakland_athletics_line":null,
-    "h2h_oakland_athletics_odds":null,
-    "h2h_cleveland_guardians_line":null,
-    "h2h_cleveland_guardians_odds":null,
-    "h2h_los_angeles_dodgers_line":null,
-    "h2h_los_angeles_dodgers_odds":null,
-    "spreads_cleveland_guardians_line":null,
-    "spreads_cleveland_guardians_odds":null,
-    "spreads_los_angeles_dodgers_line":null,
-    "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
-    "h2h_atlanta_braves_line":null,
-    "h2h_atlanta_braves_odds":null,
-    "h2h_philadelphia_phillies_line":null,
-    "h2h_philadelphia_phillies_odds":null,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
-    "pitcher_props":[
-      {
-        "player":"Randy Vasquez",
-        "market":"pitcher_strikeouts",
-        "line":4.5,
-        "odds":161
-      },
-      {
-        "player":"Randy Vasquez",
-        "market":"pitcher_strikeouts",
-        "line":4.5,
-        "odds":-213
-      },
-      {
-        "player":"Ryan Weathers",
-        "market":"pitcher_strikeouts",
-        "line":4.5,
-        "odds":128
-      },
-      {
-        "player":"Ryan Weathers",
-        "market":"pitcher_strikeouts",
-        "line":4.5,
-        "odds":-167
-      }
-    ],
-    "batter_props":[
-      {
-        "player":"Fernando Tatis Jr.",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":182
-      },
-      {
-        "player":"Fernando Tatis Jr.",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-333
-      },
-      {
-        "player":"Fernando Tatis Jr.",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":525
-      },
-      {
-        "player":"Fernando Tatis Jr.",
-        "market":"batter_hits",
-        "line":3.5,
-        "odds":1750
-      },
-      {
-        "player":"Manny Machado",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-256
-      },
-      {
-        "player":"Manny Machado",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":182
-      },
-      {
-        "player":"Manny Machado",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":650
-      },
-      {
-        "player":"Jake Cronenworth",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1150
-      },
-      {
-        "player":"Jake Cronenworth",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-154
-      },
-      {
-        "player":"Jake Cronenworth",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":300
-      },
-      {
-        "player":"Jesus Sanchez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":700
-      },
-      {
-        "player":"Jesus Sanchez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-227
-      },
-      {
-        "player":"Jesus Sanchez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":198
-      },
-      {
-        "player":"Luis Campusano",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":300
-      },
-      {
-        "player":"Luis Campusano",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1100
-      },
-      {
-        "player":"Luis Campusano",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-152
-      },
-      {
-        "player":"Otto Lopez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-250
-      },
-      {
-        "player":"Otto Lopez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":186
-      },
-      {
-        "player":"Otto Lopez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":675
-      },
-      {
-        "player":"Jackson Merrill",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-323
-      },
-      {
-        "player":"Jackson Merrill",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":186
-      },
-      {
-        "player":"Jackson Merrill",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":550
-      },
-      {
-        "player":"Jackson Merrill",
-        "market":"batter_hits",
-        "line":3.5,
-        "odds":1750
-      },
-      {
-        "player":"Xander Bogaerts",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":240
-      },
-      {
-        "player":"Xander Bogaerts",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":950
-      },
-      {
-        "player":"Xander Bogaerts",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-204
-      },
-      {
-        "player":"Kyle Stowers",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":775
-      },
-      {
-        "player":"Kyle Stowers",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-192
-      },
-      {
-        "player":"Kyle Stowers",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":220
-      },
-      {
-        "player":"Luis Arraez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":174
-      },
-      {
-        "player":"Luis Arraez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":475
-      },
-      {
-        "player":"Luis Arraez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-294
-      },
-      {
-        "player":"Luis Arraez",
-        "market":"batter_hits",
-        "line":3.5,
-        "odds":1400
-      },
-      {
-        "player":"Connor Norby",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":270
-      },
-      {
-        "player":"Connor Norby",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Connor Norby",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-179
-      },
-      {
-        "player":"Agust\u00edn Ram\u00edrez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-227
-      },
-      {
-        "player":"Agust\u00edn Ram\u00edrez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":700
-      },
-      {
-        "player":"Agust\u00edn Ram\u00edrez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":198
-      },
-      {
-        "player":"Javier Sanoja",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-161
-      },
-      {
-        "player":"Javier Sanoja",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1100
-      },
-      {
-        "player":"Javier Sanoja",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":290
-      },
-      {
-        "player":"Derek Hill",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-135
-      },
-      {
-        "player":"Derek Hill",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":320
-      },
-      {
-        "player":"Derek Hill",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1200
-      },
-      {
-        "player":"Gavin Sheets",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-161
-      },
-      {
-        "player":"Gavin Sheets",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":900
-      },
-      {
-        "player":"Gavin Sheets",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":250
-      },
-      {
-        "player":"Matt Mervis",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":525
-      },
-      {
-        "player":"Matt Mervis",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-112
-      },
-      {
-        "player":"Matt Mervis",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":2100
-      },
-      {
-        "player":"Eric Wagaman",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-196
-      },
-      {
-        "player":"Eric Wagaman",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":250
-      },
-      {
-        "player":"Eric Wagaman",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":950
-      },
-      {
-        "player":"Martin Maldonado",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":2300
-      },
-      {
-        "player":"Martin Maldonado",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":600
-      },
-      {
-        "player":"Martin Maldonado",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":122
-      },
-      {
-        "player":"Jose Iglesias",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":250
-      },
-      {
-        "player":"Jose Iglesias",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-200
-      },
-      {
-        "player":"Jose Iglesias",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":950
-      },
-      {
-        "player":"Fernando Tatis Jr.",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":1900
-      },
-      {
-        "player":"Fernando Tatis Jr.",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":300
-      },
-      {
-        "player":"Manny Machado",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":350
-      },
-      {
-        "player":"Manny Machado",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2150
-      },
-      {
-        "player":"Jake Cronenworth",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Jake Cronenworth",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Jesus Sanchez",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Jesus Sanchez",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Luis Campusano",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Luis Campusano",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Otto Lopez",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Otto Lopez",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Jackson Merrill",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":600
-      },
-      {
-        "player":"Jackson Merrill",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3900
-      },
-      {
-        "player":"Xander Bogaerts",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4400
-      },
-      {
-        "player":"Xander Bogaerts",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":700
-      },
-      {
-        "player":"Kyle Stowers",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":450
-      },
-      {
-        "player":"Kyle Stowers",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2900
-      },
-      {
-        "player":"Luis Arraez",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Luis Arraez",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Connor Norby",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Connor Norby",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Javier Sanoja",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Javier Sanoja",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Derek Hill",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Derek Hill",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Agust\u00edn Ram\u00edrez",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Agust\u00edn Ram\u00edrez",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Gavin Sheets",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Gavin Sheets",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Eric Wagaman",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":600
-      },
-      {
-        "player":"Eric Wagaman",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3900
-      },
-      {
-        "player":"Matt Mervis",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Matt Mervis",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Martin Maldonado",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Martin Maldonado",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Jose Iglesias",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Jose Iglesias",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      }
-    ],
-    "game_date":1748304000000
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
+    "pitcher_props":null,
+    "batter_props":null,
+    "game_date":1748390400000
   },
   {
     "event_id":"7fad148aa6254f8346ddf4d38518eb20",
     "home_team":"Houston Astros",
     "away_team":"Oakland Athletics",
     "commence_time":1748391060000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
     "totals_over_line":7.5,
-    "totals_over_odds":-115.0,
+    "totals_over_odds":-115,
     "totals_under_line":7.5,
-    "totals_under_odds":-105.0,
+    "totals_under_odds":-105,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":null,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":null,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":null,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":null,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
     "h2h_houston_astros_line":null,
-    "h2h_houston_astros_odds":-195.0,
+    "h2h_houston_astros_odds":-200.0,
     "h2h_oakland_athletics_line":null,
-    "h2h_oakland_athletics_odds":175.0,
+    "h2h_oakland_athletics_odds":180.0,
+    "spreads_houston_astros_line":-1.5,
+    "spreads_houston_astros_odds":103.0,
+    "spreads_oakland_athletics_line":1.5,
+    "spreads_oakland_athletics_odds":-123.0,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -3537,51 +697,6 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
-    "h2h_atlanta_braves_line":null,
-    "h2h_atlanta_braves_odds":null,
-    "h2h_philadelphia_phillies_line":null,
-    "h2h_philadelphia_phillies_odds":null,
-    "h2h_chicago_cubs_line":null,
-    "h2h_chicago_cubs_odds":null,
-    "h2h_colorado_rockies_line":null,
-    "h2h_colorado_rockies_odds":null,
-    "pitcher_props":null,
-    "batter_props":null,
-    "game_date":1748390400000
-  },
-  {
-    "event_id":"815186c63ab4ed0dc59e725ab0c80cd6",
-    "home_team":"Cleveland Guardians",
-    "away_team":"Los Angeles Dodgers",
-    "commence_time":1748297400000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
-    "totals_over_line":7.5,
-    "totals_over_odds":-103.0,
-    "totals_under_line":7.5,
-    "totals_under_odds":-117.0,
-    "h2h_baltimore_orioles_line":null,
-    "h2h_baltimore_orioles_odds":null,
-    "h2h_st._louis_cardinals_line":null,
-    "h2h_st._louis_cardinals_odds":null,
-    "h2h_texas_rangers_line":null,
-    "h2h_texas_rangers_odds":null,
-    "h2h_toronto_blue_jays_line":null,
-    "h2h_toronto_blue_jays_odds":null,
-    "h2h_chicago_white_sox_line":null,
-    "h2h_chicago_white_sox_odds":null,
-    "h2h_new_york_mets_line":null,
-    "h2h_new_york_mets_odds":null,
     "h2h_arizona_diamondbacks_line":null,
     "h2h_arizona_diamondbacks_odds":null,
     "h2h_pittsburgh_pirates_line":null,
@@ -3590,14 +705,14 @@
     "spreads_arizona_diamondbacks_odds":null,
     "spreads_pittsburgh_pirates_line":null,
     "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
+    "h2h_atlanta_braves_line":null,
+    "h2h_atlanta_braves_odds":null,
+    "h2h_philadelphia_phillies_line":null,
+    "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
     "h2h_miami_marlins_line":null,
     "h2h_miami_marlins_odds":null,
     "h2h_san_diego_padres_line":null,
@@ -3606,915 +721,99 @@
     "spreads_miami_marlins_odds":null,
     "spreads_san_diego_padres_line":null,
     "spreads_san_diego_padres_odds":null,
-    "h2h_houston_astros_line":null,
-    "h2h_houston_astros_odds":null,
-    "h2h_oakland_athletics_line":null,
-    "h2h_oakland_athletics_odds":null,
-    "h2h_cleveland_guardians_line":null,
-    "h2h_cleveland_guardians_odds":157.0,
-    "h2h_los_angeles_dodgers_line":null,
-    "h2h_los_angeles_dodgers_odds":-174.0,
-    "spreads_cleveland_guardians_line":1.5,
-    "spreads_cleveland_guardians_odds":-113.0,
-    "spreads_los_angeles_dodgers_line":-1.5,
-    "spreads_los_angeles_dodgers_odds":-107.0,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
-    "h2h_atlanta_braves_line":null,
-    "h2h_atlanta_braves_odds":null,
-    "h2h_philadelphia_phillies_line":null,
-    "h2h_philadelphia_phillies_odds":null,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
-    "pitcher_props":[
-      {
-        "player":"Yoshinobu Yamamoto",
-        "market":"pitcher_strikeouts",
-        "line":6.5,
-        "odds":-114
-      },
-      {
-        "player":"Yoshinobu Yamamoto",
-        "market":"pitcher_strikeouts",
-        "line":6.5,
-        "odds":-114
-      },
-      {
-        "player":"Gavin Williams",
-        "market":"pitcher_strikeouts",
-        "line":5.5,
-        "odds":-143
-      },
-      {
-        "player":"Gavin Williams",
-        "market":"pitcher_strikeouts",
-        "line":5.5,
-        "odds":110
-      }
-    ],
-    "batter_props":[
-      {
-        "player":"Jose Ramirez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-213
-      },
-      {
-        "player":"Jose Ramirez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":950
-      },
-      {
-        "player":"Jose Ramirez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":240
-      },
-      {
-        "player":"Max Muncy",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1250
-      },
-      {
-        "player":"Max Muncy",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":340
-      },
-      {
-        "player":"Max Muncy",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-128
-      },
-      {
-        "player":"Will Smith",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1000
-      },
-      {
-        "player":"Will Smith",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":260
-      },
-      {
-        "player":"Will Smith",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-185
-      },
-      {
-        "player":"Gabriel Arias",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":350
-      },
-      {
-        "player":"Gabriel Arias",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1300
-      },
-      {
-        "player":"Gabriel Arias",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-122
-      },
-      {
-        "player":"Freddie Freeman",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":650
-      },
-      {
-        "player":"Freddie Freeman",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-256
-      },
-      {
-        "player":"Freddie Freeman",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":183
-      },
-      {
-        "player":"Mookie Betts",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":725
-      },
-      {
-        "player":"Mookie Betts",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-227
-      },
-      {
-        "player":"Mookie Betts",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":199
-      },
-      {
-        "player":"Teoscar Hernandez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-204
-      },
-      {
-        "player":"Teoscar Hernandez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":210
-      },
-      {
-        "player":"Teoscar Hernandez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":775
-      },
-      {
-        "player":"Shohei Ohtani",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-238
-      },
-      {
-        "player":"Shohei Ohtani",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":171
-      },
-      {
-        "player":"Shohei Ohtani",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":550
-      },
-      {
-        "player":"Andy Pages",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-175
-      },
-      {
-        "player":"Andy Pages",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":750
-      },
-      {
-        "player":"Andy Pages",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":230
-      },
-      {
-        "player":"Bo Naylor",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-133
-      },
-      {
-        "player":"Bo Naylor",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1250
-      },
-      {
-        "player":"Bo Naylor",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":330
-      },
-      {
-        "player":"Steven Kwan",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":200
-      },
-      {
-        "player":"Steven Kwan",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":725
-      },
-      {
-        "player":"Steven Kwan",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-222
-      },
-      {
-        "player":"Kyle Manzardo",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":350
-      },
-      {
-        "player":"Kyle Manzardo",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1300
-      },
-      {
-        "player":"Kyle Manzardo",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-123
-      },
-      {
-        "player":"Tommy Edman",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-135
-      },
-      {
-        "player":"Tommy Edman",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":310
-      },
-      {
-        "player":"Tommy Edman",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1150
-      },
-      {
-        "player":"Daniel Schneemann",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":525
-      },
-      {
-        "player":"Daniel Schneemann",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":2100
-      },
-      {
-        "player":"Daniel Schneemann",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-109
-      },
-      {
-        "player":"Lane Thomas",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1100
-      },
-      {
-        "player":"Lane Thomas",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":310
-      },
-      {
-        "player":"Lane Thomas",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-141
-      },
-      {
-        "player":"Michael Conforto",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":425
-      },
-      {
-        "player":"Michael Conforto",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1700
-      },
-      {
-        "player":"Michael Conforto",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-110
-      },
-      {
-        "player":"Ha-Seong Kim",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-120
-      },
-      {
-        "player":"Ha-Seong Kim",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1050
-      },
-      {
-        "player":"Ha-Seong Kim",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":310
-      },
-      {
-        "player":"Angel Martinez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":320
-      },
-      {
-        "player":"Angel Martinez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1200
-      },
-      {
-        "player":"Angel Martinez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-135
-      },
-      {
-        "player":"Will Wilson",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":525
-      },
-      {
-        "player":"Will Wilson",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-106
-      },
-      {
-        "player":"Will Wilson",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":2100
-      },
-      {
-        "player":"Will Smith",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-185
-      },
-      {
-        "player":"Will Smith",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":141
-      },
-      {
-        "player":"Max Muncy",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-128
-      },
-      {
-        "player":"Max Muncy",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-101
-      },
-      {
-        "player":"Mookie Betts",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-227
-      },
-      {
-        "player":"Mookie Betts",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":169
-      },
-      {
-        "player":"Gabriel Arias",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-122
-      },
-      {
-        "player":"Gabriel Arias",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-106
-      },
-      {
-        "player":"Jose Ramirez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-213
-      },
-      {
-        "player":"Jose Ramirez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":161
-      },
-      {
-        "player":"Andy Pages",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-175
-      },
-      {
-        "player":"Andy Pages",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":135
-      },
-      {
-        "player":"Shohei Ohtani",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-238
-      },
-      {
-        "player":"Shohei Ohtani",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":178
-      },
-      {
-        "player":"Steven Kwan",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-222
-      },
-      {
-        "player":"Steven Kwan",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":168
-      },
-      {
-        "player":"Freddie Freeman",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-256
-      },
-      {
-        "player":"Freddie Freeman",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":191
-      },
-      {
-        "player":"Bo Naylor",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-133
-      },
-      {
-        "player":"Bo Naylor",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":103
-      },
-      {
-        "player":"Teoscar Hernandez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-204
-      },
-      {
-        "player":"Teoscar Hernandez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":155
-      },
-      {
-        "player":"Kyle Manzardo",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-123
-      },
-      {
-        "player":"Kyle Manzardo",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-105
-      },
-      {
-        "player":"Tommy Edman",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-135
-      },
-      {
-        "player":"Tommy Edman",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":105
-      },
-      {
-        "player":"Daniel Schneemann",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-109
-      },
-      {
-        "player":"Daniel Schneemann",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-119
-      },
-      {
-        "player":"Lane Thomas",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-141
-      },
-      {
-        "player":"Lane Thomas",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":108
-      },
-      {
-        "player":"Michael Conforto",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-110
-      },
-      {
-        "player":"Michael Conforto",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-118
-      },
-      {
-        "player":"Ha-Seong Kim",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-120
-      },
-      {
-        "player":"Ha-Seong Kim",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-108
-      },
-      {
-        "player":"Angel Martinez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-135
-      },
-      {
-        "player":"Angel Martinez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":105
-      },
-      {
-        "player":"Will Wilson",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-106
-      },
-      {
-        "player":"Will Wilson",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-122
-      },
-      {
-        "player":"Mookie Betts",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3900
-      },
-      {
-        "player":"Mookie Betts",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":600
-      },
-      {
-        "player":"Gabriel Arias",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Gabriel Arias",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Will Smith",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":600
-      },
-      {
-        "player":"Will Smith",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3900
-      },
-      {
-        "player":"Jose Ramirez",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3900
-      },
-      {
-        "player":"Jose Ramirez",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":600
-      },
-      {
-        "player":"Max Muncy",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":400
-      },
-      {
-        "player":"Max Muncy",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":2400
-      },
-      {
-        "player":"Freddie Freeman",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Freddie Freeman",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Andy Pages",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":600
-      },
-      {
-        "player":"Andy Pages",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3900
-      },
-      {
-        "player":"Teoscar Hernandez",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Teoscar Hernandez",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Steven Kwan",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Steven Kwan",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Shohei Ohtani",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":1200
-      },
-      {
-        "player":"Shohei Ohtani",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":200
-      },
-      {
-        "player":"Bo Naylor",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4400
-      },
-      {
-        "player":"Bo Naylor",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":700
-      },
-      {
-        "player":"Kyle Manzardo",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":500
-      },
-      {
-        "player":"Kyle Manzardo",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":3400
-      },
-      {
-        "player":"Lane Thomas",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":700
-      },
-      {
-        "player":"Lane Thomas",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4400
-      },
-      {
-        "player":"Tommy Edman",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Tommy Edman",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Daniel Schneemann",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Daniel Schneemann",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Michael Conforto",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":700
-      },
-      {
-        "player":"Michael Conforto",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4400
-      },
-      {
-        "player":"Ha-Seong Kim",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Ha-Seong Kim",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Angel Martinez",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      },
-      {
-        "player":"Angel Martinez",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Will Wilson",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Will Wilson",
-        "market":"batter_home_runs",
-        "line":1.5,
-        "odds":4900
-      }
-    ],
-    "game_date":1748217600000
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
+    "pitcher_props":null,
+    "batter_props":null,
+    "game_date":1748390400000
   },
   {
     "event_id":"8dfbcded6a673bb06bcc7875f85397de",
     "home_team":"Detroit Tigers",
     "away_team":"San Francisco Giants",
     "commence_time":1748385660000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
     "totals_over_line":7.0,
-    "totals_over_odds":-108.0,
+    "totals_over_odds":-115,
     "totals_under_line":7.0,
-    "totals_under_odds":-112.0,
+    "totals_under_odds":-105,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":null,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":null,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":null,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":null,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_oakland_athletics_line":null,
     "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":104.0,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":-115.0,
+    "spreads_detroit_tigers_line":1.5,
+    "spreads_detroit_tigers_odds":-165.0,
+    "spreads_san_francisco_giants_line":-1.5,
+    "spreads_san_francisco_giants_odds":145.0,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -4523,18 +822,54 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":108.0,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":-119.0,
+    "h2h_arizona_diamondbacks_line":null,
+    "h2h_arizona_diamondbacks_odds":null,
+    "h2h_pittsburgh_pirates_line":null,
+    "h2h_pittsburgh_pirates_odds":null,
+    "spreads_arizona_diamondbacks_line":null,
+    "spreads_arizona_diamondbacks_odds":null,
+    "spreads_pittsburgh_pirates_line":null,
+    "spreads_pittsburgh_pirates_odds":null,
     "h2h_atlanta_braves_line":null,
     "h2h_atlanta_braves_odds":null,
     "h2h_philadelphia_phillies_line":null,
     "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
+    "h2h_miami_marlins_line":null,
+    "h2h_miami_marlins_odds":null,
+    "h2h_san_diego_padres_line":null,
+    "h2h_san_diego_padres_odds":null,
+    "spreads_miami_marlins_line":null,
+    "spreads_miami_marlins_odds":null,
+    "spreads_san_diego_padres_line":null,
+    "spreads_san_diego_padres_odds":null,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
     "pitcher_props":null,
     "batter_props":null,
     "game_date":1748304000000
@@ -4544,30 +879,74 @@
     "home_team":"Cleveland Guardians",
     "away_team":"Los Angeles Dodgers",
     "commence_time":1748383860000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
     "totals_over_line":8.5,
-    "totals_over_odds":-108.0,
+    "totals_over_odds":-115,
     "totals_under_line":8.5,
-    "totals_under_odds":-112.0,
+    "totals_under_odds":-105,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
+    "h2h_houston_astros_line":null,
+    "h2h_houston_astros_odds":null,
+    "h2h_oakland_athletics_line":null,
+    "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
+    "h2h_cleveland_guardians_line":null,
+    "h2h_cleveland_guardians_odds":118.0,
+    "h2h_los_angeles_dodgers_line":null,
+    "h2h_los_angeles_dodgers_odds":-130.0,
+    "spreads_cleveland_guardians_line":1.5,
+    "spreads_cleveland_guardians_odds":-141.0,
+    "spreads_los_angeles_dodgers_line":-1.5,
+    "spreads_los_angeles_dodgers_odds":121.0,
     "h2h_arizona_diamondbacks_line":null,
     "h2h_arizona_diamondbacks_odds":null,
     "h2h_pittsburgh_pirates_line":null,
@@ -4576,14 +955,14 @@
     "spreads_arizona_diamondbacks_odds":null,
     "spreads_pittsburgh_pirates_line":null,
     "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
+    "h2h_atlanta_braves_line":null,
+    "h2h_atlanta_braves_odds":null,
+    "h2h_philadelphia_phillies_line":null,
+    "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
     "h2h_miami_marlins_line":null,
     "h2h_miami_marlins_odds":null,
     "h2h_san_diego_padres_line":null,
@@ -4592,30 +971,30 @@
     "spreads_miami_marlins_odds":null,
     "spreads_san_diego_padres_line":null,
     "spreads_san_diego_padres_odds":null,
-    "h2h_houston_astros_line":null,
-    "h2h_houston_astros_odds":null,
-    "h2h_oakland_athletics_line":null,
-    "h2h_oakland_athletics_odds":null,
-    "h2h_cleveland_guardians_line":null,
-    "h2h_cleveland_guardians_odds":118.0,
-    "h2h_los_angeles_dodgers_line":null,
-    "h2h_los_angeles_dodgers_odds":-130.0,
-    "spreads_cleveland_guardians_line":null,
-    "spreads_cleveland_guardians_odds":null,
-    "spreads_los_angeles_dodgers_line":null,
-    "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
-    "h2h_atlanta_braves_line":null,
-    "h2h_atlanta_braves_odds":null,
-    "h2h_philadelphia_phillies_line":null,
-    "h2h_philadelphia_phillies_odds":null,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
     "pitcher_props":null,
     "batter_props":null,
     "game_date":1748304000000
@@ -4625,58 +1004,66 @@
     "home_team":"Arizona Diamondbacks",
     "away_team":"Pittsburgh Pirates",
     "commence_time":1748396460000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
     "totals_over_line":9.0,
-    "totals_over_odds":-103.0,
+    "totals_over_odds":-103,
     "totals_under_line":9.0,
-    "totals_under_odds":-117.0,
+    "totals_under_odds":-117,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":-240.0,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":214.0,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":null,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":null,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_oakland_athletics_line":null,
     "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -4685,18 +1072,54 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
+    "h2h_arizona_diamondbacks_line":null,
+    "h2h_arizona_diamondbacks_odds":-246.0,
+    "h2h_pittsburgh_pirates_line":null,
+    "h2h_pittsburgh_pirates_odds":219.0,
+    "spreads_arizona_diamondbacks_line":-1.5,
+    "spreads_arizona_diamondbacks_odds":-128.0,
+    "spreads_pittsburgh_pirates_line":1.5,
+    "spreads_pittsburgh_pirates_odds":108.0,
     "h2h_atlanta_braves_line":null,
     "h2h_atlanta_braves_odds":null,
     "h2h_philadelphia_phillies_line":null,
     "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
+    "h2h_miami_marlins_line":null,
+    "h2h_miami_marlins_odds":null,
+    "h2h_san_diego_padres_line":null,
+    "h2h_san_diego_padres_odds":null,
+    "spreads_miami_marlins_line":null,
+    "spreads_miami_marlins_odds":null,
+    "spreads_san_diego_padres_line":null,
+    "spreads_san_diego_padres_odds":null,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
     "pitcher_props":null,
     "batter_props":null,
     "game_date":1748390400000
@@ -4706,58 +1129,66 @@
     "home_team":"Philadelphia Phillies",
     "away_team":"Atlanta Braves",
     "commence_time":1748385960000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
-    "totals_over_line":8.0,
-    "totals_over_odds":-123.0,
-    "totals_under_line":8.0,
-    "totals_under_odds":103.0,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
+    "totals_over_line":8.5,
+    "totals_over_odds":-113,
+    "totals_under_line":8.5,
+    "totals_under_odds":-107,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":null,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":null,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":null,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":null,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_oakland_athletics_line":null,
     "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -4766,18 +1197,54 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
+    "h2h_arizona_diamondbacks_line":null,
+    "h2h_arizona_diamondbacks_odds":null,
+    "h2h_pittsburgh_pirates_line":null,
+    "h2h_pittsburgh_pirates_odds":null,
+    "spreads_arizona_diamondbacks_line":null,
+    "spreads_arizona_diamondbacks_odds":null,
+    "spreads_pittsburgh_pirates_line":null,
+    "spreads_pittsburgh_pirates_odds":null,
     "h2h_atlanta_braves_line":null,
-    "h2h_atlanta_braves_odds":100.0,
+    "h2h_atlanta_braves_odds":-103.0,
     "h2h_philadelphia_phillies_line":null,
-    "h2h_philadelphia_phillies_odds":-110.0,
+    "h2h_philadelphia_phillies_odds":-107.0,
+    "spreads_atlanta_braves_line":1.5,
+    "spreads_atlanta_braves_odds":-210.0,
+    "spreads_philadelphia_phillies_line":-1.5,
+    "spreads_philadelphia_phillies_odds":180.0,
+    "h2h_miami_marlins_line":null,
+    "h2h_miami_marlins_odds":null,
+    "h2h_san_diego_padres_line":null,
+    "h2h_san_diego_padres_odds":null,
+    "spreads_miami_marlins_line":null,
+    "spreads_miami_marlins_odds":null,
+    "spreads_san_diego_padres_line":null,
+    "spreads_san_diego_padres_odds":null,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
     "pitcher_props":null,
     "batter_props":null,
     "game_date":1748304000000
@@ -4787,58 +1254,66 @@
     "home_team":"San Diego Padres",
     "away_team":"Miami Marlins",
     "commence_time":1748396460000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
     "totals_over_line":7.5,
-    "totals_over_odds":-117.0,
+    "totals_over_odds":-120,
     "totals_under_line":7.5,
-    "totals_under_odds":-103.0,
+    "totals_under_odds":100,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":null,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":null,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":155.0,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":-172.0,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_oakland_athletics_line":null,
     "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -4847,18 +1322,54 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
+    "h2h_arizona_diamondbacks_line":null,
+    "h2h_arizona_diamondbacks_odds":null,
+    "h2h_pittsburgh_pirates_line":null,
+    "h2h_pittsburgh_pirates_odds":null,
+    "spreads_arizona_diamondbacks_line":null,
+    "spreads_arizona_diamondbacks_odds":null,
+    "spreads_pittsburgh_pirates_line":null,
+    "spreads_pittsburgh_pirates_odds":null,
     "h2h_atlanta_braves_line":null,
     "h2h_atlanta_braves_odds":null,
     "h2h_philadelphia_phillies_line":null,
     "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
+    "h2h_miami_marlins_line":null,
+    "h2h_miami_marlins_odds":160.0,
+    "h2h_san_diego_padres_line":null,
+    "h2h_san_diego_padres_odds":-177.0,
+    "spreads_miami_marlins_line":1.5,
+    "spreads_miami_marlins_odds":-140.0,
+    "spreads_san_diego_padres_line":-1.5,
+    "spreads_san_diego_padres_odds":120.0,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
     "pitcher_props":null,
     "batter_props":null,
     "game_date":1748390400000
@@ -4868,58 +1379,66 @@
     "home_team":"Tampa Bay Rays",
     "away_team":"Minnesota Twins",
     "commence_time":1748387160000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
     "totals_over_line":8.0,
-    "totals_over_odds":-118.0,
+    "totals_over_odds":-120,
     "totals_under_line":8.0,
-    "totals_under_odds":-102.0,
+    "totals_under_odds":100,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":null,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":null,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":-125.0,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":113.0,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":null,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":null,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_oakland_athletics_line":null,
     "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -4928,18 +1447,54 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
+    "h2h_arizona_diamondbacks_line":null,
+    "h2h_arizona_diamondbacks_odds":null,
+    "h2h_pittsburgh_pirates_line":null,
+    "h2h_pittsburgh_pirates_odds":null,
+    "spreads_arizona_diamondbacks_line":null,
+    "spreads_arizona_diamondbacks_odds":null,
+    "spreads_pittsburgh_pirates_line":null,
+    "spreads_pittsburgh_pirates_odds":null,
     "h2h_atlanta_braves_line":null,
     "h2h_atlanta_braves_odds":null,
     "h2h_philadelphia_phillies_line":null,
     "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
+    "h2h_miami_marlins_line":null,
+    "h2h_miami_marlins_odds":null,
+    "h2h_san_diego_padres_line":null,
+    "h2h_san_diego_padres_odds":null,
+    "spreads_miami_marlins_line":null,
+    "spreads_miami_marlins_odds":null,
+    "spreads_san_diego_padres_line":null,
+    "spreads_san_diego_padres_odds":null,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":-121.0,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":110.0,
+    "spreads_minnesota_twins_line":-1.5,
+    "spreads_minnesota_twins_odds":143.0,
+    "spreads_tampa_bay_rays_line":1.5,
+    "spreads_tampa_bay_rays_odds":-163.0,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
     "pitcher_props":null,
     "batter_props":null,
     "game_date":1748304000000
@@ -4949,58 +1504,66 @@
     "home_team":"Chicago Cubs",
     "away_team":"Colorado Rockies",
     "commence_time":1748390760000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":null,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":null,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
-    "totals_over_line":null,
-    "totals_over_odds":null,
-    "totals_under_line":null,
-    "totals_under_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
+    "totals_over_line":7.5,
+    "totals_over_odds":-110,
+    "totals_under_line":7.5,
+    "totals_under_odds":-110,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":null,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":null,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":null,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":null,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_oakland_athletics_line":null,
     "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -5009,18 +1572,54 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
+    "h2h_arizona_diamondbacks_line":null,
+    "h2h_arizona_diamondbacks_odds":null,
+    "h2h_pittsburgh_pirates_line":null,
+    "h2h_pittsburgh_pirates_odds":null,
+    "spreads_arizona_diamondbacks_line":null,
+    "spreads_arizona_diamondbacks_odds":null,
+    "spreads_pittsburgh_pirates_line":null,
+    "spreads_pittsburgh_pirates_odds":null,
     "h2h_atlanta_braves_line":null,
     "h2h_atlanta_braves_odds":null,
     "h2h_philadelphia_phillies_line":null,
     "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
+    "h2h_miami_marlins_line":null,
+    "h2h_miami_marlins_odds":null,
+    "h2h_san_diego_padres_line":null,
+    "h2h_san_diego_padres_odds":null,
+    "spreads_miami_marlins_line":null,
+    "spreads_miami_marlins_odds":null,
+    "spreads_san_diego_padres_line":null,
+    "spreads_san_diego_padres_odds":null,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
     "h2h_chicago_cubs_line":null,
-    "h2h_chicago_cubs_odds":-300.0,
+    "h2h_chicago_cubs_odds":-306.0,
     "h2h_colorado_rockies_line":null,
-    "h2h_colorado_rockies_odds":265.0,
+    "h2h_colorado_rockies_odds":270.0,
+    "spreads_chicago_cubs_line":-1.5,
+    "spreads_chicago_cubs_odds":-140.0,
+    "spreads_colorado_rockies_line":1.5,
+    "spreads_colorado_rockies_odds":120.0,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
     "pitcher_props":null,
     "batter_props":null,
     "game_date":1748390400000
@@ -5030,58 +1629,66 @@
     "home_team":"Los Angeles Angels",
     "away_team":"New York Yankees",
     "commence_time":1748396280000,
-    "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":158.0,
-    "h2h_new_york_yankees_line":null,
-    "h2h_new_york_yankees_odds":-175.0,
-    "spreads_los_angeles_angels_line":null,
-    "spreads_los_angeles_angels_odds":null,
-    "spreads_new_york_yankees_line":null,
-    "spreads_new_york_yankees_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
     "totals_over_line":9.0,
-    "totals_over_odds":-107.0,
+    "totals_over_odds":-107,
     "totals_under_line":9.0,
-    "totals_under_odds":-113.0,
+    "totals_under_odds":-113,
     "h2h_baltimore_orioles_line":null,
     "h2h_baltimore_orioles_odds":null,
     "h2h_st._louis_cardinals_line":null,
     "h2h_st._louis_cardinals_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
     "h2h_texas_rangers_line":null,
     "h2h_texas_rangers_odds":null,
     "h2h_toronto_blue_jays_line":null,
     "h2h_toronto_blue_jays_odds":null,
+    "spreads_texas_rangers_line":null,
+    "spreads_texas_rangers_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
     "h2h_chicago_white_sox_line":null,
     "h2h_chicago_white_sox_odds":null,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
-    "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":null,
-    "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":null,
-    "spreads_arizona_diamondbacks_line":null,
-    "spreads_arizona_diamondbacks_odds":null,
-    "spreads_pittsburgh_pirates_line":null,
-    "spreads_pittsburgh_pirates_odds":null,
-    "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":null,
-    "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":null,
-    "spreads_minnesota_twins_line":null,
-    "spreads_minnesota_twins_odds":null,
-    "spreads_tampa_bay_rays_line":null,
-    "spreads_tampa_bay_rays_odds":null,
-    "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":null,
-    "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":null,
-    "spreads_miami_marlins_line":null,
-    "spreads_miami_marlins_odds":null,
-    "spreads_san_diego_padres_line":null,
-    "spreads_san_diego_padres_odds":null,
+    "spreads_chicago_white_sox_line":null,
+    "spreads_chicago_white_sox_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "h2h_seattle_mariners_line":null,
+    "h2h_seattle_mariners_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_seattle_mariners_line":null,
+    "spreads_seattle_mariners_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_oakland_athletics_line":null,
     "h2h_oakland_athletics_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
     "h2h_cleveland_guardians_line":null,
     "h2h_cleveland_guardians_odds":null,
     "h2h_los_angeles_dodgers_line":null,
@@ -5090,18 +1697,54 @@
     "spreads_cleveland_guardians_odds":null,
     "spreads_los_angeles_dodgers_line":null,
     "spreads_los_angeles_dodgers_odds":null,
-    "h2h_detroit_tigers_line":null,
-    "h2h_detroit_tigers_odds":null,
-    "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":null,
+    "h2h_arizona_diamondbacks_line":null,
+    "h2h_arizona_diamondbacks_odds":null,
+    "h2h_pittsburgh_pirates_line":null,
+    "h2h_pittsburgh_pirates_odds":null,
+    "spreads_arizona_diamondbacks_line":null,
+    "spreads_arizona_diamondbacks_odds":null,
+    "spreads_pittsburgh_pirates_line":null,
+    "spreads_pittsburgh_pirates_odds":null,
     "h2h_atlanta_braves_line":null,
     "h2h_atlanta_braves_odds":null,
     "h2h_philadelphia_phillies_line":null,
     "h2h_philadelphia_phillies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
+    "h2h_miami_marlins_line":null,
+    "h2h_miami_marlins_odds":null,
+    "h2h_san_diego_padres_line":null,
+    "h2h_san_diego_padres_odds":null,
+    "spreads_miami_marlins_line":null,
+    "spreads_miami_marlins_odds":null,
+    "spreads_san_diego_padres_line":null,
+    "spreads_san_diego_padres_odds":null,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_colorado_rockies_line":null,
     "h2h_colorado_rockies_odds":null,
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":165.0,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":-183.0,
+    "spreads_los_angeles_angels_line":1.5,
+    "spreads_los_angeles_angels_odds":-105.0,
+    "spreads_new_york_yankees_line":-1.5,
+    "spreads_new_york_yankees_odds":-115.0,
     "pitcher_props":null,
     "batter_props":null,
     "game_date":1748390400000

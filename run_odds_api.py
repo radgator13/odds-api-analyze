@@ -3,6 +3,19 @@ import sys
 import os
 import shutil
 from datetime import datetime
+import builtins
+import sys
+
+original_print = builtins.print
+
+def safe_print(*args, **kwargs):
+    try:
+        original_print(*args, **kwargs)
+    except UnicodeEncodeError:
+        fallback = [str(arg).encode('ascii', errors='ignore').decode() for arg in args]
+        original_print(*fallback, **kwargs)
+
+builtins.print = safe_print
 
 # === Ordered scripts to run ===
 scripts = [

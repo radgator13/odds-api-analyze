@@ -4,6 +4,7 @@ import joblib
 from difflib import get_close_matches
 from datetime import date
 import sys
+import json
 
 if sys.stdout.encoding.lower() != "utf-8":
     print("[WARN] Terminal does not support emojis. Using safe print style.")
@@ -116,14 +117,29 @@ for stat, val in filler.items():
 # === Load model
 print("[MODEL] Loading model and predicting...")
 model = joblib.load("models/strikeout_model.pkl")
-expected_features = list(model.feature_names_in_)
+with open("models/feature_order.json", "r") as f:
+    expected_features = json.load(f)
 
 for col in expected_features:
     if col not in model_input.columns:
         print(f"[FIX] Adding missing column: {col}")
         model_input[col] = 0.0
+        # === Finalize input
+model_input = model_input.loc[:, ~model_input.columns.duplicated(keep="last")]
+X = model_input[expected_features].copy()
 
-X = model_input[expected_features]
+
+# Reorder strictly to match training input
+X = model_input[expected_features].copy()
+# === Debug shape and columns
+print("[DEBUG] Expected columns from training:")
+print(expected_features)
+
+print("[DEBUG] Model input columns before predict():")
+print(X.columns.tolist())
+
+print("[DEBUG] Any mismatch?", set(expected_features) ^ set(X.columns.tolist()))
+
 
 # === Predict and Output
 if X.empty:

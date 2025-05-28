@@ -16,7 +16,8 @@ batting_df = pd.read_csv("new_data/stathead_batting_game_data.csv")
 team_pitch_df = pd.read_csv("new_data/stathead_team_pitching_game_data.csv")
 
 # === Clean pitcher data ===
-print("⚙️ Cleaning pitcher data...")
+print("[CLEAN] Cleaning pitcher data...")
+
 player_df["Date"] = pd.to_datetime(player_df["Date"].astype(str).str.extract(r"(\d{4}-\d{2}-\d{2})")[0])
 age_parts = player_df["Age"].astype(str).str.extract(r"(\d+)-(\d+)")
 age_parts = age_parts.dropna().astype(int)
@@ -34,7 +35,7 @@ player_df["ERA_est"] = (player_df["ER"] * 9) / player_df["IP"]
 player_df["is_home"] = player_df["Unnamed: 7"].apply(lambda x: 0 if str(x).strip() == "@" else 1)
 
 # === Rolling averages (3-game) ===
-print("🔁 Computing rolling stats...")
+print("Computing rolling stats...")
 player_df = player_df.sort_values(by=["Player", "Date"])
 rolling_feats = ["IP", "SO", "BB", "K_per_IP", "K_per_BF", "WHIP", "KBB", "ERA_est"]
 for feat in rolling_feats:
@@ -44,7 +45,7 @@ for feat in rolling_feats:
     )
 
 # === Clean batting data ===
-print("🧹 Cleaning opponent batting...")
+print(" Cleaning opponent batting...")
 batting_df = batting_df.loc[:, ~batting_df.columns.str.contains("^Unnamed")]
 batting_df = batting_df.loc[:, ~batting_df.columns.duplicated()]
 batting_df["Date"] = pd.to_datetime(batting_df["Date"].astype(str).str.extract(r"(\d{4}-\d{2}-\d{2})")[0])
@@ -53,7 +54,7 @@ for col in ["SO", "PA", "OBP", "SLG", "OPS", "BA"]:
 batting_df["opp_K_rate"] = batting_df["SO"] / batting_df["PA"]
 
 # === Clean team pitching data ===
-print("🧹 Cleaning team pitching...")
+print(" Cleaning team pitching...")
 team_pitch_df = team_pitch_df.loc[:, ~team_pitch_df.columns.str.contains("^Unnamed")]
 team_pitch_df["Date"] = pd.to_datetime(team_pitch_df["Date"].astype(str).str.extract(r"(\d{4}-\d{2}-\d{2})")[0])
 for col in ["SO.1", "BF"]:
@@ -62,7 +63,7 @@ team_pitch_df["team_K_rate"] = team_pitch_df["SO.1"] / team_pitch_df["BF"]
 team_pitch_df = team_pitch_df.rename(columns={"Team": "Team_pitch"})
 
 # === Merge all sources ===
-print("🔗 Merging opponent and team stats...")
+print(" Merging opponent and team stats...")
 df = player_df.merge(
     batting_df[["Date", "Opp", "opp_K_rate", "OBP", "SLG", "OPS", "BA"]],
     on=["Date", "Opp"], how="left"
@@ -75,7 +76,7 @@ df = df.merge(
 )
 
 # === Final feature list ===
-print("✅ Preparing features...")
+print(" Preparing features...")
 base_features = [
     # raw
     "IP", "BB", "BF", "H", "ER", "HR", "age_float", "is_home",
@@ -93,7 +94,7 @@ X = df[base_features]
 y = df["SO"]
 
 # === Train model ===
-print("🤖 Training model (RandomForest)...")
+print(" Training model (RandomForest)...")
 model = RandomForestRegressor(n_estimators=150, max_depth=6, random_state=42)
 model.fit(X, y)
 
@@ -101,17 +102,17 @@ model.fit(X, y)
 y_pred = model.predict(X)
 mae = mean_absolute_error(y, y_pred)
 r2 = r2_score(y, y_pred)
-print(f"📈 Model MAE: {mae:.2f} | R²: {r2:.3f}")
+print(f" Model MAE: {mae:.2f} | R²: {r2:.3f}")
 
 # === Save model + feature order ===
-print("💾 Saving model and features...")
+print(" Saving model and features...")
 os.makedirs("models", exist_ok=True)
 joblib.dump(model, "models/strikeout_model.pkl")
 with open("models/feature_order.json", "w") as f:
     json.dump(base_features, f)
 
 # === Predict and export training results ===
-print("📊 Saving predictions to SQLite...")
+print(" Saving predictions to SQLite...")
 df["predicted_SO"] = y_pred
 predictions = df[["Date", "Player", "Team", "Opp", "SO", "predicted_SO"]]
 

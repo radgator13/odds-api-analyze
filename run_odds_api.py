@@ -20,8 +20,8 @@ builtins.print = safe_print
 # === Ordered scripts to run ===
 scripts = [
     "bet_logic/Step_1_get_BETONLINE_odds.py",
-    "bet_logic/Step_2_flatten_odds_api_events.py",
     "bet_logic/Step_3_check_event_id_and_merge.py",
+    "bet_logic/Step_2_flatten_odds_api_events.py",    
     "bet_logic/Step_4_final_merged_readable_odds_api.py"
 ]
 

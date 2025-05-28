@@ -16,16 +16,16 @@ for df in [pitcher_df, batter_df, team_df]:
 def normalize_and_filter(df, label):
     df["commence_time"] = pd.to_datetime(df["commence_time"], errors="coerce")
     df["game_date"] = df["commence_time"].dt.date
+
     today = date.today()
     fresh_df = df[df["game_date"] >= today].copy()
 
     print(f"\n📅 {label} — game dates:")
-    print(fresh_df['game_date'].value_counts().sort_index())
+    print(fresh_df["game_date"].value_counts().sort_index())
+    print(f"✅ Retained rows for {fresh_df['game_date'].nunique()} game dates (≥ {today})")
+
     return fresh_df
 
-pitcher_df = normalize_and_filter(pitcher_df, "Pitcher Props")
-batter_df = normalize_and_filter(batter_df, "Batter Props")
-team_df = normalize_and_filter(team_df, "Team Lines")
 
 # === Flatten team lines ===
 def flatten_team_props(df):

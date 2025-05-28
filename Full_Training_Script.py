@@ -9,7 +9,8 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, r2_score
 
 # === Load all data ===
-print("🔄 Loading data...")
+print("[INFO] Loading data...")
+
 player_df = pd.read_csv("new_data/stathead_player_pitching_game_data.csv")
 batting_df = pd.read_csv("new_data/stathead_batting_game_data.csv")
 team_pitch_df = pd.read_csv("new_data/stathead_team_pitching_game_data.csv")

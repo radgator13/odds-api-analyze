@@ -21,5 +21,12 @@ for label, script in steps:
     else:
         print(result.stdout)
 
-print("\n✅ All steps complete. You can now run:")
-print("   streamlit run app.py")
+else:
+    # === LAUNCH STREAMLIT ===
+    print("\n✅ All steps complete. Launching Streamlit...")
+    try:
+        subprocess.Popen(["streamlit", "run", "app.py"], creationflags=subprocess.CREATE_NEW_CONSOLE)
+        print("🚀 Streamlit launched in a new console window.")
+    except Exception as e:
+        print(f"❌ Failed to launch Streamlit: {e}")
+

@@ -1,6 +1,8 @@
 ﻿import pandas as pd
 import numpy as np
 import joblib
+from difflib import get_close_matches
+from datetime import date
 
 # === Normalize names ===
 def normalize_name(name):
@@ -9,6 +11,11 @@ def normalize_name(name):
         parts = name.split(",")
         return f"{parts[1].strip()} {parts[0].strip()}"
     return name
+
+# === Fuzzy match to closest stathead player ===
+def fuzzy_match(name, candidate_list):
+    match = get_close_matches(name, candidate_list, n=1, cutoff=0.85)
+    return match[0] if match else None
 
 # === Load sportsbook props ===
 print("🔄 Loading sportsbook props...")
@@ -21,6 +28,7 @@ props = props.dropna(subset=["description", "line", "odds", "commence_time"])
 props["description"] = props["description"].apply(normalize_name)
 props["game_date"] = pd.to_datetime(props["commence_time"]).dt.date
 
+# === Deduplicate to one row per player
 pitcher_lines = props.groupby("description").agg({
     "line": "first",
     "odds": "first",
@@ -29,7 +37,7 @@ pitcher_lines = props.groupby("description").agg({
     "game_date": "first"
 }).reset_index().rename(columns={"description": "player"})
 
-# === Load pitcher logs ===
+# === Load Stathead pitcher logs ===
 print("📚 Loading Stathead pitcher logs...")
 stats = pd.read_csv("new_data/stathead_player_pitching_game_data.csv")
 stats["Date"] = pd.to_datetime(stats["Date"].astype(str).str.extract(r"(\d{4}-\d{2}-\d{2})")[0])
@@ -56,27 +64,32 @@ for feat in rolling_features:
 
 latest_stats = stats.groupby("Player_clean").last().reset_index()
 
-# === Merge rolling stats into props ===
-print("🔗 Merging rolling stats into props...")
+# === Fuzzy match prop players to stathead
+print("🧠 Matching props to stat logs with fuzzy logic...")
+pitcher_lines["Player_clean"] = pitcher_lines["player"].apply(
+    lambda name: fuzzy_match(name, latest_stats["Player_clean"].tolist())
+)
+pitcher_lines = pitcher_lines.dropna(subset=["Player_clean"])
+
+# === Merge props and rolling stats ===
+print("🔗 Merging stats into props...")
 merged = pitcher_lines.merge(
     latest_stats,
-    left_on="player",
-    right_on="Player_clean",
+    on="Player_clean",
     how="left"
 )
 
-print(f"🔢 Merged rows: {len(merged)}")
-print("✅ Using fallback values where needed.")
+if merged.empty:
+    print("🚨 No matched pitchers. Check name formats or Stathead data freshness.")
+    exit()
 
-# === Build model input ===
+print(f"🔢 Merged rows: {len(merged)}")
+
+# === Fill in default context
 print("⚙️ Building model input...")
 defaults = {
-    "opp_K_rate": 0.215,
-    "OBP": 0.312,
-    "SLG": 0.410,
-    "OPS": 0.722,
-    "BA": 0.248,
-    "team_K_rate": 0.220
+    "opp_K_rate": 0.215, "OBP": 0.312, "SLG": 0.410,
+    "OPS": 0.722, "BA": 0.248, "team_K_rate": 0.220
 }
 for col, val in defaults.items():
     merged[col] = val
@@ -88,6 +101,7 @@ model_input = merged.rename(columns={
     "r3_K_per_BF": "K_per_BF", "r3_age_float": "age_float"
 })
 
+# === Fallback stats for new pitchers
 filler = {
     "IP": 5.2, "BB": 1.8, "BF": 23, "H": 4.5, "ER": 2.1, "HR": 0.8,
     "K_per_IP": 1.0, "K_per_BF": 0.22, "age_float": 28.5
@@ -95,7 +109,7 @@ filler = {
 for stat, val in filler.items():
     model_input[stat] = model_input[stat].fillna(val)
 
-# === Load model and predict ===
+# === Load model
 print("📦 Loading model and predicting...")
 model = joblib.load("models/strikeout_model.pkl")
 expected_features = list(model.feature_names_in_)
@@ -104,12 +118,12 @@ for col in expected_features:
     if col not in model_input.columns:
         print(f"🔧 Adding missing column: {col}")
         model_input[col] = 0.0
-model_input = model_input.loc[:, ~model_input.columns.duplicated(keep="last")]
+
 X = model_input[expected_features]
 
-# === Predict
-if len(X) == 0:
-    print("🚨 No rows to predict.")
+# === Predict and Output
+if X.empty:
+    print("🚨 No data available to predict.")
 else:
     merged["predicted_SO"] = model.predict(X)
     merged["edge"] = merged["predicted_SO"] - merged["line"]
@@ -122,8 +136,10 @@ else:
         "game_date", "player", "line", "odds",
         "predicted_SO", "edge", "bet_recommendation"
     ]]
-    print("\n🔍 Final Betting Edge Table:")
-    print(result)
+
+    today = date.today()
+    print("\n📅 Game Dates Predicted:")
+    print(result["game_date"].value_counts().sort_index())
 
     result.to_csv("predicted_pitcher_props_with_edges.csv", index=False)
     print("\n📁 Saved to: predicted_pitcher_props_with_edges.csv")

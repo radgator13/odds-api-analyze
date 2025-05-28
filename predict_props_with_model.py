@@ -3,6 +3,9 @@ import numpy as np
 import joblib
 from difflib import get_close_matches
 from datetime import date
+import sys
+if sys.stdout.encoding.lower() != "utf-8":
+    print("[WARN] Terminal does not support emojis. Using safe print style.")
 
 # === Normalize names ===
 def normalize_name(name):

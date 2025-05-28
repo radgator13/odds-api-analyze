@@ -7,6 +7,9 @@ import os
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, r2_score
+import sys
+if sys.stdout.encoding.lower() != "utf-8":
+    print("[WARN] Terminal does not support emojis. Using safe print style.")
 
 # === Load all data ===
 print("[INFO] Loading data...")

@@ -1,6 +1,9 @@
 ﻿import subprocess
 import time
 import os
+import sys
+if sys.stdout.encoding.lower() != "utf-8":
+    print("[WARN] Terminal does not support emojis. Using safe print style.")
 
 # === CONFIG ===
 steps = [

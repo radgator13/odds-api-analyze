@@ -124,4 +124,5 @@ predictions.to_sql("predictions", conn, if_exists="replace", index=False)
 conn.commit()
 conn.close()
 
-print("✅ All done. Model trained, saved, and predictions logged.")
+print("[DONE] All done. Model trained, saved, and predictions logged.")
+

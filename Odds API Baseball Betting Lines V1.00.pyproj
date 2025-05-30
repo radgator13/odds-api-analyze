@@ -11,6 +11,8 @@
     <OutputPath>.</OutputPath>
     <Name>Odds API Baseball Betting Lines V1.00</Name>
     <RootNamespace>Odds API Baseball Betting Lines V1.00</RootNamespace>
+    <SuppressEnvironmentCreationPrompt>True</SuppressEnvironmentCreationPrompt>
+    <SuppressConfigureTestFrameworkPrompt>true</SuppressConfigureTestFrameworkPrompt>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
@@ -39,6 +41,7 @@
   <ItemGroup>
     <Folder Include="archive\" />
     <Folder Include="bet_logic\" />
+    <Folder Include="data\" />
     <Folder Include="models\" />
     <Folder Include="filtered_bets\" />
     <Folder Include="new_data\" />

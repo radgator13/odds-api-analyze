@@ -1,0 +1,29 @@
+# Ignore Visual Studio/VS Code related files
+.vs/
+.vscode/
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+*.env
+*.venv
+.venv/
+
+# Ignore Jupyter Notebook checkpoints if any
+.ipynb_checkpoints/
+
+# Do NOT ignore CSV files — you want them versioned
+!*.csv
+
+# Optional: ignore log files and temp
+*.log
+*.tmp
+.DS_Store
+
+# Ignore archive zip backups if any
+*.zip

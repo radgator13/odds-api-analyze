@@ -68,7 +68,7 @@ else:
         timestamp = time.strftime("%Y%m%d_%H%M%S")
         commit_message = f"Auto push from run_pipeline at {timestamp}"
         subprocess.run(["git", "commit", "-m", commit_message], check=True)
-        subprocess.run(["git", "push", "origin", "main"], check=True)
+        subprocess.run(["git", "push", "origin", "master"], check=True)
         print("✅ Git push successful.")
     except subprocess.CalledProcessError as e:
         print(f"❌ Git command failed: {e}")

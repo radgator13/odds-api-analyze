@@ -3,11 +3,41 @@ import time
 import os
 import sys
 import builtins
+import smtplib
+from email.message import EmailMessage
+from dotenv import load_dotenv
 
-# === Force all subprocess output to UTF-8 ===
+# === Load environment variables from .env ===
+load_dotenv()
+EMAIL_USER = os.getenv("EMAIL_USER")
+EMAIL_PASS = os.getenv("EMAIL_PASS")
+
+# === Email helper ===
+TO_EMAILS = [
+    os.getenv("EMAIL_USER"),           # your Gmail
+    os.getenv("SMS_ALERT")             # your phone via T-Mobile
+]
+
+def send_email(subject, body):
+    try:
+        msg = EmailMessage()
+        msg.set_content(body)
+        msg["Subject"] = subject
+        msg["From"] = EMAIL_USER
+        msg["To"] = ", ".join([email for email in TO_EMAILS if email])
+
+        with smtplib.SMTP("smtp.gmail.com", 587) as smtp:
+            smtp.starttls()
+            smtp.login(EMAIL_USER, EMAIL_PASS)
+            smtp.send_message(msg)
+    except Exception as e:
+        print(f"[ERROR] Failed to send email/SMS: {e}")
+
+
+# === Force UTF-8 output ===
 os.environ["PYTHONIOENCODING"] = "utf-8"
 
-# === Safe print override for this launcher ===
+# === Safe print override ===
 original_print = builtins.print
 def safe_print(*args, **kwargs):
     try:
@@ -30,6 +60,7 @@ steps = [
 ]
 
 # === RUN STEPS ===
+pipeline_success = True
 for label, script in steps:
     print(f"\n{label}")
     result = subprocess.run(
@@ -41,12 +72,15 @@ for label, script in steps:
     )
 
     if result.returncode != 0:
-        print(f"❌ Error running {script}:\n{result.stderr}")
+        error_msg = f"❌ Error running {script}:\n{result.stderr}"
+        print(error_msg)
+        send_email(f"❌ Pipeline Failed: {script}", error_msg)
+        pipeline_success = False
         break
     else:
         print(result.stdout)
 
-else:
+if pipeline_success:
     # === GIT PUSH ===
     print("\n📦 Committing and pushing to GitHub...")
     try:
@@ -68,7 +102,12 @@ else:
         timestamp = time.strftime("%Y%m%d_%H%M%S")
         commit_message = f"Auto push from run_pipeline at {timestamp}"
         subprocess.run(["git", "commit", "-m", commit_message], check=True)
-        subprocess.run(["git", "push", "origin", "main"], check=True)
+        subprocess.run(["git", "push", "origin", "master"], check=True)
         print("✅ Git push successful.")
+        send_email("✅ Pipeline Success", f"Pipeline ran and pushed at {timestamp}.")
     except subprocess.CalledProcessError as e:
         print(f"❌ Git command failed: {e}")
+        send_email("❌ Git Push Failed", str(e))
+
+
+

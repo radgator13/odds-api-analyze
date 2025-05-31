@@ -37,7 +37,7 @@
     <Compile Include="run_odds_api.py" />
     <Compile Include="scrape_schedule_and_starters.py" />
     <Compile Include="scrape_stathead_stats.py" />
-    <Compile Include="test.py" />
+    <Compile Include="scrape_player_pitching_game_data.py" />
     <Compile Include="test2.py" />
     <Compile Include="test3.py" />
   </ItemGroup>

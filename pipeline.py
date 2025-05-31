@@ -33,7 +33,13 @@ def send_email(subject, body):
     try:
         msg = EmailMessage()
         msg.set_content(body)
-        msg["Subject"] = f"[Pipeline] {subject}"
+
+        # Tighter subject for SMS delivery
+        if SMS_ALERT and len(TO_EMAILS) == 2:
+            msg["Subject"] = "Pipeline Status"
+        else:
+            msg["Subject"] = f"[Pipeline] {subject}"
+
         msg["From"] = EMAIL_USER
         msg["To"] = ", ".join(TO_EMAILS)
 
@@ -44,6 +50,7 @@ def send_email(subject, body):
         print("Email/SMS sent successfully.")
     except Exception as e:
         print(f"[ERROR] Failed to send email/SMS: {e}")
+
 
 # === Force UTF-8 output ===
 os.environ["PYTHONIOENCODING"] = "utf-8"

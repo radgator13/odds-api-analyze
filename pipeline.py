@@ -102,7 +102,7 @@ if pipeline_success:
         timestamp = time.strftime("%Y%m%d_%H%M%S")
         commit_message = f"Auto push from run_pipeline at {timestamp}"
         subprocess.run(["git", "commit", "-m", commit_message], check=True)
-        subprocess.run(["git", "push", "origin", "master"], check=True)
+        subprocess.run(["git", "push", "origin", "main"], check=True)
         print("✅ Git push successful.")
         send_email("✅ Pipeline Success", f"Pipeline ran and pushed at {timestamp}.")
     except subprocess.CalledProcessError as e:

@@ -37,7 +37,9 @@
     <Compile Include="run_odds_api.py" />
     <Compile Include="scrape_schedule_and_starters.py" />
     <Compile Include="scrape_stathead_stats.py" />
-    <Compile Include="scrape_player_pitching_game_data.py" />
+    <Compile Include="stathead_scrape_logic\scrape_player_pitching_game_data.py" />
+    <Compile Include="stathead_scrape_logic\scrape_team_batting_game_data.py" />
+    <Compile Include="stathead_scrape_logic\scrape_team_pitching_game_data.py" />
     <Compile Include="test2.py" />
     <Compile Include="test3.py" />
   </ItemGroup>
@@ -47,6 +49,7 @@
     <Folder Include="data\" />
     <Folder Include="models\" />
     <Folder Include="filtered_bets\" />
+    <Folder Include="stathead_scrape_logic\" />
     <Folder Include="new_data\" />
     <Folder Include="new_data\archive\" />
   </ItemGroup>

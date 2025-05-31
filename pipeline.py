@@ -22,10 +22,11 @@ if sys.stdout.encoding.lower() != "utf-8":
 
 # === CONFIG ===
 steps = [
-    ("[STEP] Scraping Stathead stats", "scrape_player_pitching_game_data.py"),
+    ("[STEP] Scraping Stathead stats", "scrape_stathead_stats.py"),
     ("[STEP] Pulling sportsbook props", "run_odds_api.py"),
     ("[STEP] Training strikeout model", "Full_Training_Script.py"),
-    ("[STEP] Generating predictions", "predict_props_with_model.py")
+    ("[STEP] Generating predictions", "predict_props_with_model.py"),
+    ("[STEP] Compare strikeouts to actuals", "compare_strikeout_picks_to_actual.py")
 ]
 
 # === RUN STEPS ===

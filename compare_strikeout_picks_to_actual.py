@@ -153,6 +153,6 @@ print("\n=== ✅ Summary of Predictions vs Actuals ===")
 print(merged[['Game_Date', 'Pitcher', 'Predicted_K', 'Strikeouts', 'Result']])
 
 # === EXPORT ===
-output_file = "bets_vs_actuals_strikeouts.csv"
+output_file = "data/bets_vs_actuals_strikeouts.csv"
 merged.to_csv(output_file, index=False)
 print(f"\n📁 Output saved to {output_file}")

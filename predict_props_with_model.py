@@ -161,5 +161,5 @@ else:
     print("\n[DATES] Game Dates Predicted:")
     print(result["game_date"].value_counts().sort_index())
 
-    result.to_csv("predicted_pitcher_props_with_edges.csv", index=False)
-    print("\n[SAVED] predicted_pitcher_props_with_edges.csv")
+    result.to_csv("data/predicted_pitcher_props_with_edges.csv", index=False)
+    print("\n[SAVED] data/predicted_pitcher_props_with_edges.csv")

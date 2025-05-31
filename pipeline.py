@@ -107,7 +107,7 @@ if pipeline_success:
                 print("Set git user.email = a1d3r13@gmail.com")
 
         ensure_git_identity()
-
+        subprocess.run(["git", "checkout", "main"], check=True)
         subprocess.run(["git", "add", "."], check=True)
         timestamp = time.strftime("%Y%m%d_%H%M%S")
         commit_message = f"Auto push from run_pipeline at {timestamp}"

@@ -1,17 +1,9 @@
 event_id,home_team,away_team,commence_time,bookmaker,last_update,market,participant,description,raw_name,line,odds
-56eb06d8d8a7673db31dc77274e81d8a,Los Angeles Dodgers,New York Yankees,2025-05-31T23:16:00Z,BetOnline.ag,2025-05-31T20:59:33Z,pitcher_strikeouts,,Landon Knack,Over,4.5,-109
-56eb06d8d8a7673db31dc77274e81d8a,Los Angeles Dodgers,New York Yankees,2025-05-31T23:16:00Z,BetOnline.ag,2025-05-31T20:59:33Z,pitcher_strikeouts,,Landon Knack,Under,4.5,-119
-56eb06d8d8a7673db31dc77274e81d8a,Los Angeles Dodgers,New York Yankees,2025-05-31T23:16:00Z,BetOnline.ag,2025-05-31T20:59:33Z,pitcher_strikeouts,,Will Warren,Over,5.5,134
-56eb06d8d8a7673db31dc77274e81d8a,Los Angeles Dodgers,New York Yankees,2025-05-31T23:16:00Z,BetOnline.ag,2025-05-31T20:59:33Z,pitcher_strikeouts,,Will Warren,Under,5.5,-175
-7a9d1072f856d2d04df0a78a8a8b7aa1,Seattle Mariners,Minnesota Twins,2025-05-31T23:16:00Z,BetOnline.ag,2025-05-31T20:58:57Z,pitcher_strikeouts,,Bailey Ober,Over,5.5,-108
-7a9d1072f856d2d04df0a78a8a8b7aa1,Seattle Mariners,Minnesota Twins,2025-05-31T23:16:00Z,BetOnline.ag,2025-05-31T20:58:57Z,pitcher_strikeouts,,Bailey Ober,Under,5.5,-120
-7a9d1072f856d2d04df0a78a8a8b7aa1,Seattle Mariners,Minnesota Twins,2025-05-31T23:16:00Z,BetOnline.ag,2025-05-31T20:58:57Z,pitcher_strikeouts,,Bryce Miller,Over,4.5,-135
-7a9d1072f856d2d04df0a78a8a8b7aa1,Seattle Mariners,Minnesota Twins,2025-05-31T23:16:00Z,BetOnline.ag,2025-05-31T20:58:57Z,pitcher_strikeouts,,Bryce Miller,Under,4.5,104
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T20:59:41Z,pitcher_strikeouts,,Dylan Cease,Over,7.5,122
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T20:59:41Z,pitcher_strikeouts,,Dylan Cease,Under,7.5,-159
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T20:59:41Z,pitcher_strikeouts,,Bailey Falter,Over,3.5,117
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T20:59:41Z,pitcher_strikeouts,,Bailey Falter,Under,3.5,-152
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T20:59:38Z,pitcher_strikeouts,,Brandon Pfaadt,Over,4.5,-114
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T20:59:38Z,pitcher_strikeouts,,Brandon Pfaadt,Under,4.5,-114
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T20:59:38Z,pitcher_strikeouts,,Michael Soroka,Over,4.5,124
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T20:59:38Z,pitcher_strikeouts,,Michael Soroka,Under,4.5,-161
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:54:03Z,pitcher_strikeouts,,Dylan Cease,Over,7.5,105
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:54:03Z,pitcher_strikeouts,,Dylan Cease,Under,7.5,-135
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:54:03Z,pitcher_strikeouts,,Bailey Falter,Over,3.5,117
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:54:03Z,pitcher_strikeouts,,Bailey Falter,Under,3.5,-152
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:55:22Z,pitcher_strikeouts,,Brandon Pfaadt,Over,4.5,-116
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:55:22Z,pitcher_strikeouts,,Brandon Pfaadt,Under,4.5,-111
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:55:22Z,pitcher_strikeouts,,Michael Soroka,Over,4.5,124
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:55:22Z,pitcher_strikeouts,,Michael Soroka,Under,4.5,-161

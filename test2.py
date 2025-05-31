@@ -1,37 +1,39 @@
 ﻿import os
-import smtplib
-from email.message import EmailMessage
+from twilio.rest import Client
 from dotenv import load_dotenv
 
-# Load the .env file
+# Load environment variables from .env file
 load_dotenv()
 
-EMAIL_USER = os.getenv("EMAIL_USER")
-EMAIL_PASS = os.getenv("EMAIL_PASS")
-SMS_ALERT = os.getenv("SMS_ALERT")
+# Fetch credentials and numbers
+sid = os.getenv("TWILIO_SID")
+token = os.getenv("TWILIO_TOKEN")
+from_number = os.getenv("TWILIO_FROM")
+to_number = os.getenv("TWILIO_TO")
 
-print(f"EMAIL_USER: {EMAIL_USER}")
-print(f"EMAIL_PASS loaded: {'YES' if EMAIL_PASS else 'NO'}")
-print(f"SMS_ALERT: {SMS_ALERT}")
+# Debug print (optional — remove in production)
+print("TWILIO_SID:", sid)
+print("TWILIO_TOKEN:", "✓" if token else "Missing")
+print("TWILIO_FROM:", from_number)
+print("TWILIO_TO:", to_number)
 
-if not EMAIL_USER or not EMAIL_PASS:
-    print("[ERROR] Missing EMAIL_USER or EMAIL_PASS.")
+# Check for missing environment variables
+if not all([sid, token, from_number, to_number]):
+    print("❌ Missing one or more required environment variables.")
     exit(1)
 
 try:
-    msg = EmailMessage()
-    msg.set_content("This is a test message from PythonAnywhere.")
-    msg["Subject"] = "Test Email Login"
-    msg["From"] = EMAIL_USER
-    msg["To"] = ", ".join(filter(None, [EMAIL_USER, SMS_ALERT]))
+    # Initialize Twilio client
+    client = Client(sid, token)
 
-    with smtplib.SMTP("smtp.gmail.com", 587) as smtp:
-        smtp.set_debuglevel(1)
-        smtp.starttls()
-        smtp.login(EMAIL_USER, EMAIL_PASS)
-        smtp.send_message(msg)
+    # Send SMS
+    message = client.messages.create(
+        body="✅ Twilio is now live from PythonAnywhere to your verified number.",
+        from_=from_number,
+        to=to_number
+    )
 
-    print("Test email/SMS sent successfully.")
+    print("✅ Success! Message SID:", message.sid)
 
 except Exception as e:
-    print(f"[ERROR] Email failed: {e}")
+    print("❌ SMS failed:", e)

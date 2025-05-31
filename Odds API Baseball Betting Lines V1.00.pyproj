@@ -28,6 +28,7 @@
     <Compile Include="bet_logic\Step_4_final_merged_readable_odds_api.py" />
     <Compile Include="bet_logic\Step_2_flatten_odds_api_events.py" />
     <Compile Include="bet_logic\Step_1_get_BETONLINE_odds.py" />
+    <Compile Include="compare_strikeout_picks_to_actual.py" />
     <Compile Include="Full_Training_Script.py" />
     <Compile Include="get_scores_full-with-pitcher.py" />
     <Compile Include="Join_Stats.py" />
@@ -37,6 +38,8 @@
     <Compile Include="scrape_schedule_and_starters.py" />
     <Compile Include="scrape_stathead_stats.py" />
     <Compile Include="test.py" />
+    <Compile Include="test2.py" />
+    <Compile Include="test3.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="archive\" />
@@ -57,6 +60,7 @@
     <Content Include="new_data\stathead_batting_game_data.csv" />
     <Content Include="new_data\stathead_game_logs.csv" />
     <Content Include="new_data\stathead_player_pitching_game_data.csv" />
+    <Content Include="new_data\stathead_player_pitching_test.csv" />
     <Content Include="new_data\stathead_team_pitching_game_data.csv" />
     <Content Include="requirements.txt" />
   </ItemGroup>

@@ -27,3 +27,4 @@ __pycache__/
 
 # Ignore archive zip backups if any
 *.zip
+.git-credentials

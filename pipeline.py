@@ -37,7 +37,7 @@ for label, script in steps:
         capture_output=True,
         text=True,
         encoding="utf-8",
-        errors="replace"  # avoids crashing on emoji/UTF-8 mismatches
+        errors="replace"
     )
 
     if result.returncode != 0:
@@ -50,6 +50,20 @@ else:
     # === GIT PUSH ===
     print("\n📦 Committing and pushing to GitHub...")
     try:
+        # Set Git identity if missing
+        def ensure_git_identity():
+            name = subprocess.run(["git", "config", "--global", "user.name"], capture_output=True, text=True).stdout.strip()
+            email = subprocess.run(["git", "config", "--global", "user.email"], capture_output=True, text=True).stdout.strip()
+
+            if not name:
+                subprocess.run(["git", "config", "--global", "user.name", "Gator"], check=True)
+                print("🔧 Set git user.name = Gator")
+            if not email:
+                subprocess.run(["git", "config", "--global", "user.email", "a1d3r13@gmail.com"], check=True)
+                print("🔧 Set git user.email = a1d3r13@gmail.com")
+
+        ensure_git_identity()
+
         subprocess.run(["git", "add", "."], check=True)
         timestamp = time.strftime("%Y%m%d_%H%M%S")
         commit_message = f"Auto push from run_pipeline at {timestamp}"
@@ -58,11 +72,3 @@ else:
         print("✅ Git push successful.")
     except subprocess.CalledProcessError as e:
         print(f"❌ Git command failed: {e}")
-
-    # === LAUNCH STREAMLIT ===
-    print("\n🚀 Launching Streamlit...")
-    try:
-        subprocess.Popen(["streamlit", "run", "app.py"], creationflags=subprocess.CREATE_NEW_CONSOLE)
-        print("🌐 Streamlit launched in a new window.")
-    except Exception as e:
-        print(f"❌ Failed to launch Streamlit: {e}")

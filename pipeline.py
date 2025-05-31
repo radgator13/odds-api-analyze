@@ -33,12 +33,11 @@ def send_email(subject, body):
     try:
         msg = EmailMessage()
         msg.set_content(body)
-        msg["Subject"] = subject
+        msg["Subject"] = f"[Pipeline] {subject}"
         msg["From"] = EMAIL_USER
         msg["To"] = ", ".join(TO_EMAILS)
 
         with smtplib.SMTP("smtp.gmail.com", 587) as smtp:
-            smtp.set_debuglevel(1)  # Print full SMTP interaction
             smtp.starttls()
             smtp.login(EMAIL_USER, EMAIL_PASS)
             smtp.send_message(msg)
@@ -62,7 +61,7 @@ builtins.print = safe_print
 if sys.stdout.encoding.lower() != "utf-8":
     print("[WARN] Terminal does not support UTF-8. Falling back.")
 
-# === CONFIG ===
+# === Script steps ===
 steps = [
     ("[STEP] Scraping Stathead stats", "scrape_stathead_stats.py"),
     ("[STEP] Pulling sportsbook props", "run_odds_api.py"),
@@ -71,7 +70,6 @@ steps = [
     ("[STEP] Compare strikeouts to actuals", "compare_strikeout_picks_to_actual.py")
 ]
 
-# === RUN STEPS ===
 pipeline_success = True
 for label, script in steps:
     print(f"\n{label}")
@@ -93,7 +91,7 @@ for label, script in steps:
         print(f"[OUTPUT] {script} completed.")
         print(result.stdout)
 
-# === GIT PUSH ===
+# === Git push ===
 if pipeline_success:
     print("\n[STEP] Committing and pushing to GitHub...")
     try:

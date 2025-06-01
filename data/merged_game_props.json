@@ -787,9 +787,9 @@
     "spreads_toronto_blue_jays_line":null,
     "spreads_toronto_blue_jays_odds":null,
     "totals_over_line":8.0,
-    "totals_over_odds":-104.0,
+    "totals_over_odds":-106.0,
     "totals_under_line":8.0,
-    "totals_under_odds":-116.0,
+    "totals_under_odds":-114.0,
     "h2h_los_angeles_dodgers_line":null,
     "h2h_los_angeles_dodgers_odds":null,
     "h2h_new_york_yankees_line":null,
@@ -831,9 +831,9 @@
     "spreads_chicago_white_sox_line":null,
     "spreads_chicago_white_sox_odds":null,
     "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":190.0,
+    "h2h_pittsburgh_pirates_odds":193.0,
     "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":-212.0,
+    "h2h_san_diego_padres_odds":-215.0,
     "spreads_pittsburgh_pirates_line":1.5,
     "spreads_pittsburgh_pirates_odds":-112.0,
     "spreads_san_diego_padres_line":-1.5,
@@ -1266,222 +1266,6 @@
         "market":"batter_hits",
         "line":0.5,
         "odds":110
-      },
-      {
-        "player":"Andrew McCutchen",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-141
-      },
-      {
-        "player":"Andrew McCutchen",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":108
-      },
-      {
-        "player":"Ke'Bryan Hayes",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-120
-      },
-      {
-        "player":"Ke'Bryan Hayes",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-108
-      },
-      {
-        "player":"Bryan Reynolds",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-172
-      },
-      {
-        "player":"Bryan Reynolds",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":131
-      },
-      {
-        "player":"Jake Cronenworth",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-141
-      },
-      {
-        "player":"Jake Cronenworth",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":109
-      },
-      {
-        "player":"Manny Machado",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-270
-      },
-      {
-        "player":"Manny Machado",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":200
-      },
-      {
-        "player":"Fernando Tatis Jr.",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":186
-      },
-      {
-        "player":"Fernando Tatis Jr.",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":-250
-      },
-      {
-        "player":"Adam Frazier",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-118
-      },
-      {
-        "player":"Adam Frazier",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-110
-      },
-      {
-        "player":"Luis Campusano",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-145
-      },
-      {
-        "player":"Luis Campusano",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":111
-      },
-      {
-        "player":"Xander Bogaerts",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-213
-      },
-      {
-        "player":"Xander Bogaerts",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":162
-      },
-      {
-        "player":"Oneil Cruz",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-152
-      },
-      {
-        "player":"Oneil Cruz",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":117
-      },
-      {
-        "player":"Isiah Kiner-Falefa",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-152
-      },
-      {
-        "player":"Isiah Kiner-Falefa",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":116
-      },
-      {
-        "player":"Jackson Merrill",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":182
-      },
-      {
-        "player":"Jackson Merrill",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":-244
-      },
-      {
-        "player":"Luis Arraez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":171
-      },
-      {
-        "player":"Luis Arraez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":-227
-      },
-      {
-        "player":"Henry Davis",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-105
-      },
-      {
-        "player":"Henry Davis",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-123
-      },
-      {
-        "player":"Martin Maldonado",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":110
-      },
-      {
-        "player":"Martin Maldonado",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-143
-      },
-      {
-        "player":"Gavin Sheets",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-156
-      },
-      {
-        "player":"Gavin Sheets",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":121
-      },
-      {
-        "player":"Spencer Horwitz",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-145
-      },
-      {
-        "player":"Spencer Horwitz",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":112
-      },
-      {
-        "player":"Alexander Canario",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-130
-      },
-      {
-        "player":"Alexander Canario",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":100
       },
       {
         "player":"Andrew McCutchen",

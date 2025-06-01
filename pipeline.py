@@ -91,54 +91,54 @@ for label, script in steps:
         print(f"[OUTPUT] {script} completed.")
         print(result.stdout)
 
-# === Git push ===
-if pipeline_success:
-    print("\n[STEP] Committing and pushing to GitHub...")
+# # === Git push ===
+# if pipeline_success:
+#     print("\n[STEP] Committing and pushing to GitHub...")
 
-    try:
-        import subprocess, time
+#     try:
+#         import subprocess, time
 
-        def ensure_git_identity():
-            name = subprocess.run(["git", "config", "--global", "user.name"], capture_output=True, text=True).stdout.strip()
-            email = subprocess.run(["git", "config", "--global", "user.email"], capture_output=True, text=True).stdout.strip()
+#         def ensure_git_identity():
+#             name = subprocess.run(["git", "config", "--global", "user.name"], capture_output=True, text=True).stdout.strip()
+#             email = subprocess.run(["git", "config", "--global", "user.email"], capture_output=True, text=True).stdout.strip()
 
-            if not name:
-                subprocess.run(["git", "config", "--global", "user.name", "Gator"], check=True)
-            if not email:
-                subprocess.run(["git", "config", "--global", "user.email", "a1d3r13@gmail.com"], check=True)
+#             if not name:
+#                 subprocess.run(["git", "config", "--global", "user.name", "Gator"], check=True)
+#             if not email:
+#                 subprocess.run(["git", "config", "--global", "user.email", "a1d3r13@gmail.com"], check=True)
 
-        ensure_git_identity()
+#         ensure_git_identity()
 
-        # Support long Windows paths
-        subprocess.run(["git", "config", "--global", "core.longpaths", "true"], check=True)
+#         # Support long Windows paths
+#         subprocess.run(["git", "config", "--global", "core.longpaths", "true"], check=True)
 
-        print("[STEP] Cleaning untracked files...")
-        subprocess.run(["git", "clean", "-fd"], check=True)
+#         print("[STEP] Cleaning untracked files...")
+#         subprocess.run(["git", "clean", "-fd"], check=True)
 
-        print("[STEP] Staging changes...")
-        subprocess.run(["git", "add", "."], check=True)
+#         print("[STEP] Staging changes...")
+#         subprocess.run(["git", "add", "."], check=True)
 
-        timestamp = time.strftime("%Y%m%d_%H%M%S")
-        commit_message = f"Auto push from run_odds_api at {timestamp}"
+#         timestamp = time.strftime("%Y%m%d_%H%M%S")
+#         commit_message = f"Auto push from run_odds_api at {timestamp}"
 
-        print("[STEP] Committing changes...")
-        commit_result = subprocess.run(["git", "commit", "-m", commit_message], capture_output=True, text=True)
+#         print("[STEP] Committing changes...")
+#         commit_result = subprocess.run(["git", "commit", "-m", commit_message], capture_output=True, text=True)
 
-        if "nothing to commit" in commit_result.stdout.lower():
-            print("[INFO] Nothing to commit.")
-        else:
-            print("[STEP] Pulling latest changes (rebase)...")
-            subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)
+#         if "nothing to commit" in commit_result.stdout.lower():
+#             print("[INFO] Nothing to commit.")
+#         else:
+#             print("[STEP] Pulling latest changes (rebase)...")
+#             subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)
 
-            print("[STEP] Pushing to GitHub...")
-            subprocess.run(["git", "push", "origin", "main"], check=True)
-            print("✅ Git push successful.")
+#             print("[STEP] Pushing to GitHub...")
+#             subprocess.run(["git", "push", "origin", "main"], check=True)
+#             print("✅ Git push successful.")
 
-        send_email("Pipeline Success", f"Auto push from run_odds_api completed at {timestamp}.")
+#         send_email("Pipeline Success", f"Auto push from run_odds_api completed at {timestamp}.")
 
-    except subprocess.CalledProcessError as e:
-        print(f"[ERROR] Git command failed: {e}")
-        send_email("Git Push Failed", f"Git error:\n{e.stderr if hasattr(e, 'stderr') else str(e)}")
+#     except subprocess.CalledProcessError as e:
+#         print(f"[ERROR] Git command failed: {e}")
+#         send_email("Git Push Failed", f"Git error:\n{e.stderr if hasattr(e, 'stderr') else str(e)}")
 
 
 

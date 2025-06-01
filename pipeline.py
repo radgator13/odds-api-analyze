@@ -111,9 +111,6 @@ if pipeline_success:
 
         ensure_git_identity()
 
-        print("[STEP] Pulling latest changes...")
-        subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)
-
         print("[STEP] Staging changes...")
         subprocess.run(["git", "add", "."], check=True)
 
@@ -121,11 +118,17 @@ if pipeline_success:
         commit_message = f"Auto push from run_pipeline at {timestamp}"
 
         print("[STEP] Committing changes...")
-        commit_result = subprocess.run(["git", "commit", "-m", commit_message], capture_output=True, text=True)
+        commit_result = subprocess.run(
+            ["git", "commit", "-m", commit_message],
+            capture_output=True, text=True
+        )
 
         if "nothing to commit" in commit_result.stdout.lower():
             print("[INFO] Nothing to commit.")
         else:
+            print("[STEP] Pulling latest changes (rebase)...")
+            subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)
+
             print("[STEP] Pushing to GitHub...")
             subprocess.run(["git", "push", "origin", "main"], check=True)
             print("✅ Git push successful.")
@@ -135,4 +138,5 @@ if pipeline_success:
     except subprocess.CalledProcessError as e:
         print(f"[ERROR] Git command failed: {e}")
         send_email("Git Push Failed", f"Git error:\n{e.stderr if hasattr(e, 'stderr') else str(e)}")
+
 

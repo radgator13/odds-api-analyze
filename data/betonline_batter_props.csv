@@ -1,188 +1,260 @@
 event_id,home_team,away_team,commence_time,bookmaker,last_update,market,participant,description,raw_name,line,odds
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Andrew McCutchen,Over,2.5,1200
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Andrew McCutchen,Over,0.5,-141
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Andrew McCutchen,Over,1.5,310
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Fernando Tatis Jr.,Over,2.5,550
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Fernando Tatis Jr.,Over,0.5,-323
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Fernando Tatis Jr.,Over,3.5,1750
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Fernando Tatis Jr.,Over,1.5,186
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Bryan Reynolds,Over,2.5,850
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Bryan Reynolds,Over,1.5,240
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Bryan Reynolds,Over,0.5,-172
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Jake Cronenworth,Over,1.5,280
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Jake Cronenworth,Over,0.5,-141
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Jake Cronenworth,Over,2.5,950
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Adam Frazier,Over,2.5,1250
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Adam Frazier,Over,1.5,350
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Adam Frazier,Over,0.5,-118
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Ke'Bryan Hayes,Over,2.5,1250
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Ke'Bryan Hayes,Over,0.5,-120
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Ke'Bryan Hayes,Over,1.5,340
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Manny Machado,Over,2.5,575
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Manny Machado,Over,1.5,169
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Manny Machado,Over,0.5,-270
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Luis Campusano,Over,2.5,950
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Luis Campusano,Over,1.5,270
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Luis Campusano,Over,0.5,-145
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Xander Bogaerts,Over,0.5,-213
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Xander Bogaerts,Over,2.5,950
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Xander Bogaerts,Over,1.5,240
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Oneil Cruz,Over,1.5,300
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Oneil Cruz,Over,0.5,-152
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Oneil Cruz,Over,2.5,1150
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Jackson Merrill,Over,0.5,-333
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Jackson Merrill,Over,2.5,525
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Jackson Merrill,Over,1.5,182
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Jackson Merrill,Over,3.5,1750
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Luis Arraez,Over,2.5,400
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Luis Arraez,Over,1.5,171
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Luis Arraez,Over,3.5,1100
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Luis Arraez,Over,0.5,-270
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Henry Davis,Over,2.5,2100
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Henry Davis,Over,1.5,525
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Henry Davis,Over,0.5,-105
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Isiah Kiner-Falefa,Over,0.5,-152
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Isiah Kiner-Falefa,Over,1.5,290
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Isiah Kiner-Falefa,Over,2.5,1100
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Alexander Canario,Over,1.5,330
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Alexander Canario,Over,2.5,1200
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Alexander Canario,Over,0.5,-130
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Gavin Sheets,Over,0.5,-156
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Gavin Sheets,Over,1.5,200
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Gavin Sheets,Over,2.5,575
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Spencer Horwitz,Over,2.5,1200
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Spencer Horwitz,Over,0.5,-145
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Spencer Horwitz,Over,1.5,310
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Martin Maldonado,Over,1.5,575
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Martin Maldonado,Over,2.5,2100
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_hits,,Martin Maldonado,Over,0.5,110
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Andrew McCutchen,Over,1.5,3400
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Andrew McCutchen,Over,0.5,500
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Jake Cronenworth,Over,0.5,600
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Jake Cronenworth,Over,1.5,3900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Fernando Tatis Jr.,Over,1.5,1900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Fernando Tatis Jr.,Over,0.5,300
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Ke'Bryan Hayes,Over,1.5,4900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Ke'Bryan Hayes,Over,0.5,900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Manny Machado,Over,0.5,300
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Manny Machado,Over,1.5,1900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Bryan Reynolds,Over,1.5,3400
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Bryan Reynolds,Over,0.5,500
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Luis Campusano,Over,0.5,600
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Luis Campusano,Over,1.5,3900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Adam Frazier,Over,0.5,900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Adam Frazier,Over,1.5,4900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Xander Bogaerts,Over,0.5,500
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Xander Bogaerts,Over,1.5,3400
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Oneil Cruz,Over,1.5,2150
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Oneil Cruz,Over,0.5,350
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Luis Arraez,Over,0.5,900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Luis Arraez,Over,1.5,4900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Henry Davis,Over,1.5,4400
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Henry Davis,Over,0.5,700
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Isiah Kiner-Falefa,Over,0.5,900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Isiah Kiner-Falefa,Over,1.5,4900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Jackson Merrill,Over,1.5,2400
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Jackson Merrill,Over,0.5,400
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Martin Maldonado,Over,0.5,600
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Martin Maldonado,Over,1.5,3900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Alexander Canario,Over,1.5,3400
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Alexander Canario,Over,0.5,500
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Spencer Horwitz,Over,1.5,3900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Spencer Horwitz,Over,0.5,600
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Gavin Sheets,Over,1.5,3900
-3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-05-31T23:58:55Z,batter_home_runs,,Gavin Sheets,Over,0.5,600
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Ketel Marte,Over,2.5,575
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Ketel Marte,Over,1.5,172
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Ketel Marte,Over,0.5,-263
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Geraldo Perdomo,Over,0.5,-204
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Geraldo Perdomo,Over,1.5,240
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Geraldo Perdomo,Over,2.5,950
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,CJ Abrams,Over,2.5,475
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,CJ Abrams,Over,3.5,1450
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,CJ Abrams,Over,0.5,-286
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,CJ Abrams,Over,1.5,182
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Keibert Ruiz,Over,1.5,210
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Keibert Ruiz,Over,0.5,-208
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Keibert Ruiz,Over,2.5,700
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Pavin Smith,Over,0.5,-164
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Pavin Smith,Over,1.5,200
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Pavin Smith,Over,2.5,600
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Alek Thomas,Over,0.5,-172
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Alek Thomas,Over,2.5,1050
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Alek Thomas,Over,1.5,270
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Josh Bell,Over,1.5,240
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Josh Bell,Over,2.5,950
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Josh Bell,Over,0.5,-208
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Luis Garcia Jr.,Over,2.5,525
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Luis Garcia Jr.,Over,1.5,178
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Luis Garcia Jr.,Over,3.5,1750
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Luis Garcia Jr.,Over,0.5,-333
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Corbin Carroll,Over,1.5,164
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Corbin Carroll,Over,2.5,525
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Corbin Carroll,Over,3.5,1700
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Corbin Carroll,Over,0.5,-357
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Gabriel Moreno,Over,2.5,700
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Gabriel Moreno,Over,0.5,-227
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Gabriel Moreno,Over,1.5,198
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Eugenio Suarez,Over,0.5,-222
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Eugenio Suarez,Over,1.5,200
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Eugenio Suarez,Over,2.5,725
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,James Wood,Over,0.5,-222
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,James Wood,Over,2.5,600
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,James Wood,Over,1.5,188
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Jose Tena,Over,2.5,750
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Jose Tena,Over,1.5,210
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Jose Tena,Over,0.5,-208
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Josh Naylor,Over,1.5,195
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Josh Naylor,Over,0.5,-312
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Josh Naylor,Over,2.5,550
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Josh Naylor,Over,3.5,1750
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Robert Hassell III,Over,1.5,186
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Robert Hassell III,Over,2.5,600
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Robert Hassell III,Over,0.5,-208
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Nathaniel Lowe,Over,2.5,650
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Nathaniel Lowe,Over,0.5,-256
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Nathaniel Lowe,Over,1.5,183
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Daylen Lile,Over,0.5,-172
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Daylen Lile,Over,1.5,280
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Daylen Lile,Over,2.5,1050
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Randal Grichuk,Over,2.5,1050
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Randal Grichuk,Over,0.5,-175
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:57:48Z,batter_hits,,Randal Grichuk,Over,1.5,270
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Ketel Marte,Over,0.5,400
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Ketel Marte,Over,1.5,2400
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Pavin Smith,Over,1.5,3900
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Pavin Smith,Over,0.5,600
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Alek Thomas,Over,1.5,4900
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Alek Thomas,Over,0.5,900
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Keibert Ruiz,Over,1.5,4400
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Keibert Ruiz,Over,0.5,700
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Luis Garcia Jr.,Over,0.5,450
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Luis Garcia Jr.,Over,1.5,2900
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Geraldo Perdomo,Over,0.5,700
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Geraldo Perdomo,Over,1.5,4400
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,CJ Abrams,Over,0.5,500
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,CJ Abrams,Over,1.5,3400
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Josh Bell,Over,0.5,450
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Josh Bell,Over,1.5,2900
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Gabriel Moreno,Over,0.5,700
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Gabriel Moreno,Over,1.5,4400
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Corbin Carroll,Over,1.5,1900
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Corbin Carroll,Over,0.5,300
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Eugenio Suarez,Over,0.5,400
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Eugenio Suarez,Over,1.5,2400
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Jose Tena,Over,0.5,900
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Jose Tena,Over,1.5,4900
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,James Wood,Over,0.5,350
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,James Wood,Over,1.5,2150
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Daylen Lile,Over,0.5,900
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Daylen Lile,Over,1.5,4900
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Nathaniel Lowe,Over,0.5,500
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Nathaniel Lowe,Over,1.5,3400
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Robert Hassell III,Over,1.5,4900
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Robert Hassell III,Over,0.5,900
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Josh Naylor,Over,1.5,3400
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Josh Naylor,Over,0.5,500
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Randal Grichuk,Over,0.5,500
-e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-05-31T23:56:35Z,batter_home_runs,,Randal Grichuk,Over,1.5,3400
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Andrew McCutchen,Over,2.5,1200
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Andrew McCutchen,Over,0.5,-141
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Andrew McCutchen,Over,1.5,310
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Fernando Tatis Jr.,Over,2.5,550
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Fernando Tatis Jr.,Over,0.5,-323
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Fernando Tatis Jr.,Over,3.5,1750
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Fernando Tatis Jr.,Over,1.5,186
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Bryan Reynolds,Over,2.5,850
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Bryan Reynolds,Over,1.5,240
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Bryan Reynolds,Over,0.5,-172
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Jake Cronenworth,Over,1.5,280
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Jake Cronenworth,Over,0.5,-141
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Jake Cronenworth,Over,2.5,950
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Adam Frazier,Over,2.5,1250
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Adam Frazier,Over,1.5,350
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Adam Frazier,Over,0.5,-118
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Ke'Bryan Hayes,Over,2.5,1250
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Ke'Bryan Hayes,Over,0.5,-120
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Ke'Bryan Hayes,Over,1.5,340
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Manny Machado,Over,2.5,575
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Manny Machado,Over,1.5,169
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Manny Machado,Over,0.5,-270
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Luis Campusano,Over,2.5,950
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Luis Campusano,Over,1.5,270
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Luis Campusano,Over,0.5,-145
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Xander Bogaerts,Over,0.5,-213
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Xander Bogaerts,Over,2.5,950
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Xander Bogaerts,Over,1.5,240
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Oneil Cruz,Over,1.5,300
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Oneil Cruz,Over,0.5,-152
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Oneil Cruz,Over,2.5,1150
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Jackson Merrill,Over,0.5,-333
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Jackson Merrill,Over,2.5,525
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Jackson Merrill,Over,1.5,182
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Jackson Merrill,Over,3.5,1750
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Luis Arraez,Over,2.5,400
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Luis Arraez,Over,1.5,171
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Luis Arraez,Over,3.5,1100
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Luis Arraez,Over,0.5,-270
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Henry Davis,Over,2.5,2100
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Henry Davis,Over,1.5,525
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Henry Davis,Over,0.5,-105
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Isiah Kiner-Falefa,Over,0.5,-152
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Isiah Kiner-Falefa,Over,1.5,290
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Isiah Kiner-Falefa,Over,2.5,1100
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Alexander Canario,Over,1.5,330
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Alexander Canario,Over,2.5,1200
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Alexander Canario,Over,0.5,-130
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Gavin Sheets,Over,0.5,-156
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Gavin Sheets,Over,1.5,200
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Gavin Sheets,Over,2.5,575
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Spencer Horwitz,Over,2.5,1200
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Spencer Horwitz,Over,0.5,-145
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Spencer Horwitz,Over,1.5,310
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Martin Maldonado,Over,1.5,575
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Martin Maldonado,Over,2.5,2100
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Martin Maldonado,Over,0.5,110
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Andrew McCutchen,Over,0.5,-141
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Andrew McCutchen,Under,0.5,108
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Ke'Bryan Hayes,Over,0.5,-120
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Ke'Bryan Hayes,Under,0.5,-108
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Bryan Reynolds,Over,0.5,-172
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Bryan Reynolds,Under,0.5,131
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Jake Cronenworth,Over,0.5,-141
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Jake Cronenworth,Under,0.5,109
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Manny Machado,Over,0.5,-270
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Manny Machado,Under,0.5,200
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Fernando Tatis Jr.,Over,1.5,186
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Fernando Tatis Jr.,Under,1.5,-250
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Adam Frazier,Over,0.5,-118
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Adam Frazier,Under,0.5,-110
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Luis Campusano,Over,0.5,-145
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Luis Campusano,Under,0.5,111
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Xander Bogaerts,Over,0.5,-213
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Xander Bogaerts,Under,0.5,162
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Oneil Cruz,Over,0.5,-152
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Oneil Cruz,Under,0.5,117
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Isiah Kiner-Falefa,Over,0.5,-152
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Isiah Kiner-Falefa,Under,0.5,116
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Jackson Merrill,Over,1.5,182
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Jackson Merrill,Under,1.5,-244
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Luis Arraez,Over,1.5,171
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Luis Arraez,Under,1.5,-227
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Henry Davis,Over,0.5,-105
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Henry Davis,Under,0.5,-123
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Martin Maldonado,Over,0.5,110
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Martin Maldonado,Under,0.5,-143
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Gavin Sheets,Over,0.5,-156
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Gavin Sheets,Under,0.5,121
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Spencer Horwitz,Over,0.5,-145
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Spencer Horwitz,Under,0.5,112
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Alexander Canario,Over,0.5,-130
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_hits,,Alexander Canario,Under,0.5,100
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Andrew McCutchen,Over,1.5,3400
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Andrew McCutchen,Over,0.5,500
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Jake Cronenworth,Over,0.5,600
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Jake Cronenworth,Over,1.5,3900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Fernando Tatis Jr.,Over,1.5,1900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Fernando Tatis Jr.,Over,0.5,300
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Ke'Bryan Hayes,Over,1.5,4900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Ke'Bryan Hayes,Over,0.5,900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Manny Machado,Over,0.5,300
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Manny Machado,Over,1.5,1900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Bryan Reynolds,Over,1.5,3400
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Bryan Reynolds,Over,0.5,500
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Luis Campusano,Over,0.5,600
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Luis Campusano,Over,1.5,3900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Adam Frazier,Over,0.5,900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Adam Frazier,Over,1.5,4900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Xander Bogaerts,Over,0.5,500
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Xander Bogaerts,Over,1.5,3400
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Oneil Cruz,Over,1.5,2150
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Oneil Cruz,Over,0.5,350
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Luis Arraez,Over,0.5,900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Luis Arraez,Over,1.5,4900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Henry Davis,Over,1.5,4400
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Henry Davis,Over,0.5,700
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Isiah Kiner-Falefa,Over,0.5,900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Isiah Kiner-Falefa,Over,1.5,4900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Jackson Merrill,Over,1.5,2400
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Jackson Merrill,Over,0.5,400
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Martin Maldonado,Over,0.5,600
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Martin Maldonado,Over,1.5,3900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Alexander Canario,Over,1.5,3400
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Alexander Canario,Over,0.5,500
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Spencer Horwitz,Over,1.5,3900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Spencer Horwitz,Over,0.5,600
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Gavin Sheets,Over,1.5,3900
+3ab75ccff9e0a732f5cf7fd89e7ee2fb,San Diego Padres,Pittsburgh Pirates,2025-06-01T01:41:00Z,BetOnline.ag,2025-06-01T00:01:22Z,batter_home_runs,,Gavin Sheets,Over,0.5,600
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Ketel Marte,Over,2.5,575
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Ketel Marte,Over,1.5,172
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Ketel Marte,Over,0.5,-263
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Geraldo Perdomo,Over,0.5,-204
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Geraldo Perdomo,Over,1.5,240
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Geraldo Perdomo,Over,2.5,950
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,CJ Abrams,Over,2.5,475
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,CJ Abrams,Over,3.5,1450
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,CJ Abrams,Over,0.5,-286
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,CJ Abrams,Over,1.5,182
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Keibert Ruiz,Over,1.5,210
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Keibert Ruiz,Over,0.5,-208
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Keibert Ruiz,Over,2.5,700
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Pavin Smith,Over,0.5,-164
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Pavin Smith,Over,1.5,200
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Pavin Smith,Over,2.5,600
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Alek Thomas,Over,0.5,-169
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Alek Thomas,Over,2.5,1050
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Alek Thomas,Over,1.5,280
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Josh Bell,Over,1.5,240
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Josh Bell,Over,2.5,950
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Josh Bell,Over,0.5,-208
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Luis Garcia Jr.,Over,2.5,525
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Luis Garcia Jr.,Over,1.5,178
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Luis Garcia Jr.,Over,3.5,1750
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Luis Garcia Jr.,Over,0.5,-333
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Corbin Carroll,Over,1.5,161
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Corbin Carroll,Over,2.5,500
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Corbin Carroll,Over,3.5,1700
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Corbin Carroll,Over,0.5,-370
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Gabriel Moreno,Over,2.5,700
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Gabriel Moreno,Over,0.5,-227
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Gabriel Moreno,Over,1.5,198
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Eugenio Suarez,Over,0.5,-222
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Eugenio Suarez,Over,1.5,200
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Eugenio Suarez,Over,2.5,725
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,James Wood,Over,0.5,-222
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,James Wood,Over,2.5,600
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,James Wood,Over,1.5,188
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Jose Tena,Over,2.5,750
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Jose Tena,Over,1.5,210
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Jose Tena,Over,0.5,-208
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Josh Naylor,Over,1.5,195
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Josh Naylor,Over,0.5,-312
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Josh Naylor,Over,2.5,550
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Josh Naylor,Over,3.5,1750
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Robert Hassell III,Over,1.5,186
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Robert Hassell III,Over,2.5,600
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Robert Hassell III,Over,0.5,-208
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Nathaniel Lowe,Over,2.5,650
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Nathaniel Lowe,Over,0.5,-256
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Nathaniel Lowe,Over,1.5,183
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Daylen Lile,Over,0.5,-172
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Daylen Lile,Over,1.5,280
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Daylen Lile,Over,2.5,1050
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Randal Grichuk,Over,2.5,1050
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Randal Grichuk,Over,0.5,-175
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Randal Grichuk,Over,1.5,270
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,CJ Abrams,Over,1.5,182
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,CJ Abrams,Under,1.5,-244
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Keibert Ruiz,Over,0.5,-208
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Keibert Ruiz,Under,0.5,159
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Alek Thomas,Over,0.5,-169
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Alek Thomas,Under,0.5,130
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Geraldo Perdomo,Over,0.5,-204
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Geraldo Perdomo,Under,0.5,156
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Josh Bell,Over,0.5,-208
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Josh Bell,Under,0.5,159
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Ketel Marte,Over,0.5,-263
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Ketel Marte,Under,0.5,194
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Luis Garcia Jr.,Over,1.5,178
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Luis Garcia Jr.,Under,1.5,-238
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Pavin Smith,Over,0.5,-164
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Pavin Smith,Under,0.5,125
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Gabriel Moreno,Over,0.5,-227
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Gabriel Moreno,Under,0.5,171
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Eugenio Suarez,Over,0.5,-222
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Eugenio Suarez,Under,0.5,168
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Corbin Carroll,Over,1.5,161
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Corbin Carroll,Under,1.5,-213
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,James Wood,Over,0.5,-222
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,James Wood,Under,0.5,166
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Jose Tena,Over,0.5,-208
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Jose Tena,Under,0.5,157
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Daylen Lile,Over,0.5,-172
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Daylen Lile,Under,0.5,131
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Nathaniel Lowe,Over,0.5,-256
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Nathaniel Lowe,Under,0.5,190
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Robert Hassell III,Over,0.5,-208
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Robert Hassell III,Under,0.5,159
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Josh Naylor,Over,1.5,195
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Josh Naylor,Under,1.5,-263
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Randal Grichuk,Over,0.5,-175
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:01:25Z,batter_hits,,Randal Grichuk,Under,0.5,134
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Ketel Marte,Over,0.5,400
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Ketel Marte,Over,1.5,2400
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Pavin Smith,Over,1.5,3900
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Pavin Smith,Over,0.5,600
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Alek Thomas,Over,1.5,4900
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Alek Thomas,Over,0.5,900
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Keibert Ruiz,Over,1.5,4400
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Keibert Ruiz,Over,0.5,700
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Luis Garcia Jr.,Over,0.5,450
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Luis Garcia Jr.,Over,1.5,2900
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Geraldo Perdomo,Over,0.5,700
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Geraldo Perdomo,Over,1.5,4400
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,CJ Abrams,Over,0.5,500
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,CJ Abrams,Over,1.5,3400
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Josh Bell,Over,0.5,450
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Josh Bell,Over,1.5,2900
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Gabriel Moreno,Over,0.5,700
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Gabriel Moreno,Over,1.5,4400
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Corbin Carroll,Over,1.5,1900
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Corbin Carroll,Over,0.5,300
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Eugenio Suarez,Over,0.5,400
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Eugenio Suarez,Over,1.5,2400
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Jose Tena,Over,0.5,900
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Jose Tena,Over,1.5,4900
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,James Wood,Over,0.5,350
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,James Wood,Over,1.5,2150
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Daylen Lile,Over,0.5,900
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Daylen Lile,Over,1.5,4900
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Nathaniel Lowe,Over,0.5,500
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Nathaniel Lowe,Over,1.5,3400
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Robert Hassell III,Over,1.5,4900
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Robert Hassell III,Over,0.5,900
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Josh Naylor,Over,1.5,3400
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Josh Naylor,Over,0.5,500
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Randal Grichuk,Over,0.5,500
+e2a22464e4ad6bca6b3c675a49ebd175,Arizona Diamondbacks,Washington Nationals,2025-06-01T02:11:00Z,BetOnline.ag,2025-06-01T00:00:12Z,batter_home_runs,,Randal Grichuk,Over,1.5,3400

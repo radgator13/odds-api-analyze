@@ -109,50 +109,48 @@ if pipeline_success:
 
         ensure_git_identity()
 
-        # Support long paths (Windows)
+        # Long paths support (Windows)
         subprocess.run(["git", "config", "--global", "core.longpaths", "true"], check=True)
 
-        # Check for any unstaged local changes
-        print("[STEP] Checking for local changes...")
-        status_result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True)
-        has_changes = bool(status_result.stdout.strip())
+        # === Clean up anything blocking pull ===
+        print("[STEP] Checking for local file conflicts before pull...")
+        subprocess.run(["git", "add", "."], check=True)
 
-        if has_changes:
-            print("[STEP] Staging and pre-committing changes before pull...")
-            subprocess.run(["git", "add", "."], check=True)
+        status_output = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout.strip()
+
+        if status_output:
+            print("[STEP] Committing local changes before pull...")
             pre_pull_msg = f"Auto pre-pull commit at {time.strftime('%Y%m%d_%H%M%S')}"
             subprocess.run(["git", "commit", "-m", pre_pull_msg], check=True)
         else:
-            print("[INFO] Working directory is clean.")
+            print("[INFO] No local changes to commit before pull.")
 
+        # === Pull latest changes safely ===
         print("[STEP] Pulling latest changes (rebase)...")
         subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)
 
-        # Stage any new changes after pull
+        # === Push new changes, if any ===
         print("[STEP] Staging post-pull changes...")
         subprocess.run(["git", "add", "."], check=True)
 
-        print("[STEP] Checking for post-pull changes...")
-        diff_result = subprocess.run(["git", "diff", "--cached", "--quiet"])
-
-        if diff_result.returncode == 0:
-            print("[INFO] No new changes to commit.")
+        diff_check = subprocess.run(["git", "diff", "--cached", "--quiet"])
+        if diff_check.returncode == 0:
+            print("[INFO] No changes to push.")
         else:
-            timestamp = time.strftime("%Y%m%d_%H%M%S")
-            commit_message = f"Auto push from run_odds_api at {timestamp}"
-
-            print("[STEP] Committing new changes...")
+            commit_message = f"Auto push from run_odds_api at {time.strftime('%Y%m%d_%H%M%S')}"
+            print("[STEP] Committing post-pull changes...")
             subprocess.run(["git", "commit", "-m", commit_message], check=True)
 
             print("[STEP] Pushing to GitHub...")
             subprocess.run(["git", "push", "origin", "main"], check=True)
             print("✅ Git push successful.")
 
-        send_email("Pipeline Success", f"Auto push from run_odds_api completed at {time.strftime('%Y%m%d_%H%M%S')}.")
+        send_email("Pipeline Success", f"Auto push from run_odds_api completed.")
 
     except subprocess.CalledProcessError as e:
         print(f"[ERROR] Git command failed: {e}")
         send_email("Git Push Failed", f"Git error:\n{e.stderr if hasattr(e, 'stderr') else str(e)}")
+
 
 
 

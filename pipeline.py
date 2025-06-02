@@ -135,7 +135,11 @@ if pipeline_success:
         else:
             print("[INFO] No local changes to commit.")
 
-        # === Safe pull with rebase before pushing ===
+        # === Remove untracked files before pull to prevent abort ===
+        print("[STEP] Cleaning untracked files that could block pull...")
+        subprocess.run(["git", "clean", "-fd"], check=False)
+
+        # Safe pull with rebase and autostash
         print("[STEP] Rebasing against latest origin/main...")
         subprocess.run(["git", "pull", "--rebase", "--autostash", "origin", "main"], check=True)
 
@@ -149,6 +153,7 @@ if pipeline_success:
     except subprocess.CalledProcessError as e:
         print(f"[ERROR] Git command failed: {e}")
         send_email("Git Push Failed", f"Git error:\n{e.stderr if hasattr(e, 'stderr') else str(e)}")
+
 
 
 

@@ -109,11 +109,11 @@ if pipeline_success:
         ensure_git_identity()
         subprocess.run(["git", "config", "--global", "core.longpaths", "true"], check=True)
 
-        # === Clean up known-problematic folders ===
+        # === Cleanup known dangerous folders ===
         paths_to_clean = ["clean-repo", "new_data/archive"]
         for path in paths_to_clean:
             if os.path.exists(path):
-                print(f"[CLEANUP] Untracking and deleting: {path}")
+                print(f"[CLEANUP] Removing tracked path: {path}")
                 subprocess.run(["git", "rm", "--cached", "-r", path], check=False)
                 if os.path.isdir(path):
                     shutil.rmtree(path, ignore_errors=True)
@@ -122,28 +122,34 @@ if pipeline_success:
                 with open(".gitignore", "a") as gi:
                     gi.write(f"\n{path}/\n")
 
-        # Stage only updates to tracked files
+        # Stage only tracked file changes
         print("[STEP] Staging tracked file changes only...")
         subprocess.run(["git", "add", "-u"], check=True)
 
-        # Commit if necessary
+        # Commit if needed
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout.strip()
         if status:
             msg = f"Auto push from pipeline at {time.strftime('%Y%m%d_%H%M%S')}"
-            print("[STEP] Committing changes...")
+            print("[STEP] Committing local changes...")
             subprocess.run(["git", "commit", "-m", msg], check=True)
-
-            print("[STEP] Pushing to GitHub...")
-            subprocess.run(["git", "push", "origin", "main"], check=True)
-            print("✅ Git push successful.")
         else:
-            print("[INFO] No changes to commit or push.")
+            print("[INFO] No local changes to commit.")
+
+        # === Safe pull with rebase before pushing ===
+        print("[STEP] Rebasing against latest origin/main...")
+        subprocess.run(["git", "pull", "--rebase", "--autostash", "origin", "main"], check=True)
+
+        # Final push
+        print("[STEP] Pushing to GitHub...")
+        subprocess.run(["git", "push", "origin", "main"], check=True)
+        print("✅ Git push successful.")
 
         send_email("Pipeline Success", "Git push completed successfully.")
 
     except subprocess.CalledProcessError as e:
         print(f"[ERROR] Git command failed: {e}")
         send_email("Git Push Failed", f"Git error:\n{e.stderr if hasattr(e, 'stderr') else str(e)}")
+
 
 
 

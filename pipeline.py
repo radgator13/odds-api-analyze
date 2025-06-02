@@ -6,7 +6,7 @@ import builtins
 import smtplib
 from email.message import EmailMessage
 from dotenv import load_dotenv
-
+import shutil
 # === Load environment variables from .env ===
 print("Loading .env file...")
 load_dotenv()
@@ -96,12 +96,11 @@ if pipeline_success:
     print("\n[STEP] Committing and pushing to GitHub...")
 
     try:
-        import subprocess, time
+        import subprocess, time, os
 
         def ensure_git_identity():
             name = subprocess.run(["git", "config", "--global", "user.name"], capture_output=True, text=True).stdout.strip()
             email = subprocess.run(["git", "config", "--global", "user.email"], capture_output=True, text=True).stdout.strip()
-
             if not name:
                 subprocess.run(["git", "config", "--global", "user.name", "Gator"], check=True)
             if not email:
@@ -109,47 +108,60 @@ if pipeline_success:
 
         ensure_git_identity()
 
-        # Long paths support (Windows)
         subprocess.run(["git", "config", "--global", "core.longpaths", "true"], check=True)
 
-        # === Clean up anything blocking pull ===
-        print("[STEP] Checking for local file conflicts before pull...")
-        subprocess.run(["git", "add", "."], check=True)
+        # === Clean up dangerous folders before pull ===
+        import shutil
 
-        status_output = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout.strip()
+        if os.path.exists("clean-repo"):
+            print("[CLEANUP] Removing accidentally included 'clean-repo' directory...")
+            subprocess.run(["git", "rm", "--cached", "-r", "clean-repo"], check=False)
+            shutil.rmtree("clean-repo", ignore_errors=True)  # Windows-safe deletion
+            with open(".gitignore", "a") as gi:
+                gi.write("\nclean-repo/\n")
 
-        if status_output:
+
+        # === Clean up archive if needed ===
+        if os.path.exists("new_data/archive"):
+            subprocess.run(["git", "rm", "--cached", "-r", "new_data/archive"], check=False)
+            with open(".gitignore", "a") as gi:
+                gi.write("\nnew_data/archive/\n")
+
+        # Stage only tracked changes, not untracked files
+        print("[STEP] Staging tracked file changes only...")
+        subprocess.run(["git", "add", "-u"], check=True)
+
+        # Pre-pull commit if necessary
+        status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout
+        if status.strip():
+            msg = f"Auto pre-pull commit at {time.strftime('%Y%m%d_%H%M%S')}"
             print("[STEP] Committing local changes before pull...")
-            pre_pull_msg = f"Auto pre-pull commit at {time.strftime('%Y%m%d_%H%M%S')}"
-            subprocess.run(["git", "commit", "-m", pre_pull_msg], check=True)
+            subprocess.run(["git", "commit", "-m", msg], check=True)
         else:
-            print("[INFO] No local changes to commit before pull.")
+            print("[INFO] No local changes to commit.")
 
-        # === Pull latest changes safely ===
-        print("[STEP] Pulling latest changes (rebase)...")
+        print("[STEP] Pulling latest changes with rebase...")
         subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)
 
-        # === Push new changes, if any ===
-        print("[STEP] Staging post-pull changes...")
-        subprocess.run(["git", "add", "."], check=True)
-
-        diff_check = subprocess.run(["git", "diff", "--cached", "--quiet"])
-        if diff_check.returncode == 0:
-            print("[INFO] No changes to push.")
-        else:
-            commit_message = f"Auto push from run_odds_api at {time.strftime('%Y%m%d_%H%M%S')}"
-            print("[STEP] Committing post-pull changes...")
-            subprocess.run(["git", "commit", "-m", commit_message], check=True)
-
+        # Stage and push final changes (if any)
+        subprocess.run(["git", "add", "-u"], check=True)
+        diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
+        if diff.returncode != 0:
+            msg = f"Auto push from run_odds_api at {time.strftime('%Y%m%d_%H%M%S')}"
+            print("[STEP] Committing final changes...")
+            subprocess.run(["git", "commit", "-m", msg], check=True)
             print("[STEP] Pushing to GitHub...")
             subprocess.run(["git", "push", "origin", "main"], check=True)
             print("✅ Git push successful.")
+        else:
+            print("[INFO] No new changes to push.")
 
-        send_email("Pipeline Success", f"Auto push from run_odds_api completed.")
+        send_email("Pipeline Success", "Git push completed successfully.")
 
     except subprocess.CalledProcessError as e:
         print(f"[ERROR] Git command failed: {e}")
         send_email("Git Push Failed", f"Git error:\n{e.stderr if hasattr(e, 'stderr') else str(e)}")
+
 
 
 

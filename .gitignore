@@ -29,3 +29,7 @@ __pycache__/
 *.zip
 
 * text=auto eol=lf
+
+clean-repo/
+
+new_data/archive/

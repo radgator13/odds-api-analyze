@@ -93,8 +93,9 @@ for label, script in steps:
 
 # === Git push ===
 # === Git push ===
+# === Git push (force local state to GitHub) ===
 if pipeline_success:
-    print("\n[STEP] Committing and pushing to GitHub...")
+    print("\n[STEP] Committing and force pushing to GitHub...")
 
     try:
         import subprocess, time, os, shutil
@@ -110,7 +111,7 @@ if pipeline_success:
         ensure_git_identity()
         subprocess.run(["git", "config", "--global", "core.longpaths", "true"], check=True)
 
-        # === Cleanup known dangerous folders ===
+        # === Clean dangerous paths ===
         paths_to_clean = ["clean-repo", "new_data/archive"]
         for path in paths_to_clean:
             if os.path.exists(path):
@@ -123,42 +124,25 @@ if pipeline_success:
                 with open(".gitignore", "a") as gi:
                     gi.write(f"\n{path}/\n")
 
-        # Stage tracked files only
-        print("[STEP] Staging tracked file changes only...")
+        # Stage and commit
+        print("[STEP] Staging and committing changes...")
         subprocess.run(["git", "add", "-u"], check=True)
-
-        # Commit changes if needed
         status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout.strip()
         if status:
             msg = f"Auto push from pipeline at {time.strftime('%Y%m%d_%H%M%S')}"
-            print("[STEP] Committing local changes...")
-            subprocess.run(["git", "commit", "-m", msg], check=True)
-        else:
-            print("[INFO] No local changes to commit.")
-
-        # === Reset hard to remote base, avoid CRLF errors and archive mismatches ===
-        print("[STEP] Fetching and resetting local state to match remote...")
-        subprocess.run(["git", "fetch", "origin", "main"], check=True)
-        subprocess.run(["git", "reset", "--hard", "origin/main"], check=True)
-
-        # Reapply changes post-reset
-        print("[STEP] Reapplying local changes after reset...")
-        subprocess.run(["git", "add", "-u"], check=True)
-        status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout.strip()
-        if status:
-            msg = f"Post-reset commit at {time.strftime('%Y%m%d_%H%M%S')}"
             subprocess.run(["git", "commit", "-m", msg], check=True)
 
-        # Push to GitHub
-        print("[STEP] Pushing to GitHub...")
-        subprocess.run(["git", "push", "origin", "main"], check=True)
-        print("✅ Git push successful.")
+        # Final force push
+        print("[STEP] Force pushing local state to GitHub...")
+        subprocess.run(["git", "push", "--force", "origin", "main"], check=True)
+        print("✅ Force push successful.")
 
-        send_email("Pipeline Success", "Git push completed successfully.")
+        send_email("Pipeline Success", "Force push completed successfully.")
 
     except subprocess.CalledProcessError as e:
         print(f"[ERROR] Git command failed: {e}")
         send_email("Git Push Failed", f"Git error:\n{e.stderr if hasattr(e, 'stderr') else str(e)}")
+
 
 
 

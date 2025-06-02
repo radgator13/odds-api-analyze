@@ -96,7 +96,7 @@ if pipeline_success:
     print("\n[STEP] Committing and pushing to GitHub...")
 
     try:
-        import subprocess, time, os
+        import subprocess, time, os, shutil
 
         def ensure_git_identity():
             name = subprocess.run(["git", "config", "--global", "user.name"], capture_output=True, text=True).stdout.strip()
@@ -107,60 +107,44 @@ if pipeline_success:
                 subprocess.run(["git", "config", "--global", "user.email", "a1d3r13@gmail.com"], check=True)
 
         ensure_git_identity()
-
         subprocess.run(["git", "config", "--global", "core.longpaths", "true"], check=True)
 
-        # === Clean up dangerous folders before pull ===
-        import shutil
+        # === Clean up known-problematic folders ===
+        paths_to_clean = ["clean-repo", "new_data/archive"]
+        for path in paths_to_clean:
+            if os.path.exists(path):
+                print(f"[CLEANUP] Untracking and deleting: {path}")
+                subprocess.run(["git", "rm", "--cached", "-r", path], check=False)
+                if os.path.isdir(path):
+                    shutil.rmtree(path, ignore_errors=True)
+                elif os.path.isfile(path):
+                    os.remove(path)
+                with open(".gitignore", "a") as gi:
+                    gi.write(f"\n{path}/\n")
 
-        if os.path.exists("clean-repo"):
-            print("[CLEANUP] Removing accidentally included 'clean-repo' directory...")
-            subprocess.run(["git", "rm", "--cached", "-r", "clean-repo"], check=False)
-            shutil.rmtree("clean-repo", ignore_errors=True)  # Windows-safe deletion
-            with open(".gitignore", "a") as gi:
-                gi.write("\nclean-repo/\n")
-
-
-        # === Clean up archive if needed ===
-        if os.path.exists("new_data/archive"):
-            subprocess.run(["git", "rm", "--cached", "-r", "new_data/archive"], check=False)
-            with open(".gitignore", "a") as gi:
-                gi.write("\nnew_data/archive/\n")
-
-        # Stage only tracked changes, not untracked files
+        # Stage only updates to tracked files
         print("[STEP] Staging tracked file changes only...")
         subprocess.run(["git", "add", "-u"], check=True)
 
-        # Pre-pull commit if necessary
-        status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout
-        if status.strip():
-            msg = f"Auto pre-pull commit at {time.strftime('%Y%m%d_%H%M%S')}"
-            print("[STEP] Committing local changes before pull...")
+        # Commit if necessary
+        status = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True).stdout.strip()
+        if status:
+            msg = f"Auto push from pipeline at {time.strftime('%Y%m%d_%H%M%S')}"
+            print("[STEP] Committing changes...")
             subprocess.run(["git", "commit", "-m", msg], check=True)
-        else:
-            print("[INFO] No local changes to commit.")
 
-        print("[STEP] Pulling latest changes with rebase...")
-        subprocess.run(["git", "pull", "--rebase", "origin", "main"], check=True)
-
-        # Stage and push final changes (if any)
-        subprocess.run(["git", "add", "-u"], check=True)
-        diff = subprocess.run(["git", "diff", "--cached", "--quiet"])
-        if diff.returncode != 0:
-            msg = f"Auto push from run_odds_api at {time.strftime('%Y%m%d_%H%M%S')}"
-            print("[STEP] Committing final changes...")
-            subprocess.run(["git", "commit", "-m", msg], check=True)
             print("[STEP] Pushing to GitHub...")
             subprocess.run(["git", "push", "origin", "main"], check=True)
             print("✅ Git push successful.")
         else:
-            print("[INFO] No new changes to push.")
+            print("[INFO] No changes to commit or push.")
 
         send_email("Pipeline Success", "Git push completed successfully.")
 
     except subprocess.CalledProcessError as e:
         print(f"[ERROR] Git command failed: {e}")
         send_email("Git Push Failed", f"Git error:\n{e.stderr if hasattr(e, 'stderr') else str(e)}")
+
 
 
 

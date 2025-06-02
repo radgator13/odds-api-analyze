@@ -10,20 +10,24 @@ st.title("🎯 MLB Strikeout Prop Dashboard")
 # === TAB NAVIGATION ===
 tab1, tab2 = st.tabs(["📈 Strikeout Prop Model", "📅 Results Viewer"])
 
-# ========== TAB 1: Prediction Viewer ==========
 with tab1:
     @st.cache_data
     def load_predictions():
         df = pd.read_csv("data/predicted_pitcher_props_with_edges.csv")
         df.columns = df.columns.str.lower()
-        df["game_date"] = pd.to_datetime(df["game_date"]).dt.date
+
+        # Coerce date column
+        df["game_date"] = pd.to_datetime(df["game_date"], errors="coerce")
+        df = df.dropna(subset=["game_date"])
+        df["game_date"] = df["game_date"].dt.date
+
         return df
 
     df = load_predictions()
 
     st.sidebar.header("🔍 Filters")
 
-    # 🔥 Edge distribution chart
+    # Edge Distribution
     st.sidebar.subheader("📊 Edge Distribution")
     fig, ax = plt.subplots()
     df["edge"].hist(bins=40, ax=ax)
@@ -32,6 +36,7 @@ with tab1:
     st.sidebar.markdown(f"**Avg Line:** {df['line'].mean():.2f}")
     st.sidebar.markdown(f"**Avg Predicted SO:** {df['predicted_so'].mean():.2f}")
 
+    # Sidebar controls
     min_edge = st.sidebar.slider("Minimum Edge", -5.0, 5.0, value=0.75, step=0.05)
     odds_range = st.sidebar.slider("Odds Range", -200, 200, (-200, 200), step=5)
     recommendation = st.sidebar.multiselect(
@@ -40,22 +45,27 @@ with tab1:
         default=["✅ Over", "✅ Under"]
     )
 
+    # Pick default date — today's date if present, else latest available
     min_date = df["game_date"].min()
     max_date = df["game_date"].max()
+    today = datetime.today().date()
+    default_date = today if today in df["game_date"].values else max_date
+
     selected_date = st.sidebar.date_input(
         "Game Date",
-        value=min_date,
+        value=default_date,
         min_value=min_date,
         max_value=max_date
     )
 
-    # Ensure bet_recommendation exists
+    # Recalculate bet_recommendation
     df["bet_recommendation"] = df["edge"].apply(lambda e:
         "✅ Over" if e > 0.75 else
         "✅ Under" if e < -0.75 else
         "❌ No Bet"
     )
 
+    # Add confidence column
     def fireball_confidence(edge):
         abs_edge = abs(edge)
         if abs_edge >= 2.5:
@@ -73,6 +83,7 @@ with tab1:
 
     df["confidence"] = df["edge"].apply(fireball_confidence)
 
+    # Final filter
     filtered = df[
         (df["edge"].abs() >= min_edge) &
         (df["odds"].between(odds_range[0], odds_range[1])) &
@@ -81,6 +92,9 @@ with tab1:
     ]
 
     st.subheader(f"📋 Filtered Results ({len(filtered)} bets shown)")
+
+    if filtered.empty:
+        st.warning("⚠️ No bets match your filters. Try lowering the minimum edge or adjusting the odds range.")
 
     display_cols = [col for col in ["game_date", "player", "line", "odds", "predicted_so", "edge", "bet_recommendation", "confidence"] if col in filtered.columns]
 
@@ -93,6 +107,7 @@ with tab1:
         use_container_width=True
     )
 
+    # Save filtered bets to file
     timestamp = datetime.now().strftime("%Y-%m-%d_%H%M")
     filename = f"filtered_bets_{timestamp}.csv"
     output_dir = "filtered_bets"
@@ -107,6 +122,7 @@ with tab1:
         file_name=filename,
         mime="text/csv"
     )
+
 
 # ========== TAB 2: Results Viewer ==========
 with tab2:

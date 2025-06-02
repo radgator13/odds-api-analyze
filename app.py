@@ -16,10 +16,15 @@ with tab1:
         df = pd.read_csv("data/predicted_pitcher_props_with_edges.csv")
         df.columns = df.columns.str.lower()
 
-        # Coerce date column
+        # Normalize and sanitize game_date
         df["game_date"] = pd.to_datetime(df["game_date"], errors="coerce")
         df = df.dropna(subset=["game_date"])
         df["game_date"] = df["game_date"].dt.date
+
+        # Defensive check
+        if df["game_date"].empty:
+            st.error("❌ No valid game_date values found in predicted_pitcher_props_with_edges.csv.")
+            st.stop()
 
         return df
 
@@ -122,6 +127,7 @@ with tab1:
         file_name=filename,
         mime="text/csv"
     )
+
 
 
 # ========== TAB 2: Results Viewer ==========

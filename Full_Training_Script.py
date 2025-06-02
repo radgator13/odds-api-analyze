@@ -32,6 +32,7 @@ player_df["K_per_IP"] = player_df["SO"] / player_df["IP"]
 player_df["K_per_BF"] = player_df["SO"] / player_df["BF"]
 player_df["WHIP"] = (player_df["BB"] + player_df["H"]) / player_df["IP"]
 player_df["KBB"] = player_df["SO"] / player_df["BB"].replace(0, np.nan)
+player_df["KBB"] = player_df["KBB"].fillna(0)
 player_df["ERA_est"] = (player_df["ER"] * 9) / player_df["IP"]
 player_df["is_home"] = player_df["Unnamed: 7"].apply(lambda x: 0 if str(x).strip() == "@" else 1)
 
@@ -41,8 +42,8 @@ player_df = player_df.sort_values(by=["Player", "Date"])
 rolling_feats = ["IP", "SO", "BB", "K_per_IP", "K_per_BF", "WHIP", "KBB", "ERA_est"]
 for feat in rolling_feats:
     player_df[f"r3_{feat}"] = (
-        player_df.groupby("Player", group_keys=False)
-        .apply(lambda g: g[feat].shift(1).rolling(3, min_periods=1).mean())
+        player_df.groupby("Player", group_keys=False)[feat]
+        .transform(lambda x: x.shift(1).rolling(3, min_periods=1).mean())
     )
 
 # === Clean batting data ===

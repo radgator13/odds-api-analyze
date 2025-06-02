@@ -2,11 +2,11 @@
 import os
 import re
 from datetime import datetime
+from difflib import get_close_matches
 
 # === CONFIG ===
 bets_dir = "filtered_bets"
 stats_file = "new_data/stathead_player_pitching_game_data.csv"
-
 today = datetime.today().date()
 
 # === EXTRACT DATE FROM FILENAME ===
@@ -23,12 +23,7 @@ bet_files = [
     if f.endswith(".csv") and "filtered_bets_" in f
 ]
 
-valid_files = []
-for f in bet_files:
-    file_date = extract_date_from_filename(f)
-    if file_date and file_date < today:
-        valid_files.append(f)
-
+valid_files = [f for f in bet_files if extract_date_from_filename(f) and extract_date_from_filename(f) < today]
 if not valid_files:
     print("⚠️ No valid filtered_bets CSVs found before today.")
     exit()
@@ -57,11 +52,7 @@ if not dfs:
 all_bets = pd.concat(dfs, ignore_index=True).drop_duplicates()
 
 # === RENAME TO EXPECTED NAMES ===
-rename_map = {
-    'game_date': 'Game_Date',
-    'player': 'Pitcher',
-    'predicted_SO': 'Predicted_K'
-}
+rename_map = {'game_date': 'Game_Date', 'player': 'Pitcher', 'predicted_SO': 'Predicted_K'}
 all_bets.rename(columns=rename_map, inplace=True)
 
 # === COLUMN CHECK ===
@@ -69,12 +60,12 @@ required_cols = ['Game_Date', 'Pitcher', 'Predicted_K']
 missing = [col for col in required_cols if col not in all_bets.columns]
 if missing:
     print(f"❌ ERROR: Missing required column(s): {missing}")
-    print("Available columns in all_bets:", all_bets.columns.tolist())
     exit()
 
 # === CLEANING ===
 all_bets['Game_Date'] = pd.to_datetime(all_bets['Game_Date']).dt.date
-all_bets['Pitcher'] = all_bets['Pitcher'].str.lower().str.strip()
+all_bets['Pitcher'] = all_bets['Pitcher'].astype(str).str.lower().str.strip().str.replace(r"[^\w\s]", "", regex=True)
+all_bets['Pitcher_clean'] = all_bets['Pitcher']
 
 # === LOAD STATS FILE ===
 try:
@@ -86,65 +77,78 @@ except FileNotFoundError:
     exit()
 
 # === ACTUALS CLEANING ===
-# === RENAME ACTUALS COLUMNS TO MATCH EXPECTED NAMES ===
-actuals.rename(columns={
-    'Date': 'Game_Date',
-    'Player': 'Pitcher',
-    'SO': 'Strikeouts'
-}, inplace=True)
-
-required_actuals = ['Game_Date', 'Pitcher', 'Strikeouts']
-missing_actuals = [col for col in required_actuals if col not in actuals.columns]
-if missing_actuals:
-    print(f"❌ ERROR: Missing required column(s) in actuals: {missing_actuals}")
-    print("Available columns in actuals:", actuals.columns.tolist())
-    exit()
-
-
-# Strip any trailing notes like " (2)" from the raw date strings
-actuals['Game_Date'] = (
-    actuals['Game_Date']
-    .astype(str)
-    .str.extract(r'(\d{4}-\d{2}-\d{2})')[0]  # extract clean date
-)
-
-# Convert to datetime.date
+actuals.rename(columns={'Date': 'Game_Date', 'Player': 'Pitcher', 'SO': 'Strikeouts'}, inplace=True)
 actuals['Game_Date'] = pd.to_datetime(actuals['Game_Date'], errors='coerce').dt.date
-if actuals['Game_Date'].isna().any():
-    print("⚠️ WARNING: Some rows in actuals had invalid or missing Game_Date values after cleanup.")
-    print(actuals[actuals['Game_Date'].isna()][['Pitcher', 'Game_Date']])
+actuals['Pitcher'] = actuals['Pitcher'].astype(str).str.lower().str.strip().str.replace(r"[^\w\s]", "", regex=True)
+actuals['Pitcher_clean'] = actuals['Pitcher']
+actuals = actuals.dropna(subset=['Game_Date', 'Pitcher', 'Strikeouts'])
+
+# 🆕 Keep one row per Game_Date + Pitcher_clean (latest row if duplicates exist)
+actuals = actuals.sort_values("Game_Date")
+actuals = actuals.groupby(['Game_Date', 'Pitcher_clean'], as_index=False).agg({"Strikeouts": "last"})
 
 
-actuals['Pitcher'] = actuals['Pitcher'].str.lower().str.strip()
+# === FUZZY MATCHING ===
+print("\n🔁 Performing fuzzy name matching...")
+actual_names = actuals['Pitcher_clean'].dropna().unique().tolist()
+pitcher_map = {}
+
+for name in all_bets['Pitcher_clean'].unique():
+    match = get_close_matches(name, actual_names, n=1, cutoff=0.80)
+    if match:
+        pitcher_map[name] = match[0]
+    else:
+        print(f"[NO MATCH] '{name}' — closest: {get_close_matches(name, actual_names, n=3, cutoff=0.5)}")
+
+all_bets['Pitcher_fuzzy'] = all_bets['Pitcher_clean'].map(pitcher_map)
+actuals['Pitcher_fuzzy'] = actuals['Pitcher_clean']
 
 # === MERGE ===
 merged = pd.merge(
     all_bets,
-    actuals[['Game_Date', 'Pitcher', 'Strikeouts']],
-    on=['Game_Date', 'Pitcher'],
+    actuals[['Game_Date', 'Pitcher_fuzzy', 'Strikeouts']],
+    left_on=['Game_Date', 'Pitcher_fuzzy'],
+    right_on=['Game_Date', 'Pitcher_fuzzy'],
     how='left'
 )
-unmatched = merged[merged['Strikeouts'].isna()]
-print("\n=== ⚠️ UNMATCHED PREDICTIONS ===")
+
+# === Handle unmatched rows with fallback name-only match ===
+unmatched = merged[merged['Strikeouts'].isna()].copy()
+print("\n=== ⚠️ UNMATCHED PREDICTIONS (exact date match failed) ===")
 print(unmatched[['Game_Date', 'Pitcher']].drop_duplicates().to_string(index=False))
 
-# Show sample from actuals to help comparison
+# === Fallback: Try to match by name only (last known game) ===
+fallback_matches = []
+for _, row in unmatched.iterrows():
+    fuzzy_name = row['Pitcher_fuzzy']
+    possible = actuals[actuals['Pitcher_fuzzy'] == fuzzy_name]
+    if not possible.empty:
+        latest = possible.sort_values("Game_Date").iloc[-1]
+        row['Strikeouts'] = latest['Strikeouts']
+        fallback_matches.append(row)
+
+# Combine successful matches and fallback
+if fallback_matches:
+    fallback_df = pd.DataFrame(fallback_matches)
+    matched_df = merged[~merged.index.isin(unmatched.index)]
+    merged = pd.concat([matched_df, fallback_df], ignore_index=True)
+
+# === Sample from actuals ===
 print("\n=== 🔍 Sample ACTUALS (cleaned) ===")
-print(actuals[['Game_Date', 'Pitcher', 'Strikeouts']].dropna().sample(10).to_string(index=False))
+print(actuals[['Game_Date', 'Pitcher_clean', 'Strikeouts']].dropna().sample(10).to_string(index=False))
+
+
 
 # === DETERMINE RESULTS ===
 def compare(row):
-    try:
-        if pd.isna(row['Strikeouts']) or pd.isna(row['Predicted_K']):
-            return 'No Data'
-        elif row['Strikeouts'] > row['Predicted_K']:
-            return 'Over'
-        elif row['Strikeouts'] < row['Predicted_K']:
-            return 'Under'
-        else:
-            return 'Push'
-    except:
-        return 'Error'
+    if pd.isna(row['Strikeouts']) or pd.isna(row['Predicted_K']):
+        return 'No Data'
+    elif row['Strikeouts'] > row['Predicted_K']:
+        return 'Over'
+    elif row['Strikeouts'] < row['Predicted_K']:
+        return 'Under'
+    else:
+        return 'Push'
 
 merged['Result'] = merged.apply(compare, axis=1)
 

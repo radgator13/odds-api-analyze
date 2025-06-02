@@ -87,40 +87,40 @@ if os.path.exists(original_path):
 else:
     print("[WARN] clean_all_props_flat.csv not found — skipping archive copy.")
 
-# === Git automation ===
-print("\n[GIT] Checking repository...")
+# # === Git automation ===
+# print("\n[GIT] Checking repository...")
 
-# Step 1: Git init if not already
-if not os.path.exists(".git"):
-    print("[GIT] Initializing Git repository...")
-    subprocess.run(["git", "init"], check=True)
+# # Step 1: Git init if not already
+# if not os.path.exists(".git"):
+#     print("[GIT] Initializing Git repository...")
+#     subprocess.run(["git", "init"], check=True)
 
-# Step 2: Add remote if not already set
-remotes = subprocess.run(["git", "remote"], capture_output=True, text=True).stdout
-if "origin" not in remotes:
-    print("[GIT] Adding remote origin...")
-    subprocess.run([
-        "git", "remote", "add", "origin",
-        "https://github.com/radgator13/odds-api-analyze.git"
-    ], check=True)
-else:
-    print("[GIT] Remote 'origin' already exists.")
+# # Step 2: Add remote if not already set
+# remotes = subprocess.run(["git", "remote"], capture_output=True, text=True).stdout
+# if "origin" not in remotes:
+#     print("[GIT] Adding remote origin...")
+#     subprocess.run([
+#         "git", "remote", "add", "origin",
+#         "https://github.com/radgator13/odds-api-analyze.git"
+#     ], check=True)
+# else:
+#     print("[GIT] Remote 'origin' already exists.")
 
-# Step 3: Commit and push
-try:
-    print("[GIT] Adding all changes...")
-    subprocess.run(["git", "add", "."], check=True)
+# # Step 3: Commit and push
+# try:
+#     print("[GIT] Adding all changes...")
+#     subprocess.run(["git", "add", "."], check=True)
 
-    commit_msg = f"Auto push from run_odds_api at {timestamp}"
-    print(f"[GIT] Committing: {commit_msg}")
-    subprocess.run(["git", "commit", "-m", commit_msg], check=True)
+#     commit_msg = f"Auto push from run_odds_api at {timestamp}"
+#     print(f"[GIT] Committing: {commit_msg}")
+#     subprocess.run(["git", "commit", "-m", commit_msg], check=True)
 
-    print("[GIT] Pushing to GitHub...")
-    subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
-    print("[GIT] ✅ Push successful.")
-except subprocess.CalledProcessError as e:
-    print("[GIT] ❌ Git push failed.")
-    print(e)
+#     print("[GIT] Pushing to GitHub...")
+#     subprocess.run(["git", "push", "-u", "origin", "main"], check=True)
+#     print("[GIT] ✅ Push successful.")
+# except subprocess.CalledProcessError as e:
+#     print("[GIT] ❌ Git push failed.")
+#     print(e)
 
 print("\n[DONE] All steps completed successfully.")
 

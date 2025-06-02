@@ -9,7 +9,7 @@ SPORT = "baseball_mlb"
 ODDS_FORMAT = "american"
 DATE_FORMAT = "iso"
 REGION = "us"
-BOOKMAKER_FILTER = "BetOnline.ag"
+BOOKMAKER_FILTER = ""
 
 # === Market groups ===
 PITCHER_MARKETS = ["pitcher_strikeouts"]
@@ -63,8 +63,10 @@ for event in events:
     event_odds = odds_resp.json()
 
     for bookmaker in event_odds.get("bookmakers", []):
-        if bookmaker.get("title") != BOOKMAKER_FILTER:
+        ALLOWED_BOOKS = {"BetOnline.ag", "DraftKings", "FanDuel", "PointsBet (US)"}
+        if bookmaker.get("title") not in ALLOWED_BOOKS:
             continue
+
 
         for market in bookmaker.get("markets", []):
             market_key = market.get("key")

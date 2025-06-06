@@ -2,8 +2,11 @@ name: Run Odds API Pipeline
 
 on:
   schedule:
-    - cron: '0 6,14,22 * * *'  # Runs at 2 AM, 10 AM, 6 PM UTC (adjust as needed)
+    - cron: '0 3 * * *'    # 10 PM EST
+    - cron: '0 8 * * *'    # 3 AM EST
+    - cron: '0 15 * * *'   # 10 AM EST
   workflow_dispatch:
+
 
 jobs:
   run-odds-pipeline:

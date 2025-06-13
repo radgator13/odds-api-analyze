@@ -5,17 +5,17 @@
     "away_team":"Toronto Blue Jays",
     "commence_time":1749854760000,
     "h2h_philadelphia_phillies_line":null,
-    "h2h_philadelphia_phillies_odds":-132.0,
+    "h2h_philadelphia_phillies_odds":-126.0,
     "h2h_toronto_blue_jays_line":null,
-    "h2h_toronto_blue_jays_odds":108.0,
+    "h2h_toronto_blue_jays_odds":104.0,
     "spreads_philadelphia_phillies_line":-1.5,
-    "spreads_philadelphia_phillies_odds":158.0,
+    "spreads_philadelphia_phillies_odds":162.0,
     "spreads_toronto_blue_jays_line":1.5,
-    "spreads_toronto_blue_jays_odds":-194.0,
+    "spreads_toronto_blue_jays_odds":-200.0,
     "totals_over_line":8.0,
-    "totals_over_odds":-115,
+    "totals_over_odds":-111,
     "totals_under_line":8.0,
-    "totals_under_odds":-105,
+    "totals_under_odds":-109,
     "h2h_kansas_city_royals_line":null,
     "h2h_kansas_city_royals_odds":null,
     "h2h_oakland_athletics_line":null,
@@ -48,6 +48,14 @@
     "spreads_baltimore_orioles_odds":null,
     "spreads_los_angeles_angels_line":null,
     "spreads_los_angeles_angels_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_minnesota_twins_line":null,
@@ -109,13 +117,37 @@
         "player":"Kevin Gausman",
         "market":"pitcher_strikeouts",
         "line":5.5,
-        "odds":-135
+        "odds":-120
       },
       {
         "player":"Kevin Gausman",
         "market":"pitcher_strikeouts",
         "line":5.5,
-        "odds":105
+        "odds":-110
+      },
+      {
+        "player":"Ranger Suarez",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":-116
+      },
+      {
+        "player":"Ranger Suarez",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":-110
+      },
+      {
+        "player":"Kevin Gausman",
+        "market":"pitcher_strikeouts",
+        "line":5.5,
+        "odds":-125
+      },
+      {
+        "player":"Kevin Gausman",
+        "market":"pitcher_strikeouts",
+        "line":5.5,
+        "odds":-105
       },
       {
         "player":"Ranger Suarez",
@@ -131,6 +163,438 @@
       }
     ],
     "batter_props":[
+      {
+        "player":"Bo Bichette",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":155
+      },
+      {
+        "player":"Vladimir Guerrero Jr.",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":170
+      },
+      {
+        "player":"Trea Turner",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":200
+      },
+      {
+        "player":"Alejandro Kirk",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":210
+      },
+      {
+        "player":"Alec Bohm",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":210
+      },
+      {
+        "player":"Ernie Clement",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":210
+      },
+      {
+        "player":"Bryson Stott",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":260
+      },
+      {
+        "player":"George Springer",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":260
+      },
+      {
+        "player":"Nick Castellanos",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":280
+      },
+      {
+        "player":"Myles Straw",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":300
+      },
+      {
+        "player":"Tyler Heineman",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":300
+      },
+      {
+        "player":"Jonatan Clase",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":320
+      },
+      {
+        "player":"J.T. Realmuto",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":320
+      },
+      {
+        "player":"Max Kepler",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":360
+      },
+      {
+        "player":"Kyle Schwarber",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":360
+      },
+      {
+        "player":"Davis Schneider",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":390
+      },
+      {
+        "player":"Brandon Marsh",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":420
+      },
+      {
+        "player":"Otto Kemp",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":420
+      },
+      {
+        "player":"Bo Bichette",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":700
+      },
+      {
+        "player":"Vladimir Guerrero Jr.",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":850
+      },
+      {
+        "player":"Ernie Clement",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1000
+      },
+      {
+        "player":"Trea Turner",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1000
+      },
+      {
+        "player":"Alejandro Kirk",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1100
+      },
+      {
+        "player":"Alec Bohm",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1200
+      },
+      {
+        "player":"George Springer",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1300
+      },
+      {
+        "player":"Bryson Stott",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1400
+      },
+      {
+        "player":"Nick Castellanos",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1700
+      },
+      {
+        "player":"Myles Straw",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1800
+      },
+      {
+        "player":"Jonatan Clase",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1900
+      },
+      {
+        "player":"Tyler Heineman",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1900
+      },
+      {
+        "player":"J.T. Realmuto",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2000
+      },
+      {
+        "player":"Kyle Schwarber",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2000
+      },
+      {
+        "player":"Max Kepler",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2200
+      },
+      {
+        "player":"Davis Schneider",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2500
+      },
+      {
+        "player":"Brandon Marsh",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2800
+      },
+      {
+        "player":"Otto Kemp",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2900
+      },
+      {
+        "player":"Bo Bichette",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-330
+      },
+      {
+        "player":"Vladimir Guerrero Jr.",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-300
+      },
+      {
+        "player":"Trea Turner",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-280
+      },
+      {
+        "player":"Alec Bohm",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-260
+      },
+      {
+        "player":"Ernie Clement",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-250
+      },
+      {
+        "player":"Alejandro Kirk",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-240
+      },
+      {
+        "player":"Bryson Stott",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
+        "player":"Nick Castellanos",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
+        "player":"George Springer",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
+        "player":"Tyler Heineman",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-190
+      },
+      {
+        "player":"Myles Straw",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-190
+      },
+      {
+        "player":"J.T. Realmuto",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-180
+      },
+      {
+        "player":"Jonatan Clase",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-175
+      },
+      {
+        "player":"Max Kepler",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-170
+      },
+      {
+        "player":"Kyle Schwarber",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-165
+      },
+      {
+        "player":"Davis Schneider",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-155
+      },
+      {
+        "player":"Otto Kemp",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-155
+      },
+      {
+        "player":"Brandon Marsh",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-150
+      },
+      {
+        "player":"Kyle Schwarber",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":240
+      },
+      {
+        "player":"George Springer",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":440
+      },
+      {
+        "player":"Vladimir Guerrero Jr.",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":450
+      },
+      {
+        "player":"Max Kepler",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":500
+      },
+      {
+        "player":"Trea Turner",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":520
+      },
+      {
+        "player":"J.T. Realmuto",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":560
+      },
+      {
+        "player":"Alec Bohm",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":600
+      },
+      {
+        "player":"Nick Castellanos",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":630
+      },
+      {
+        "player":"Bo Bichette",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":630
+      },
+      {
+        "player":"Otto Kemp",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":680
+      },
+      {
+        "player":"Davis Schneider",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":700
+      },
+      {
+        "player":"Brandon Marsh",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":750
+      },
+      {
+        "player":"Bryson Stott",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":750
+      },
+      {
+        "player":"Alejandro Kirk",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":750
+      },
+      {
+        "player":"Jonatan Clase",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":800
+      },
+      {
+        "player":"Ernie Clement",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1000
+      },
+      {
+        "player":"Tyler Heineman",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1060
+      },
+      {
+        "player":"Myles Straw",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1500
+      },
       {
         "player":"Bo Bichette",
         "market":"batter_hits",
@@ -364,17 +828,17 @@
     "spreads_toronto_blue_jays_line":null,
     "spreads_toronto_blue_jays_odds":null,
     "totals_over_line":8.0,
-    "totals_over_odds":-120,
+    "totals_over_odds":-116,
     "totals_under_line":8.0,
-    "totals_under_odds":-102,
+    "totals_under_odds":-104,
     "h2h_kansas_city_royals_line":null,
-    "h2h_kansas_city_royals_odds":-164.0,
+    "h2h_kansas_city_royals_odds":-156.0,
     "h2h_oakland_athletics_line":null,
-    "h2h_oakland_athletics_odds":134.0,
+    "h2h_oakland_athletics_odds":128.0,
     "spreads_kansas_city_royals_line":-1.5,
-    "spreads_kansas_city_royals_odds":128.0,
+    "spreads_kansas_city_royals_odds":134.0,
     "spreads_oakland_athletics_line":1.5,
-    "spreads_oakland_athletics_odds":-157.0,
+    "spreads_oakland_athletics_odds":-164.0,
     "h2h_chicago_cubs_line":null,
     "h2h_chicago_cubs_odds":null,
     "h2h_pittsburgh_pirates_line":null,
@@ -399,6 +863,14 @@
     "spreads_baltimore_orioles_odds":null,
     "spreads_los_angeles_angels_line":null,
     "spreads_los_angeles_angels_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_minnesota_twins_line":null,
@@ -457,16 +929,40 @@
     "spreads_st._louis_cardinals_odds":null,
     "pitcher_props":[
       {
-        "player":"Michael Wacha",
+        "player":"Luis Severino",
         "market":"pitcher_strikeouts",
-        "line":4.5,
-        "odds":-165
+        "line":3.5,
+        "odds":-158
+      },
+      {
+        "player":"Luis Severino",
+        "market":"pitcher_strikeouts",
+        "line":3.5,
+        "odds":118
       },
       {
         "player":"Michael Wacha",
         "market":"pitcher_strikeouts",
         "line":4.5,
-        "odds":125
+        "odds":-166
+      },
+      {
+        "player":"Michael Wacha",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":130
+      },
+      {
+        "player":"Michael Wacha",
+        "market":"pitcher_strikeouts",
+        "line":5.5,
+        "odds":130
+      },
+      {
+        "player":"Michael Wacha",
+        "market":"pitcher_strikeouts",
+        "line":5.5,
+        "odds":-170
       },
       {
         "player":"Luis Severino",
@@ -482,6 +978,438 @@
       }
     ],
     "batter_props":[
+      {
+        "player":"Bobby Witt Jr.",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":140
+      },
+      {
+        "player":"Maikel Garcia",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":180
+      },
+      {
+        "player":"Brent Rooker",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":185
+      },
+      {
+        "player":"Vinnie Pasquantino",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":190
+      },
+      {
+        "player":"Lawrence Butler",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":190
+      },
+      {
+        "player":"Jonathan India",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":200
+      },
+      {
+        "player":"Salvador Perez",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":220
+      },
+      {
+        "player":"Tyler Soderstrom",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":230
+      },
+      {
+        "player":"Jac Caglianone",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":240
+      },
+      {
+        "player":"Max Muncy (2002)",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":260
+      },
+      {
+        "player":"Drew Waters",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":280
+      },
+      {
+        "player":"Willie MacIver",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":300
+      },
+      {
+        "player":"Nick Kurtz",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":300
+      },
+      {
+        "player":"Kyle Isbel",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":340
+      },
+      {
+        "player":"Luis Urias",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":360
+      },
+      {
+        "player":"Max Schuemann",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":380
+      },
+      {
+        "player":"Denzel Clarke",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":420
+      },
+      {
+        "player":"John Rave",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":430
+      },
+      {
+        "player":"Bobby Witt Jr.",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":650
+      },
+      {
+        "player":"Maikel Garcia",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":850
+      },
+      {
+        "player":"Lawrence Butler",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":900
+      },
+      {
+        "player":"Brent Rooker",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":900
+      },
+      {
+        "player":"Vinnie Pasquantino",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1000
+      },
+      {
+        "player":"Jonathan India",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1000
+      },
+      {
+        "player":"Salvador Perez",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1200
+      },
+      {
+        "player":"Tyler Soderstrom",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1200
+      },
+      {
+        "player":"Jac Caglianone",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1300
+      },
+      {
+        "player":"Max Muncy (2002)",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1400
+      },
+      {
+        "player":"Drew Waters",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1600
+      },
+      {
+        "player":"Willie MacIver",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1700
+      },
+      {
+        "player":"Nick Kurtz",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1800
+      },
+      {
+        "player":"Luis Urias",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2000
+      },
+      {
+        "player":"Kyle Isbel",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2100
+      },
+      {
+        "player":"Max Schuemann",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2300
+      },
+      {
+        "player":"Denzel Clarke",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2800
+      },
+      {
+        "player":"John Rave",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":3000
+      },
+      {
+        "player":"Bobby Witt Jr.",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-380
+      },
+      {
+        "player":"Maikel Garcia",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-310
+      },
+      {
+        "player":"Brent Rooker",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-280
+      },
+      {
+        "player":"Vinnie Pasquantino",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-280
+      },
+      {
+        "player":"Lawrence Butler",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-270
+      },
+      {
+        "player":"Jonathan India",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-270
+      },
+      {
+        "player":"Salvador Perez",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-260
+      },
+      {
+        "player":"Tyler Soderstrom",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-230
+      },
+      {
+        "player":"Jac Caglianone",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-220
+      },
+      {
+        "player":"Drew Waters",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
+        "player":"Max Muncy (2002)",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
+        "player":"Willie MacIver",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-190
+      },
+      {
+        "player":"Nick Kurtz",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-180
+      },
+      {
+        "player":"Kyle Isbel",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-175
+      },
+      {
+        "player":"Max Schuemann",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-165
+      },
+      {
+        "player":"Luis Urias",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-160
+      },
+      {
+        "player":"John Rave",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-150
+      },
+      {
+        "player":"Denzel Clarke",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-145
+      },
+      {
+        "player":"Brent Rooker",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":440
+      },
+      {
+        "player":"Bobby Witt Jr.",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":480
+      },
+      {
+        "player":"Tyler Soderstrom",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":520
+      },
+      {
+        "player":"Lawrence Butler",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":560
+      },
+      {
+        "player":"Salvador Perez",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":560
+      },
+      {
+        "player":"Vinnie Pasquantino",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":600
+      },
+      {
+        "player":"Nick Kurtz",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":630
+      },
+      {
+        "player":"Jac Caglianone",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":800
+      },
+      {
+        "player":"Willie MacIver",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":900
+      },
+      {
+        "player":"Jonathan India",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":900
+      },
+      {
+        "player":"Luis Urias",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":900
+      },
+      {
+        "player":"Max Muncy (2002)",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":900
+      },
+      {
+        "player":"Denzel Clarke",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1000
+      },
+      {
+        "player":"Maikel Garcia",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1060
+      },
+      {
+        "player":"Drew Waters",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1060
+      },
+      {
+        "player":"John Rave",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1060
+      },
+      {
+        "player":"Max Schuemann",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1100
+      },
+      {
+        "player":"Kyle Isbel",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1700
+      },
       {
         "player":"Bobby Witt Jr.",
         "market":"batter_hits",
@@ -510,13 +1438,13 @@
         "player":"Maikel Garcia",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-260
+        "odds":-270
       },
       {
         "player":"Maikel Garcia",
         "market":"batter_hits",
         "line":0.5,
-        "odds":190
+        "odds":195
       },
       {
         "player":"Vinnie Pasquantino",
@@ -531,16 +1459,16 @@
         "odds":190
       },
       {
-        "player":"Jac Caglianone",
+        "player":"Salvador Perez",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-235
+        "odds":-245
       },
       {
-        "player":"Jac Caglianone",
+        "player":"Salvador Perez",
         "market":"batter_hits",
         "line":0.5,
-        "odds":170
+        "odds":180
       },
       {
         "player":"Jonathan India",
@@ -555,16 +1483,16 @@
         "odds":175
       },
       {
-        "player":"Salvador Perez",
+        "player":"Jac Caglianone",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-230
+        "odds":-225
       },
       {
-        "player":"Salvador Perez",
+        "player":"Jac Caglianone",
         "market":"batter_hits",
         "line":0.5,
-        "odds":170
+        "odds":165
       },
       {
         "player":"Lawrence Butler",
@@ -703,9 +1631,9 @@
     "spreads_toronto_blue_jays_line":null,
     "spreads_toronto_blue_jays_odds":null,
     "totals_over_line":7.0,
-    "totals_over_odds":-105,
+    "totals_over_odds":-108,
     "totals_under_line":7.0,
-    "totals_under_odds":-116,
+    "totals_under_odds":-112,
     "h2h_kansas_city_royals_line":null,
     "h2h_kansas_city_royals_odds":null,
     "h2h_oakland_athletics_line":null,
@@ -715,13 +1643,13 @@
     "spreads_oakland_athletics_line":null,
     "spreads_oakland_athletics_odds":null,
     "h2h_chicago_cubs_line":null,
-    "h2h_chicago_cubs_odds":-116.0,
+    "h2h_chicago_cubs_odds":-112.0,
     "h2h_pittsburgh_pirates_line":null,
-    "h2h_pittsburgh_pirates_odds":-105.0,
+    "h2h_pittsburgh_pirates_odds":-108.0,
     "spreads_chicago_cubs_line":1.5,
-    "spreads_chicago_cubs_odds":-207.0,
+    "spreads_chicago_cubs_odds":-194.0,
     "spreads_pittsburgh_pirates_line":-1.5,
-    "spreads_pittsburgh_pirates_odds":168.0,
+    "spreads_pittsburgh_pirates_odds":158.0,
     "h2h_new_york_mets_line":null,
     "h2h_new_york_mets_odds":null,
     "h2h_tampa_bay_rays_line":null,
@@ -738,6 +1666,14 @@
     "spreads_baltimore_orioles_odds":null,
     "spreads_los_angeles_angels_line":null,
     "spreads_los_angeles_angels_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_minnesota_twins_line":null,
@@ -799,19 +1735,31 @@
         "player":"Cade Horton",
         "market":"pitcher_strikeouts",
         "line":4.5,
-        "odds":110
+        "odds":-102
       },
       {
         "player":"Cade Horton",
         "market":"pitcher_strikeouts",
         "line":4.5,
-        "odds":-140
+        "odds":-126
       },
       {
         "player":"Paul Skenes",
         "market":"pitcher_strikeouts",
         "line":6.5,
-        "odds":-160
+        "odds":-162
+      },
+      {
+        "player":"Paul Skenes",
+        "market":"pitcher_strikeouts",
+        "line":6.5,
+        "odds":122
+      },
+      {
+        "player":"Paul Skenes",
+        "market":"pitcher_strikeouts",
+        "line":6.5,
+        "odds":-155
       },
       {
         "player":"Paul Skenes",
@@ -820,28 +1768,16 @@
         "odds":120
       },
       {
-        "player":"Paul Skenes",
+        "player":"Cade Horton",
         "market":"pitcher_strikeouts",
-        "line":7.5,
-        "odds":110
-      },
-      {
-        "player":"Paul Skenes",
-        "market":"pitcher_strikeouts",
-        "line":7.5,
-        "odds":-145
+        "line":4.5,
+        "odds":100
       },
       {
         "player":"Cade Horton",
         "market":"pitcher_strikeouts",
         "line":4.5,
-        "odds":105
-      },
-      {
-        "player":"Cade Horton",
-        "market":"pitcher_strikeouts",
-        "line":4.5,
-        "odds":-140
+        "odds":-130
       }
     ],
     "batter_props":[
@@ -849,19 +1785,25 @@
         "player":"Bryan Reynolds",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-230
+        "odds":-240
       },
       {
         "player":"Oneil Cruz",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-220
+        "odds":-210
+      },
+      {
+        "player":"Ke'Bryan Hayes",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
       },
       {
         "player":"Kyle Tucker",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-220
+        "odds":-210
       },
       {
         "player":"Nick Gonzales",
@@ -876,16 +1818,16 @@
         "odds":-200
       },
       {
+        "player":"Seiya Suzuki",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-195
+      },
+      {
         "player":"Andrew McCutchen",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-200
-      },
-      {
-        "player":"Ke'Bryan Hayes",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-200
+        "odds":-195
       },
       {
         "player":"Adam Frazier",
@@ -894,7 +1836,7 @@
         "odds":-195
       },
       {
-        "player":"Seiya Suzuki",
+        "player":"Spencer Horwitz",
         "market":"batter_hits",
         "line":0.5,
         "odds":-185
@@ -903,13 +1845,7 @@
         "player":"Nico Hoerner",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-185
-      },
-      {
-        "player":"Spencer Horwitz",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-185
+        "odds":-180
       },
       {
         "player":"Ian Happ",
@@ -921,7 +1857,7 @@
         "player":"Dansby Swanson",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-170
+        "odds":-165
       },
       {
         "player":"Pete Crow-Armstrong",
@@ -933,7 +1869,7 @@
         "player":"Henry Davis",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-155
+        "odds":-150
       },
       {
         "player":"Matt Shaw",
@@ -945,7 +1881,7 @@
         "player":"Michael Busch",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-135
+        "odds":-130
       },
       {
         "player":"Carson Kelly",
@@ -957,37 +1893,31 @@
         "player":"Oneil Cruz",
         "market":"batter_hits",
         "line":2.5,
-        "odds":1200
+        "odds":1300
       },
       {
         "player":"Bryan Reynolds",
         "market":"batter_hits",
         "line":2.5,
-        "odds":1200
+        "odds":1300
       },
       {
         "player":"Kyle Tucker",
         "market":"batter_hits",
         "line":2.5,
-        "odds":1300
-      },
-      {
-        "player":"Andrew McCutchen",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1500
-      },
-      {
-        "player":"Seiya Suzuki",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1600
+        "odds":1400
       },
       {
         "player":"Ke'Bryan Hayes",
         "market":"batter_hits",
         "line":2.5,
-        "odds":1600
+        "odds":1500
+      },
+      {
+        "player":"Nick Gonzales",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1500
       },
       {
         "player":"Isiah Kiner-Falefa",
@@ -996,16 +1926,10 @@
         "odds":1600
       },
       {
-        "player":"Nick Gonzales",
+        "player":"Andrew McCutchen",
         "market":"batter_hits",
         "line":2.5,
         "odds":1600
-      },
-      {
-        "player":"Spencer Horwitz",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1700
       },
       {
         "player":"Adam Frazier",
@@ -1014,34 +1938,46 @@
         "odds":1700
       },
       {
-        "player":"Ian Happ",
+        "player":"Seiya Suzuki",
         "market":"batter_hits",
         "line":2.5,
         "odds":1800
       },
       {
-        "player":"Nico Hoerner",
+        "player":"Spencer Horwitz",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1800
+      },
+      {
+        "player":"Ian Happ",
         "market":"batter_hits",
         "line":2.5,
         "odds":1900
       },
       {
-        "player":"Pete Crow-Armstrong",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":2000
-      },
-      {
-        "player":"Dansby Swanson",
+        "player":"Nico Hoerner",
         "market":"batter_hits",
         "line":2.5,
         "odds":2100
       },
       {
+        "player":"Dansby Swanson",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2200
+      },
+      {
+        "player":"Pete Crow-Armstrong",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2300
+      },
+      {
         "player":"Henry Davis",
         "market":"batter_hits",
         "line":2.5,
-        "odds":2500
+        "odds":3000
       },
       {
         "player":"Matt Shaw",
@@ -1053,13 +1989,13 @@
         "player":"Michael Busch",
         "market":"batter_hits",
         "line":2.5,
-        "odds":3200
+        "odds":3500
       },
       {
         "player":"Carson Kelly",
         "market":"batter_hits",
         "line":2.5,
-        "odds":3300
+        "odds":3600
       },
       {
         "player":"Bryan Reynolds",
@@ -1074,10 +2010,10 @@
         "odds":240
       },
       {
-        "player":"Kyle Tucker",
+        "player":"Ke'Bryan Hayes",
         "market":"batter_hits",
         "line":1.5,
-        "odds":260
+        "odds":270
       },
       {
         "player":"Nick Gonzales",
@@ -1086,10 +2022,10 @@
         "odds":270
       },
       {
-        "player":"Ke'Bryan Hayes",
+        "player":"Kyle Tucker",
         "market":"batter_hits",
         "line":1.5,
-        "odds":280
+        "odds":270
       },
       {
         "player":"Isiah Kiner-Falefa",
@@ -1104,12 +2040,6 @@
         "odds":280
       },
       {
-        "player":"Adam Frazier",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":290
-      },
-      {
         "player":"Seiya Suzuki",
         "market":"batter_hits",
         "line":1.5,
@@ -1122,28 +2052,34 @@
         "odds":300
       },
       {
-        "player":"Ian Happ",
+        "player":"Adam Frazier",
         "market":"batter_hits",
         "line":1.5,
-        "odds":320
+        "odds":300
       },
       {
         "player":"Nico Hoerner",
         "market":"batter_hits",
         "line":1.5,
-        "odds":320
+        "odds":330
       },
       {
-        "player":"Pete Crow-Armstrong",
+        "player":"Ian Happ",
         "market":"batter_hits",
         "line":1.5,
-        "odds":360
+        "odds":340
       },
       {
         "player":"Dansby Swanson",
         "market":"batter_hits",
         "line":1.5,
-        "odds":370
+        "odds":360
+      },
+      {
+        "player":"Pete Crow-Armstrong",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":380
       },
       {
         "player":"Henry Davis",
@@ -1155,13 +2091,7 @@
         "player":"Matt Shaw",
         "market":"batter_hits",
         "line":1.5,
-        "odds":430
-      },
-      {
-        "player":"Carson Kelly",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":500
+        "odds":450
       },
       {
         "player":"Michael Busch",
@@ -1170,28 +2100,28 @@
         "odds":500
       },
       {
+        "player":"Carson Kelly",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":550
+      },
+      {
         "player":"Oneil Cruz",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":400
       },
       {
+        "player":"Kyle Tucker",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":520
+      },
+      {
         "player":"Seiya Suzuki",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":540
-      },
-      {
-        "player":"Kyle Tucker",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":540
-      },
-      {
-        "player":"Andrew McCutchen",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":560
       },
       {
         "player":"Pete Crow-Armstrong",
@@ -1212,16 +2142,16 @@
         "odds":600
       },
       {
-        "player":"Dansby Swanson",
+        "player":"Andrew McCutchen",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":750
+        "odds":600
       },
       {
         "player":"Michael Busch",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":800
+        "odds":750
       },
       {
         "player":"Nick Gonzales",
@@ -1233,13 +2163,19 @@
         "player":"Ian Happ",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":830
+        "odds":800
+      },
+      {
+        "player":"Dansby Swanson",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":800
       },
       {
         "player":"Carson Kelly",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":830
+        "odds":870
       },
       {
         "player":"Spencer Horwitz",
@@ -1269,7 +2205,7 @@
         "player":"Adam Frazier",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":1400
+        "odds":1300
       },
       {
         "player":"Nico Hoerner",
@@ -1293,13 +2229,13 @@
         "player":"Nick Gonzales",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-205
+        "odds":-215
       },
       {
         "player":"Nick Gonzales",
         "market":"batter_hits",
         "line":0.5,
-        "odds":145
+        "odds":150
       },
       {
         "player":"Nico Hoerner",
@@ -1359,7 +2295,7 @@
         "player":"Andrew McCutchen",
         "market":"batter_hits",
         "line":0.5,
-        "odds":125
+        "odds":130
       },
       {
         "player":"Isiah Kiner-Falefa",
@@ -1386,18 +2322,6 @@
         "odds":120
       },
       {
-        "player":"Adam Frazier",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-165
-      },
-      {
-        "player":"Adam Frazier",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":120
-      },
-      {
         "player":"Dansby Swanson",
         "market":"batter_hits",
         "line":0.5,
@@ -1407,7 +2331,7 @@
         "player":"Dansby Swanson",
         "market":"batter_hits",
         "line":0.5,
-        "odds":115
+        "odds":110
       },
       {
         "player":"Pete Crow-Armstrong",
@@ -1420,6 +2344,18 @@
         "market":"batter_hits",
         "line":0.5,
         "odds":110
+      },
+      {
+        "player":"Adam Frazier",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-150
+      },
+      {
+        "player":"Adam Frazier",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":105
       },
       {
         "player":"Ke'Bryan Hayes",
@@ -1446,34 +2382,22 @@
         "odds":105
       },
       {
-        "player":"Michael Busch",
+        "player":"Matt Shaw",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-140
+        "odds":-145
       },
       {
-        "player":"Michael Busch",
+        "player":"Matt Shaw",
         "market":"batter_hits",
         "line":0.5,
-        "odds":100
-      },
-      {
-        "player":"Carson Kelly",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-130
-      },
-      {
-        "player":"Carson Kelly",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-110
+        "odds":105
       },
       {
         "player":"Henry Davis",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-130
+        "odds":-135
       },
       {
         "player":"Henry Davis",
@@ -1482,13 +2406,25 @@
         "odds":-105
       },
       {
-        "player":"Matt Shaw",
+        "player":"Michael Busch",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-125
+        "odds":-135
       },
       {
-        "player":"Matt Shaw",
+        "player":"Michael Busch",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-105
+      },
+      {
+        "player":"Carson Kelly",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-130
+      },
+      {
+        "player":"Carson Kelly",
         "market":"batter_hits",
         "line":0.5,
         "odds":-110
@@ -1510,9 +2446,9 @@
     "spreads_toronto_blue_jays_line":null,
     "spreads_toronto_blue_jays_odds":null,
     "totals_over_line":8.0,
-    "totals_over_odds":-115,
+    "totals_over_odds":-109,
     "totals_under_line":8.0,
-    "totals_under_odds":-105,
+    "totals_under_odds":-111,
     "h2h_kansas_city_royals_line":null,
     "h2h_kansas_city_royals_odds":null,
     "h2h_oakland_athletics_line":null,
@@ -1530,9 +2466,9 @@
     "spreads_pittsburgh_pirates_line":null,
     "spreads_pittsburgh_pirates_odds":null,
     "h2h_new_york_mets_line":null,
-    "h2h_new_york_mets_odds":-164.0,
+    "h2h_new_york_mets_odds":-169.0,
     "h2h_tampa_bay_rays_line":null,
-    "h2h_tampa_bay_rays_odds":134.0,
+    "h2h_tampa_bay_rays_odds":138.0,
     "spreads_new_york_mets_line":-1.5,
     "spreads_new_york_mets_odds":128.0,
     "spreads_tampa_bay_rays_line":1.5,
@@ -1545,6 +2481,14 @@
     "spreads_baltimore_orioles_odds":null,
     "spreads_los_angeles_angels_line":null,
     "spreads_los_angeles_angels_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_minnesota_twins_line":null,
@@ -1606,25 +2550,25 @@
         "player":"Clay Holmes",
         "market":"pitcher_strikeouts",
         "line":5.5,
-        "odds":134
+        "odds":124
       },
       {
         "player":"Clay Holmes",
         "market":"pitcher_strikeouts",
         "line":5.5,
-        "odds":-172
+        "odds":-156
       },
       {
         "player":"Taj Bradley",
         "market":"pitcher_strikeouts",
         "line":5.5,
-        "odds":134
+        "odds":124
       },
       {
         "player":"Taj Bradley",
         "market":"pitcher_strikeouts",
         "line":5.5,
-        "odds":-180
+        "odds":-166
       },
       {
         "player":"Clay Holmes",
@@ -1641,14 +2585,14 @@
       {
         "player":"Taj Bradley",
         "market":"pitcher_strikeouts",
-        "line":5.5,
-        "odds":125
+        "line":4.5,
+        "odds":-160
       },
       {
         "player":"Taj Bradley",
         "market":"pitcher_strikeouts",
-        "line":5.5,
-        "odds":-165
+        "line":4.5,
+        "odds":125
       }
     ],
     "batter_props":[
@@ -1677,19 +2621,25 @@
         "odds":1700
       },
       {
+        "player":"Jonathan Aranda",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1800
+      },
+      {
+        "player":"Pete Alonso",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1800
+      },
+      {
         "player":"Jake Mangum",
         "market":"batter_hits",
         "line":2.5,
         "odds":1800
       },
       {
-        "player":"Jonathan Aranda",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1900
-      },
-      {
-        "player":"Pete Alonso",
+        "player":"Brandon Nimmo",
         "market":"batter_hits",
         "line":2.5,
         "odds":1900
@@ -1699,12 +2649,6 @@
         "market":"batter_hits",
         "line":2.5,
         "odds":1900
-      },
-      {
-        "player":"Brandon Nimmo",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":2000
       },
       {
         "player":"Juan Soto",
@@ -1722,10 +2666,16 @@
         "player":"Tyrone Taylor",
         "market":"batter_hits",
         "line":2.5,
-        "odds":3100
+        "odds":2900
       },
       {
-        "player":"Ronny Mauricio",
+        "player":"Francisco Alvarez",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":3200
+      },
+      {
+        "player":"Danny Jansen",
         "market":"batter_hits",
         "line":2.5,
         "odds":3300
@@ -1737,13 +2687,7 @@
         "odds":3400
       },
       {
-        "player":"Danny Jansen",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":3400
-      },
-      {
-        "player":"Francisco Alvarez",
+        "player":"Ronny Mauricio",
         "market":"batter_hits",
         "line":2.5,
         "odds":3400
@@ -1752,13 +2696,13 @@
         "player":"Taylor Walls",
         "market":"batter_hits",
         "line":2.5,
-        "odds":3500
+        "odds":3600
       },
       {
         "player":"Kameron Misner",
         "market":"batter_hits",
         "line":2.5,
-        "odds":4900
+        "odds":4600
       },
       {
         "player":"Yandy Diaz",
@@ -1776,13 +2720,19 @@
         "player":"Josh Lowe",
         "market":"batter_hits",
         "line":1.5,
-        "odds":250
+        "odds":260
+      },
+      {
+        "player":"Junior Caminero",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":310
       },
       {
         "player":"Jake Mangum",
         "market":"batter_hits",
         "line":1.5,
-        "odds":300
+        "odds":310
       },
       {
         "player":"Brandon Nimmo",
@@ -1791,16 +2741,10 @@
         "odds":310
       },
       {
-        "player":"Junior Caminero",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":320
-      },
-      {
         "player":"Pete Alonso",
         "market":"batter_hits",
         "line":1.5,
-        "odds":330
+        "odds":320
       },
       {
         "player":"Brandon Lowe",
@@ -1830,16 +2774,22 @@
         "player":"Tyrone Taylor",
         "market":"batter_hits",
         "line":1.5,
-        "odds":450
+        "odds":470
       },
       {
         "player":"Ronny Mauricio",
         "market":"batter_hits",
         "line":1.5,
-        "odds":470
+        "odds":480
       },
       {
         "player":"Danny Jansen",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":500
+      },
+      {
+        "player":"Brett Baty",
         "market":"batter_hits",
         "line":1.5,
         "odds":500
@@ -1849,12 +2799,6 @@
         "market":"batter_hits",
         "line":1.5,
         "odds":500
-      },
-      {
-        "player":"Brett Baty",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":550
       },
       {
         "player":"Taylor Walls",
@@ -1872,13 +2816,7 @@
         "player":"Yandy Diaz",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-240
-      },
-      {
-        "player":"Josh Lowe",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-220
+        "odds":-230
       },
       {
         "player":"Francisco Lindor",
@@ -1887,19 +2825,25 @@
         "odds":-220
       },
       {
-        "player":"Jake Mangum",
+        "player":"Josh Lowe",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
+        "player":"Pete Alonso",
         "market":"batter_hits",
         "line":0.5,
         "odds":-190
       },
       {
-        "player":"Brandon Nimmo",
+        "player":"Jake Mangum",
         "market":"batter_hits",
         "line":0.5,
         "odds":-185
       },
       {
-        "player":"Pete Alonso",
+        "player":"Brandon Nimmo",
         "market":"batter_hits",
         "line":0.5,
         "odds":-180
@@ -1911,6 +2855,12 @@
         "odds":-180
       },
       {
+        "player":"Jonathan Aranda",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-175
+      },
+      {
         "player":"Brandon Lowe",
         "market":"batter_hits",
         "line":0.5,
@@ -1918,12 +2868,6 @@
       },
       {
         "player":"Jeff McNeil",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-165
-      },
-      {
-        "player":"Jonathan Aranda",
         "market":"batter_hits",
         "line":0.5,
         "odds":-165
@@ -1980,7 +2924,7 @@
         "player":"Pete Alonso",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":300
+        "odds":290
       },
       {
         "player":"Juan Soto",
@@ -1992,22 +2936,22 @@
         "player":"Francisco Lindor",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":430
-      },
-      {
-        "player":"Brandon Lowe",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":520
+        "odds":440
       },
       {
         "player":"Junior Caminero",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":520
+        "odds":500
       },
       {
         "player":"Brandon Nimmo",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":500
+      },
+      {
+        "player":"Brandon Lowe",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":520
@@ -2019,16 +2963,16 @@
         "odds":560
       },
       {
-        "player":"Yandy Diaz",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":680
-      },
-      {
         "player":"Jonathan Aranda",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":750
+        "odds":700
+      },
+      {
+        "player":"Yandy Diaz",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":700
       },
       {
         "player":"Tyrone Taylor",
@@ -2038,6 +2982,12 @@
       },
       {
         "player":"Danny Jansen",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":800
+      },
+      {
+        "player":"Jeff McNeil",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":800
@@ -2055,12 +3005,6 @@
         "odds":830
       },
       {
-        "player":"Jeff McNeil",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":830
-      },
-      {
         "player":"Josh Lowe",
         "market":"batter_home_runs",
         "line":0.5,
@@ -2070,7 +3014,7 @@
         "player":"Kameron Misner",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":1000
+        "odds":900
       },
       {
         "player":"Taylor Walls",
@@ -2085,18 +3029,6 @@
         "odds":1700
       },
       {
-        "player":"Francisco Lindor",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-235
-      },
-      {
-        "player":"Francisco Lindor",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":170
-      },
-      {
         "player":"Josh Lowe",
         "market":"batter_hits",
         "line":0.5,
@@ -2121,13 +3053,13 @@
         "odds":165
       },
       {
-        "player":"Pete Alonso",
+        "player":"Francisco Lindor",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-215
+        "odds":-220
       },
       {
-        "player":"Pete Alonso",
+        "player":"Francisco Lindor",
         "market":"batter_hits",
         "line":0.5,
         "odds":160
@@ -2152,6 +3084,18 @@
       },
       {
         "player":"Jake Mangum",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":150
+      },
+      {
+        "player":"Pete Alonso",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-205
+      },
+      {
+        "player":"Pete Alonso",
         "market":"batter_hits",
         "line":0.5,
         "odds":150
@@ -2193,18 +3137,6 @@
         "odds":135
       },
       {
-        "player":"Juan Soto",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-180
-      },
-      {
-        "player":"Juan Soto",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":130
-      },
-      {
         "player":"Junior Caminero",
         "market":"batter_hits",
         "line":0.5,
@@ -2217,16 +3149,28 @@
         "odds":130
       },
       {
-        "player":"Tyrone Taylor",
+        "player":"Juan Soto",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-155
+        "odds":-170
+      },
+      {
+        "player":"Juan Soto",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":125
       },
       {
         "player":"Tyrone Taylor",
         "market":"batter_hits",
         "line":0.5,
-        "odds":115
+        "odds":-145
+      },
+      {
+        "player":"Tyrone Taylor",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":110
       },
       {
         "player":"Francisco Alvarez",
@@ -2236,18 +3180,6 @@
       },
       {
         "player":"Francisco Alvarez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":100
-      },
-      {
-        "player":"Ronny Mauricio",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-135
-      },
-      {
-        "player":"Ronny Mauricio",
         "market":"batter_hits",
         "line":0.5,
         "odds":100
@@ -2260,6 +3192,18 @@
       },
       {
         "player":"Brett Baty",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-105
+      },
+      {
+        "player":"Ronny Mauricio",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-130
+      },
+      {
+        "player":"Ronny Mauricio",
         "market":"batter_hits",
         "line":0.5,
         "odds":-105
@@ -2317,9 +3261,9 @@
     "spreads_toronto_blue_jays_line":null,
     "spreads_toronto_blue_jays_odds":null,
     "totals_over_line":10.5,
-    "totals_over_odds":-106,
+    "totals_over_odds":-105,
     "totals_under_line":10.5,
-    "totals_under_odds":-114,
+    "totals_under_odds":-116,
     "h2h_kansas_city_royals_line":null,
     "h2h_kansas_city_royals_odds":null,
     "h2h_oakland_athletics_line":null,
@@ -2345,13 +3289,21 @@
     "spreads_tampa_bay_rays_line":null,
     "spreads_tampa_bay_rays_odds":null,
     "h2h_baltimore_orioles_line":null,
-    "h2h_baltimore_orioles_odds":-169.0,
+    "h2h_baltimore_orioles_odds":-177.0,
     "h2h_los_angeles_angels_line":null,
-    "h2h_los_angeles_angels_odds":138.0,
+    "h2h_los_angeles_angels_odds":145.0,
     "spreads_baltimore_orioles_line":-1.5,
-    "spreads_baltimore_orioles_odds":113.0,
+    "spreads_baltimore_orioles_odds":112.0,
     "spreads_los_angeles_angels_line":1.5,
-    "spreads_los_angeles_angels_odds":-137.0,
+    "spreads_los_angeles_angels_odds":-136.0,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_minnesota_twins_line":null,
@@ -2410,31 +3362,463 @@
     "spreads_st._louis_cardinals_odds":null,
     "pitcher_props":[
       {
-        "player":"Charlie Morton",
+        "player":"Jack Kochanowicz",
         "market":"pitcher_strikeouts",
-        "line":5.5,
-        "odds":125
+        "line":3.5,
+        "odds":102
+      },
+      {
+        "player":"Jack Kochanowicz",
+        "market":"pitcher_strikeouts",
+        "line":3.5,
+        "odds":-136
       },
       {
         "player":"Charlie Morton",
         "market":"pitcher_strikeouts",
         "line":5.5,
+        "odds":104
+      },
+      {
+        "player":"Charlie Morton",
+        "market":"pitcher_strikeouts",
+        "line":5.5,
+        "odds":-132
+      },
+      {
+        "player":"Charlie Morton",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
         "odds":-165
       },
       {
-        "player":"Jack Kochanowicz",
+        "player":"Charlie Morton",
         "market":"pitcher_strikeouts",
-        "line":3.5,
-        "odds":115
+        "line":4.5,
+        "odds":125
       },
       {
         "player":"Jack Kochanowicz",
         "market":"pitcher_strikeouts",
         "line":3.5,
-        "odds":-150
+        "odds":120
+      },
+      {
+        "player":"Jack Kochanowicz",
+        "market":"pitcher_strikeouts",
+        "line":3.5,
+        "odds":-155
       }
     ],
     "batter_props":[
+      {
+        "player":"Gunnar Henderson",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-390
+      },
+      {
+        "player":"Jackson Holliday",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-320
+      },
+      {
+        "player":"Adley Rutschman",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-310
+      },
+      {
+        "player":"Jordan Westburg",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-280
+      },
+      {
+        "player":"Nolan Schanuel",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-270
+      },
+      {
+        "player":"Zach Neto",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-270
+      },
+      {
+        "player":"Ryan O'Hearn",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-260
+      },
+      {
+        "player":"Luis Rengifo",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-220
+      },
+      {
+        "player":"Colton Cowser",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
+        "player":"Mike Trout",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
+        "player":"Ramon Urias",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-200
+      },
+      {
+        "player":"Logan O'Hoppe",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-200
+      },
+      {
+        "player":"Taylor Ward",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-190
+      },
+      {
+        "player":"Cedric Mullins",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-185
+      },
+      {
+        "player":"Ramon Laureano",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-180
+      },
+      {
+        "player":"Jo Adell",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-170
+      },
+      {
+        "player":"Jorge Soler",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-170
+      },
+      {
+        "player":"Gunnar Henderson",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":600
+      },
+      {
+        "player":"Jackson Holliday",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":750
+      },
+      {
+        "player":"Adley Rutschman",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":850
+      },
+      {
+        "player":"Zach Neto",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":900
+      },
+      {
+        "player":"Nolan Schanuel",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":950
+      },
+      {
+        "player":"Jordan Westburg",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1000
+      },
+      {
+        "player":"Ryan O'Hearn",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1100
+      },
+      {
+        "player":"Mike Trout",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1300
+      },
+      {
+        "player":"Luis Rengifo",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1300
+      },
+      {
+        "player":"Taylor Ward",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1500
+      },
+      {
+        "player":"Colton Cowser",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1500
+      },
+      {
+        "player":"Logan O'Hoppe",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1600
+      },
+      {
+        "player":"Jo Adell",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1700
+      },
+      {
+        "player":"Ramon Urias",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1700
+      },
+      {
+        "player":"Jorge Soler",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1800
+      },
+      {
+        "player":"Ramon Laureano",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1900
+      },
+      {
+        "player":"Cedric Mullins",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2000
+      },
+      {
+        "player":"Gunnar Henderson",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":130
+      },
+      {
+        "player":"Adley Rutschman",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":175
+      },
+      {
+        "player":"Jackson Holliday",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":170
+      },
+      {
+        "player":"Zach Neto",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":190
+      },
+      {
+        "player":"Nolan Schanuel",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":190
+      },
+      {
+        "player":"Jordan Westburg",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":195
+      },
+      {
+        "player":"Ryan O'Hearn",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":220
+      },
+      {
+        "player":"Mike Trout",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":250
+      },
+      {
+        "player":"Luis Rengifo",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":250
+      },
+      {
+        "player":"Colton Cowser",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":260
+      },
+      {
+        "player":"Taylor Ward",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":280
+      },
+      {
+        "player":"Logan O'Hoppe",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":280
+      },
+      {
+        "player":"Ramon Urias",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":290
+      },
+      {
+        "player":"Jo Adell",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":320
+      },
+      {
+        "player":"Ramon Laureano",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":320
+      },
+      {
+        "player":"Cedric Mullins",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":320
+      },
+      {
+        "player":"Jorge Soler",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":330
+      },
+      {
+        "player":"Gunnar Henderson",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":300
+      },
+      {
+        "player":"Colton Cowser",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":360
+      },
+      {
+        "player":"Mike Trout",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":400
+      },
+      {
+        "player":"Cedric Mullins",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":450
+      },
+      {
+        "player":"Adley Rutschman",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":480
+      },
+      {
+        "player":"Jackson Holliday",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":480
+      },
+      {
+        "player":"Taylor Ward",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":500
+      },
+      {
+        "player":"Jordan Westburg",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":520
+      },
+      {
+        "player":"Jo Adell",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":540
+      },
+      {
+        "player":"Logan O'Hoppe",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":540
+      },
+      {
+        "player":"Ryan O'Hearn",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":540
+      },
+      {
+        "player":"Ramon Laureano",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":540
+      },
+      {
+        "player":"Zach Neto",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":600
+      },
+      {
+        "player":"Jorge Soler",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":630
+      },
+      {
+        "player":"Ramon Urias",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":830
+      },
+      {
+        "player":"Nolan Schanuel",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":870
+      },
+      {
+        "player":"Luis Rengifo",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1000
+      },
       {
         "player":"Gunnar Henderson",
         "market":"batter_hits",
@@ -2472,6 +3856,18 @@
         "odds":-245
       },
       {
+        "player":"Jordan Westburg",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":180
+      },
+      {
+        "player":"Jordan Westburg",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":-250
+      },
+      {
         "player":"Adley Rutschman",
         "market":"batter_hits",
         "line":1.5,
@@ -2484,18 +3880,6 @@
         "odds":-255
       },
       {
-        "player":"Jordan Westburg",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":195
-      },
-      {
-        "player":"Jordan Westburg",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":-265
-      },
-      {
         "player":"Ryan O'Hearn",
         "market":"batter_hits",
         "line":0.5,
@@ -2506,18 +3890,6 @@
         "market":"batter_hits",
         "line":0.5,
         "odds":195
-      },
-      {
-        "player":"Nolan Schanuel",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-260
-      },
-      {
-        "player":"Nolan Schanuel",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":190
       },
       {
         "player":"Mike Trout",
@@ -2527,6 +3899,18 @@
       },
       {
         "player":"Mike Trout",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":180
+      },
+      {
+        "player":"Nolan Schanuel",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-245
+      },
+      {
+        "player":"Nolan Schanuel",
         "market":"batter_hits",
         "line":0.5,
         "odds":180
@@ -2631,13 +4015,13 @@
         "player":"Jorge Soler",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-170
+        "odds":-165
       },
       {
         "player":"Jorge Soler",
         "market":"batter_hits",
         "line":0.5,
-        "odds":125
+        "odds":120
       },
       {
         "player":"Scott Kingery",
@@ -2655,10 +4039,10 @@
     "game_date":1749772800000
   },
   {
-    "event_id":"79de0f36a0d3d40a3e6868f3384d9ad6",
-    "home_team":"Houston Astros",
-    "away_team":"Minnesota Twins",
-    "commence_time":1749859860000,
+    "event_id":"24e9df6a548a39acc8a4257c04a04748",
+    "home_team":"Detroit Tigers",
+    "away_team":"Cincinnati Reds",
+    "commence_time":1749856260000,
     "h2h_philadelphia_phillies_line":null,
     "h2h_philadelphia_phillies_odds":null,
     "h2h_toronto_blue_jays_line":null,
@@ -2668,9 +4052,9 @@
     "spreads_toronto_blue_jays_line":null,
     "spreads_toronto_blue_jays_odds":null,
     "totals_over_line":8.0,
-    "totals_over_odds":-110,
+    "totals_over_odds":-115,
     "totals_under_line":8.0,
-    "totals_under_odds":-110,
+    "totals_under_odds":-105,
     "h2h_kansas_city_royals_line":null,
     "h2h_kansas_city_royals_odds":null,
     "h2h_oakland_athletics_line":null,
@@ -2703,10 +4087,135 @@
     "spreads_baltimore_orioles_odds":null,
     "spreads_los_angeles_angels_line":null,
     "spreads_los_angeles_angels_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":112.0,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":-132.0,
+    "spreads_cincinnati_reds_line":1.5,
+    "spreads_cincinnati_reds_odds":-194.0,
+    "spreads_detroit_tigers_line":-1.5,
+    "spreads_detroit_tigers_odds":160.0,
     "h2h_houston_astros_line":null,
-    "h2h_houston_astros_odds":-121.0,
+    "h2h_houston_astros_odds":null,
     "h2h_minnesota_twins_line":null,
-    "h2h_minnesota_twins_odds":-101.0,
+    "h2h_minnesota_twins_odds":null,
+    "spreads_houston_astros_line":null,
+    "spreads_houston_astros_odds":null,
+    "spreads_minnesota_twins_line":null,
+    "spreads_minnesota_twins_odds":null,
+    "h2h_los_angeles_dodgers_line":null,
+    "h2h_los_angeles_dodgers_odds":null,
+    "h2h_san_francisco_giants_line":null,
+    "h2h_san_francisco_giants_odds":null,
+    "spreads_los_angeles_dodgers_line":null,
+    "spreads_los_angeles_dodgers_odds":null,
+    "spreads_san_francisco_giants_line":null,
+    "spreads_san_francisco_giants_odds":null,
+    "h2h_atlanta_braves_line":null,
+    "h2h_atlanta_braves_odds":null,
+    "h2h_colorado_rockies_line":null,
+    "h2h_colorado_rockies_odds":null,
+    "spreads_atlanta_braves_line":null,
+    "spreads_atlanta_braves_odds":null,
+    "spreads_colorado_rockies_line":null,
+    "spreads_colorado_rockies_odds":null,
+    "h2h_boston_red_sox_line":null,
+    "h2h_boston_red_sox_odds":null,
+    "h2h_new_york_yankees_line":null,
+    "h2h_new_york_yankees_odds":null,
+    "spreads_boston_red_sox_line":null,
+    "spreads_boston_red_sox_odds":null,
+    "spreads_new_york_yankees_line":null,
+    "spreads_new_york_yankees_odds":null,
+    "h2h_arizona_diamondbacks_line":null,
+    "h2h_arizona_diamondbacks_odds":null,
+    "h2h_san_diego_padres_line":null,
+    "h2h_san_diego_padres_odds":null,
+    "spreads_arizona_diamondbacks_line":null,
+    "spreads_arizona_diamondbacks_odds":null,
+    "spreads_san_diego_padres_line":null,
+    "spreads_san_diego_padres_odds":null,
+    "h2h_miami_marlins_line":null,
+    "h2h_miami_marlins_odds":null,
+    "h2h_washington_nationals_line":null,
+    "h2h_washington_nationals_odds":null,
+    "spreads_miami_marlins_line":null,
+    "spreads_miami_marlins_odds":null,
+    "spreads_washington_nationals_line":null,
+    "spreads_washington_nationals_odds":null,
+    "h2h_milwaukee_brewers_line":null,
+    "h2h_milwaukee_brewers_odds":null,
+    "h2h_st._louis_cardinals_line":null,
+    "h2h_st._louis_cardinals_odds":null,
+    "spreads_milwaukee_brewers_line":null,
+    "spreads_milwaukee_brewers_odds":null,
+    "spreads_st._louis_cardinals_line":null,
+    "spreads_st._louis_cardinals_odds":null,
+    "pitcher_props":null,
+    "batter_props":null,
+    "game_date":1749772800000
+  },
+  {
+    "event_id":"79de0f36a0d3d40a3e6868f3384d9ad6",
+    "home_team":"Houston Astros",
+    "away_team":"Minnesota Twins",
+    "commence_time":1749859860000,
+    "h2h_philadelphia_phillies_line":null,
+    "h2h_philadelphia_phillies_odds":null,
+    "h2h_toronto_blue_jays_line":null,
+    "h2h_toronto_blue_jays_odds":null,
+    "spreads_philadelphia_phillies_line":null,
+    "spreads_philadelphia_phillies_odds":null,
+    "spreads_toronto_blue_jays_line":null,
+    "spreads_toronto_blue_jays_odds":null,
+    "totals_over_line":8.0,
+    "totals_over_odds":-109,
+    "totals_under_line":8.0,
+    "totals_under_odds":-111,
+    "h2h_kansas_city_royals_line":null,
+    "h2h_kansas_city_royals_odds":null,
+    "h2h_oakland_athletics_line":null,
+    "h2h_oakland_athletics_odds":null,
+    "spreads_kansas_city_royals_line":null,
+    "spreads_kansas_city_royals_odds":null,
+    "spreads_oakland_athletics_line":null,
+    "spreads_oakland_athletics_odds":null,
+    "h2h_chicago_cubs_line":null,
+    "h2h_chicago_cubs_odds":null,
+    "h2h_pittsburgh_pirates_line":null,
+    "h2h_pittsburgh_pirates_odds":null,
+    "spreads_chicago_cubs_line":null,
+    "spreads_chicago_cubs_odds":null,
+    "spreads_pittsburgh_pirates_line":null,
+    "spreads_pittsburgh_pirates_odds":null,
+    "h2h_new_york_mets_line":null,
+    "h2h_new_york_mets_odds":null,
+    "h2h_tampa_bay_rays_line":null,
+    "h2h_tampa_bay_rays_odds":null,
+    "spreads_new_york_mets_line":null,
+    "spreads_new_york_mets_odds":null,
+    "spreads_tampa_bay_rays_line":null,
+    "spreads_tampa_bay_rays_odds":null,
+    "h2h_baltimore_orioles_line":null,
+    "h2h_baltimore_orioles_odds":null,
+    "h2h_los_angeles_angels_line":null,
+    "h2h_los_angeles_angels_odds":null,
+    "spreads_baltimore_orioles_line":null,
+    "spreads_baltimore_orioles_odds":null,
+    "spreads_los_angeles_angels_line":null,
+    "spreads_los_angeles_angels_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
+    "h2h_houston_astros_line":null,
+    "h2h_houston_astros_odds":-119.0,
+    "h2h_minnesota_twins_line":null,
+    "h2h_minnesota_twins_odds":-102.0,
     "spreads_houston_astros_line":-1.5,
     "spreads_houston_astros_odds":175.0,
     "spreads_minnesota_twins_line":1.5,
@@ -2761,6 +4270,30 @@
     "spreads_st._louis_cardinals_odds":null,
     "pitcher_props":[
       {
+        "player":"Colton Gordon",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":106
+      },
+      {
+        "player":"Colton Gordon",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":-134
+      },
+      {
+        "player":"Chris Paddack",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":112
+      },
+      {
+        "player":"Chris Paddack",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":-148
+      },
+      {
         "player":"Chris Paddack",
         "market":"pitcher_strikeouts",
         "line":4.5,
@@ -2786,6 +4319,438 @@
       }
     ],
     "batter_props":[
+      {
+        "player":"Yainer Diaz",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-290
+      },
+      {
+        "player":"Jeremy Pena",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-290
+      },
+      {
+        "player":"Carlos Correa",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-270
+      },
+      {
+        "player":"Ty France",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-240
+      },
+      {
+        "player":"Byron Buxton",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-240
+      },
+      {
+        "player":"Jose Altuve",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-220
+      },
+      {
+        "player":"Christian Walker",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-220
+      },
+      {
+        "player":"Jake Meyers",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-195
+      },
+      {
+        "player":"Ryan Jeffers",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-180
+      },
+      {
+        "player":"Mauricio Dubon",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-180
+      },
+      {
+        "player":"Cam Smith",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-175
+      },
+      {
+        "player":"Royce Lewis",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-175
+      },
+      {
+        "player":"Victor Caratini",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-170
+      },
+      {
+        "player":"Brooks Lee",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-165
+      },
+      {
+        "player":"Harrison Bader",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-160
+      },
+      {
+        "player":"Willi Castro",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-145
+      },
+      {
+        "player":"Jacob Melton",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-145
+      },
+      {
+        "player":"Jonah Bride",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-130
+      },
+      {
+        "player":"Carlos Correa",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":950
+      },
+      {
+        "player":"Jeremy Pena",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1000
+      },
+      {
+        "player":"Yainer Diaz",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1000
+      },
+      {
+        "player":"Ty France",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1100
+      },
+      {
+        "player":"Byron Buxton",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1100
+      },
+      {
+        "player":"Jose Altuve",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1300
+      },
+      {
+        "player":"Christian Walker",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1500
+      },
+      {
+        "player":"Jake Meyers",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1700
+      },
+      {
+        "player":"Royce Lewis",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1800
+      },
+      {
+        "player":"Ryan Jeffers",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1800
+      },
+      {
+        "player":"Victor Caratini",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2200
+      },
+      {
+        "player":"Cam Smith",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2200
+      },
+      {
+        "player":"Harrison Bader",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2200
+      },
+      {
+        "player":"Mauricio Dubon",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2200
+      },
+      {
+        "player":"Brooks Lee",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2300
+      },
+      {
+        "player":"Willi Castro",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2800
+      },
+      {
+        "player":"Jacob Melton",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":3100
+      },
+      {
+        "player":"Jonah Bride",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":3200
+      },
+      {
+        "player":"Jeremy Pena",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":185
+      },
+      {
+        "player":"Carlos Correa",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":195
+      },
+      {
+        "player":"Yainer Diaz",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":190
+      },
+      {
+        "player":"Byron Buxton",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":220
+      },
+      {
+        "player":"Ty France",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":230
+      },
+      {
+        "player":"Jose Altuve",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":240
+      },
+      {
+        "player":"Christian Walker",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":260
+      },
+      {
+        "player":"Jake Meyers",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":300
+      },
+      {
+        "player":"Ryan Jeffers",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":320
+      },
+      {
+        "player":"Royce Lewis",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":330
+      },
+      {
+        "player":"Cam Smith",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":350
+      },
+      {
+        "player":"Mauricio Dubon",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":350
+      },
+      {
+        "player":"Victor Caratini",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":360
+      },
+      {
+        "player":"Brooks Lee",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":360
+      },
+      {
+        "player":"Harrison Bader",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":390
+      },
+      {
+        "player":"Jacob Melton",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":440
+      },
+      {
+        "player":"Willi Castro",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":440
+      },
+      {
+        "player":"Jonah Bride",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":500
+      },
+      {
+        "player":"Byron Buxton",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":300
+      },
+      {
+        "player":"Christian Walker",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":390
+      },
+      {
+        "player":"Carlos Correa",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":430
+      },
+      {
+        "player":"Ryan Jeffers",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":450
+      },
+      {
+        "player":"Yainer Diaz",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":480
+      },
+      {
+        "player":"Ty France",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":540
+      },
+      {
+        "player":"Royce Lewis",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":540
+      },
+      {
+        "player":"Jeremy Pena",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":560
+      },
+      {
+        "player":"Harrison Bader",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":600
+      },
+      {
+        "player":"Victor Caratini",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":630
+      },
+      {
+        "player":"Jacob Melton",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":680
+      },
+      {
+        "player":"Willi Castro",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":680
+      },
+      {
+        "player":"Jose Altuve",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":750
+      },
+      {
+        "player":"Cam Smith",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":750
+      },
+      {
+        "player":"Jake Meyers",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":800
+      },
+      {
+        "player":"Brooks Lee",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":800
+      },
+      {
+        "player":"Jonah Bride",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":900
+      },
+      {
+        "player":"Mauricio Dubon",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1060
+      },
       {
         "player":"Jeremy Pena",
         "market":"batter_hits",
@@ -2823,18 +4788,6 @@
         "odds":195
       },
       {
-        "player":"Byron Buxton",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-250
-      },
-      {
-        "player":"Byron Buxton",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":185
-      },
-      {
         "player":"Jose Altuve",
         "market":"batter_hits",
         "line":0.5,
@@ -2857,6 +4810,18 @@
         "market":"batter_hits",
         "line":0.5,
         "odds":180
+      },
+      {
+        "player":"Byron Buxton",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-240
+      },
+      {
+        "player":"Byron Buxton",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":175
       },
       {
         "player":"Jake Meyers",
@@ -2895,30 +4860,6 @@
         "odds":150
       },
       {
-        "player":"Mauricio Dubon",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-190
-      },
-      {
-        "player":"Mauricio Dubon",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":140
-      },
-      {
-        "player":"Cam Smith",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-185
-      },
-      {
-        "player":"Cam Smith",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":135
-      },
-      {
         "player":"Royce Lewis",
         "market":"batter_hits",
         "line":0.5,
@@ -2938,6 +4879,30 @@
       },
       {
         "player":"Brooks Lee",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":130
+      },
+      {
+        "player":"Cam Smith",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-180
+      },
+      {
+        "player":"Cam Smith",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":130
+      },
+      {
+        "player":"Mauricio Dubon",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-180
+      },
+      {
+        "player":"Mauricio Dubon",
         "market":"batter_hits",
         "line":0.5,
         "odds":130
@@ -3019,9 +4984,9 @@
     "spreads_toronto_blue_jays_line":null,
     "spreads_toronto_blue_jays_odds":null,
     "totals_over_line":7.5,
-    "totals_over_odds":101,
+    "totals_over_odds":100,
     "totals_under_line":7.5,
-    "totals_under_odds":-123,
+    "totals_under_odds":-121,
     "h2h_kansas_city_royals_line":null,
     "h2h_kansas_city_royals_odds":null,
     "h2h_oakland_athletics_line":null,
@@ -3054,6 +5019,14 @@
     "spreads_baltimore_orioles_odds":null,
     "spreads_los_angeles_angels_line":null,
     "spreads_los_angeles_angels_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_minnesota_twins_line":null,
@@ -3063,13 +5036,13 @@
     "spreads_minnesota_twins_line":null,
     "spreads_minnesota_twins_odds":null,
     "h2h_los_angeles_dodgers_line":null,
-    "h2h_los_angeles_dodgers_odds":-168.0,
+    "h2h_los_angeles_dodgers_odds":-173.0,
     "h2h_san_francisco_giants_line":null,
-    "h2h_san_francisco_giants_odds":138.0,
+    "h2h_san_francisco_giants_odds":141.0,
     "spreads_los_angeles_dodgers_line":-1.5,
-    "spreads_los_angeles_dodgers_odds":134.0,
+    "spreads_los_angeles_dodgers_odds":133.0,
     "spreads_san_francisco_giants_line":1.5,
-    "spreads_san_francisco_giants_odds":-164.0,
+    "spreads_san_francisco_giants_odds":-162.0,
     "h2h_atlanta_braves_line":null,
     "h2h_atlanta_braves_odds":null,
     "h2h_colorado_rockies_line":null,
@@ -3127,37 +5100,37 @@
         "player":"Logan Webb",
         "market":"pitcher_strikeouts",
         "line":5.5,
-        "odds":-122
+        "odds":-125
       },
       {
         "player":"Logan Webb",
         "market":"pitcher_strikeouts",
         "line":5.5,
-        "odds":-108
+        "odds":-106
       },
       {
         "player":"Yoshinobu Yamamoto",
         "market":"pitcher_strikeouts",
         "line":6.5,
-        "odds":-110
+        "odds":-105
       },
       {
         "player":"Yoshinobu Yamamoto",
         "market":"pitcher_strikeouts",
         "line":6.5,
-        "odds":-120
+        "odds":-125
       },
       {
         "player":"Logan Webb",
         "market":"pitcher_strikeouts",
         "line":5.5,
-        "odds":-115
+        "odds":-140
       },
       {
         "player":"Logan Webb",
         "market":"pitcher_strikeouts",
         "line":5.5,
-        "odds":-110
+        "odds":110
       }
     ],
     "batter_props":[
@@ -3183,7 +5156,13 @@
         "player":"Mookie Betts",
         "market":"batter_hits",
         "line":1.5,
-        "odds":230
+        "odds":220
+      },
+      {
+        "player":"Will Smith",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":250
       },
       {
         "player":"Heliot Ramos",
@@ -3192,19 +5171,19 @@
         "odds":260
       },
       {
-        "player":"Will Smith",
+        "player":"Andy Pages",
         "market":"batter_hits",
         "line":1.5,
-        "odds":260
+        "odds":270
       },
       {
         "player":"Teoscar Hernandez",
         "market":"batter_hits",
         "line":1.5,
-        "odds":280
+        "odds":290
       },
       {
-        "player":"Andy Pages",
+        "player":"Willy Adames",
         "market":"batter_hits",
         "line":1.5,
         "odds":300
@@ -3216,16 +5195,10 @@
         "odds":300
       },
       {
-        "player":"Willy Adames",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":310
-      },
-      {
         "player":"Tommy Edman",
         "market":"batter_hits",
         "line":1.5,
-        "odds":360
+        "odds":370
       },
       {
         "player":"Max Muncy",
@@ -3243,25 +5216,25 @@
         "player":"Mike Yastrzemski",
         "market":"batter_hits",
         "line":1.5,
-        "odds":410
+        "odds":430
       },
       {
         "player":"Dominic Smith",
         "market":"batter_hits",
         "line":1.5,
-        "odds":430
-      },
-      {
-        "player":"Tyler Fitzgerald",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":470
+        "odds":450
       },
       {
         "player":"Michael Conforto",
         "market":"batter_hits",
         "line":1.5,
-        "odds":490
+        "odds":470
+      },
+      {
+        "player":"Tyler Fitzgerald",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":480
       },
       {
         "player":"Andrew Knizner",
@@ -3285,7 +5258,7 @@
         "player":"Mookie Betts",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-240
+        "odds":-250
       },
       {
         "player":"Jung Hoo Lee",
@@ -3300,10 +5273,16 @@
         "odds":-220
       },
       {
+        "player":"Andy Pages",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
         "player":"Heliot Ramos",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-220
+        "odds":-210
       },
       {
         "player":"Teoscar Hernandez",
@@ -3312,28 +5291,22 @@
         "odds":-200
       },
       {
-        "player":"Andy Pages",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-195
-      },
-      {
         "player":"Wilmer Flores",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-195
+        "odds":-190
       },
       {
         "player":"Willy Adames",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-185
+        "odds":-180
       },
       {
         "player":"Tommy Edman",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-170
+        "odds":-175
       },
       {
         "player":"Max Muncy",
@@ -3345,7 +5318,7 @@
         "player":"Casey Schmitt",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-160
+        "odds":-155
       },
       {
         "player":"Mike Yastrzemski",
@@ -3360,13 +5333,13 @@
         "odds":-150
       },
       {
-        "player":"Tyler Fitzgerald",
+        "player":"Michael Conforto",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-140
+        "odds":-135
       },
       {
-        "player":"Michael Conforto",
+        "player":"Tyler Fitzgerald",
         "market":"batter_hits",
         "line":0.5,
         "odds":-135
@@ -3375,7 +5348,7 @@
         "player":"Andrew Knizner",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-130
+        "odds":-125
       },
       {
         "player":"Shohei Ohtani",
@@ -3393,7 +5366,7 @@
         "player":"Freddie Freeman",
         "market":"batter_hits",
         "line":2.5,
-        "odds":1100
+        "odds":1200
       },
       {
         "player":"Mookie Betts",
@@ -3402,40 +5375,46 @@
         "odds":1200
       },
       {
-        "player":"Heliot Ramos",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1300
-      },
-      {
         "player":"Will Smith",
         "market":"batter_hits",
         "line":2.5,
         "odds":1400
       },
       {
-        "player":"Willy Adames",
+        "player":"Heliot Ramos",
         "market":"batter_hits",
         "line":2.5,
-        "odds":1500
-      },
-      {
-        "player":"Wilmer Flores",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1600
-      },
-      {
-        "player":"Teoscar Hernandez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1700
+        "odds":1400
       },
       {
         "player":"Andy Pages",
         "market":"batter_hits",
         "line":2.5,
+        "odds":1600
+      },
+      {
+        "player":"Willy Adames",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1600
+      },
+      {
+        "player":"Wilmer Flores",
+        "market":"batter_hits",
+        "line":2.5,
         "odds":1700
+      },
+      {
+        "player":"Teoscar Hernandez",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1800
+      },
+      {
+        "player":"Tommy Edman",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2200
       },
       {
         "player":"Casey Schmitt",
@@ -3444,22 +5423,16 @@
         "odds":2200
       },
       {
-        "player":"Tommy Edman",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":2300
-      },
-      {
         "player":"Max Muncy",
         "market":"batter_hits",
         "line":2.5,
-        "odds":2400
+        "odds":2500
       },
       {
         "player":"Mike Yastrzemski",
         "market":"batter_hits",
         "line":2.5,
-        "odds":2400
+        "odds":2600
       },
       {
         "player":"Dominic Smith",
@@ -3468,22 +5441,22 @@
         "odds":2800
       },
       {
-        "player":"Tyler Fitzgerald",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":3400
-      },
-      {
         "player":"Michael Conforto",
         "market":"batter_hits",
         "line":2.5,
-        "odds":3400
+        "odds":3100
+      },
+      {
+        "player":"Tyler Fitzgerald",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":3200
       },
       {
         "player":"Andrew Knizner",
         "market":"batter_hits",
         "line":2.5,
-        "odds":3400
+        "odds":3500
       },
       {
         "player":"Shohei Ohtani",
@@ -3492,19 +5465,19 @@
         "odds":255
       },
       {
+        "player":"Max Muncy",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":480
+      },
+      {
         "player":"Willy Adames",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":480
+        "odds":500
       },
       {
         "player":"Heliot Ramos",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":480
-      },
-      {
-        "player":"Max Muncy",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":500
@@ -3513,10 +5486,10 @@
         "player":"Wilmer Flores",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":520
+        "odds":540
       },
       {
-        "player":"Teoscar Hernandez",
+        "player":"Mookie Betts",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":540
@@ -3528,13 +5501,13 @@
         "odds":560
       },
       {
-        "player":"Mookie Betts",
+        "player":"Andy Pages",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":560
       },
       {
-        "player":"Andy Pages",
+        "player":"Teoscar Hernandez",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":560
@@ -3555,7 +5528,7 @@
         "player":"Michael Conforto",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":700
+        "odds":680
       },
       {
         "player":"Casey Schmitt",
@@ -3564,13 +5537,13 @@
         "odds":750
       },
       {
-        "player":"Dominic Smith",
+        "player":"Tommy Edman",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":870
+        "odds":900
       },
       {
-        "player":"Tommy Edman",
+        "player":"Dominic Smith",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":900
@@ -3585,7 +5558,7 @@
         "player":"Tyler Fitzgerald",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":1060
+        "odds":1000
       },
       {
         "player":"Andrew Knizner",
@@ -3609,13 +5582,13 @@
         "player":"Freddie Freeman",
         "market":"batter_hits",
         "line":1.5,
-        "odds":185
+        "odds":195
       },
       {
         "player":"Freddie Freeman",
         "market":"batter_hits",
         "line":1.5,
-        "odds":-255
+        "odds":-270
       },
       {
         "player":"Mookie Betts",
@@ -3690,18 +5663,6 @@
         "odds":150
       },
       {
-        "player":"Max Muncy",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-155
-      },
-      {
-        "player":"Max Muncy",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":115
-      },
-      {
         "player":"Wilmer Flores",
         "market":"batter_hits",
         "line":0.5,
@@ -3721,6 +5682,18 @@
       },
       {
         "player":"Ha-Seong Kim",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":110
+      },
+      {
+        "player":"Max Muncy",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-145
+      },
+      {
+        "player":"Max Muncy",
         "market":"batter_hits",
         "line":0.5,
         "odds":110
@@ -3750,6 +5723,30 @@
         "odds":100
       },
       {
+        "player":"Dominic Smith",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-130
+      },
+      {
+        "player":"Dominic Smith",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-105
+      },
+      {
+        "player":"Tyler Fitzgerald",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-130
+      },
+      {
+        "player":"Tyler Fitzgerald",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-105
+      },
+      {
         "player":"Mike Yastrzemski",
         "market":"batter_hits",
         "line":0.5,
@@ -3757,30 +5754,6 @@
       },
       {
         "player":"Mike Yastrzemski",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-110
-      },
-      {
-        "player":"Tyler Fitzgerald",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-125
-      },
-      {
-        "player":"Tyler Fitzgerald",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-110
-      },
-      {
-        "player":"Dominic Smith",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-120
-      },
-      {
-        "player":"Dominic Smith",
         "market":"batter_hits",
         "line":0.5,
         "odds":-110
@@ -3826,9 +5799,9 @@
     "spreads_toronto_blue_jays_line":null,
     "spreads_toronto_blue_jays_odds":null,
     "totals_over_line":9.0,
-    "totals_over_odds":-110,
+    "totals_over_odds":-106,
     "totals_under_line":9.0,
-    "totals_under_odds":-110,
+    "totals_under_odds":-114,
     "h2h_kansas_city_royals_line":null,
     "h2h_kansas_city_royals_odds":null,
     "h2h_oakland_athletics_line":null,
@@ -3861,6 +5834,14 @@
     "spreads_baltimore_orioles_odds":null,
     "spreads_los_angeles_angels_line":null,
     "spreads_los_angeles_angels_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_minnesota_twins_line":null,
@@ -3878,13 +5859,13 @@
     "spreads_san_francisco_giants_line":null,
     "spreads_san_francisco_giants_odds":null,
     "h2h_atlanta_braves_line":null,
-    "h2h_atlanta_braves_odds":-301.0,
+    "h2h_atlanta_braves_odds":-305.0,
     "h2h_colorado_rockies_line":null,
-    "h2h_colorado_rockies_odds":237.0,
+    "h2h_colorado_rockies_odds":240.0,
     "spreads_atlanta_braves_line":-1.5,
-    "spreads_atlanta_braves_odds":-144.0,
+    "spreads_atlanta_braves_odds":-145.0,
     "spreads_colorado_rockies_line":1.5,
-    "spreads_colorado_rockies_odds":118.0,
+    "spreads_colorado_rockies_odds":119.0,
     "h2h_boston_red_sox_line":null,
     "h2h_boston_red_sox_odds":null,
     "h2h_new_york_yankees_line":null,
@@ -3919,6 +5900,30 @@
     "spreads_st._louis_cardinals_odds":null,
     "pitcher_props":[
       {
+        "player":"German Marquez",
+        "market":"pitcher_strikeouts",
+        "line":3.5,
+        "odds":-138
+      },
+      {
+        "player":"German Marquez",
+        "market":"pitcher_strikeouts",
+        "line":3.5,
+        "odds":104
+      },
+      {
+        "player":"Bryce Elder",
+        "market":"pitcher_strikeouts",
+        "line":5.5,
+        "odds":-158
+      },
+      {
+        "player":"Bryce Elder",
+        "market":"pitcher_strikeouts",
+        "line":5.5,
+        "odds":124
+      },
+      {
         "player":"Bryce Elder",
         "market":"pitcher_strikeouts",
         "line":5.5,
@@ -3934,16 +5939,448 @@
         "player":"German Marquez",
         "market":"pitcher_strikeouts",
         "line":3.5,
-        "odds":-125
+        "odds":-135
       },
       {
         "player":"German Marquez",
         "market":"pitcher_strikeouts",
         "line":3.5,
-        "odds":-105
+        "odds":105
       }
     ],
     "batter_props":[
+      {
+        "player":"Ronald Acuna Jr.",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":650
+      },
+      {
+        "player":"Drake Baldwin",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":900
+      },
+      {
+        "player":"Austin Riley",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":900
+      },
+      {
+        "player":"Michael Harris II",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1000
+      },
+      {
+        "player":"Marcell Ozuna",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1200
+      },
+      {
+        "player":"Jordan Beck",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1300
+      },
+      {
+        "player":"Thairo Estrada",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1300
+      },
+      {
+        "player":"Matt Olson",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1300
+      },
+      {
+        "player":"Ozzie Albies",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1500
+      },
+      {
+        "player":"Hunter Goodman",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1700
+      },
+      {
+        "player":"Ryan McMahon",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1900
+      },
+      {
+        "player":"Brenton Doyle",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1900
+      },
+      {
+        "player":"Eli White",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1900
+      },
+      {
+        "player":"Tyler Freeman",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2000
+      },
+      {
+        "player":"Nick Allen",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2100
+      },
+      {
+        "player":"Orlando Arcia",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2300
+      },
+      {
+        "player":"Sam Hilliard",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2600
+      },
+      {
+        "player":"Mickey Moniak",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2700
+      },
+      {
+        "player":"Ronald Acuna Jr.",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-380
+      },
+      {
+        "player":"Drake Baldwin",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-290
+      },
+      {
+        "player":"Austin Riley",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-290
+      },
+      {
+        "player":"Michael Harris II",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-260
+      },
+      {
+        "player":"Marcell Ozuna",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-240
+      },
+      {
+        "player":"Matt Olson",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-240
+      },
+      {
+        "player":"Thairo Estrada",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-220
+      },
+      {
+        "player":"Ozzie Albies",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
+        "player":"Jordan Beck",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
+        "player":"Hunter Goodman",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-185
+      },
+      {
+        "player":"Eli White",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-180
+      },
+      {
+        "player":"Ryan McMahon",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-175
+      },
+      {
+        "player":"Brenton Doyle",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-175
+      },
+      {
+        "player":"Tyler Freeman",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-170
+      },
+      {
+        "player":"Sam Hilliard",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-160
+      },
+      {
+        "player":"Nick Allen",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-160
+      },
+      {
+        "player":"Orlando Arcia",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-160
+      },
+      {
+        "player":"Mickey Moniak",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-145
+      },
+      {
+        "player":"Ronald Acuna Jr.",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":145
+      },
+      {
+        "player":"Drake Baldwin",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":185
+      },
+      {
+        "player":"Austin Riley",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":185
+      },
+      {
+        "player":"Michael Harris II",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":210
+      },
+      {
+        "player":"Marcell Ozuna",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":230
+      },
+      {
+        "player":"Matt Olson",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":230
+      },
+      {
+        "player":"Thairo Estrada",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":250
+      },
+      {
+        "player":"Jordan Beck",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":270
+      },
+      {
+        "player":"Ozzie Albies",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":270
+      },
+      {
+        "player":"Hunter Goodman",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":310
+      },
+      {
+        "player":"Brenton Doyle",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":330
+      },
+      {
+        "player":"Ryan McMahon",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":330
+      },
+      {
+        "player":"Eli White",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":330
+      },
+      {
+        "player":"Tyler Freeman",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":340
+      },
+      {
+        "player":"Nick Allen",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":360
+      },
+      {
+        "player":"Orlando Arcia",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":370
+      },
+      {
+        "player":"Sam Hilliard",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":400
+      },
+      {
+        "player":"Mickey Moniak",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":440
+      },
+      {
+        "player":"Matt Olson",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":300
+      },
+      {
+        "player":"Ronald Acuna Jr.",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":360
+      },
+      {
+        "player":"Austin Riley",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":420
+      },
+      {
+        "player":"Marcell Ozuna",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":440
+      },
+      {
+        "player":"Hunter Goodman",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":480
+      },
+      {
+        "player":"Drake Baldwin",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":520
+      },
+      {
+        "player":"Sam Hilliard",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":560
+      },
+      {
+        "player":"Ryan McMahon",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":560
+      },
+      {
+        "player":"Michael Harris II",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":630
+      },
+      {
+        "player":"Ozzie Albies",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":680
+      },
+      {
+        "player":"Mickey Moniak",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":700
+      },
+      {
+        "player":"Jordan Beck",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":750
+      },
+      {
+        "player":"Brenton Doyle",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":800
+      },
+      {
+        "player":"Orlando Arcia",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":870
+      },
+      {
+        "player":"Eli White",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":900
+      },
+      {
+        "player":"Thairo Estrada",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1060
+      },
+      {
+        "player":"Tyler Freeman",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1100
+      },
+      {
+        "player":"Nick Allen",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1400
+      },
       {
         "player":"Ronald Acuna Jr.",
         "market":"batter_hits",
@@ -3960,13 +6397,13 @@
         "player":"Austin Riley",
         "market":"batter_hits",
         "line":1.5,
-        "odds":155
+        "odds":150
       },
       {
         "player":"Austin Riley",
         "market":"batter_hits",
         "line":1.5,
-        "odds":-220
+        "odds":-210
       },
       {
         "player":"Drake Baldwin",
@@ -3981,6 +6418,18 @@
         "odds":-230
       },
       {
+        "player":"Michael Harris II",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":180
+      },
+      {
+        "player":"Michael Harris II",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":-260
+      },
+      {
         "player":"Matt Olson",
         "market":"batter_hits",
         "line":1.5,
@@ -3993,28 +6442,16 @@
         "odds":-270
       },
       {
-        "player":"Michael Harris II",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":190
-      },
-      {
-        "player":"Michael Harris II",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":-275
-      },
-      {
         "player":"Marcell Ozuna",
         "market":"batter_hits",
-        "line":1.5,
-        "odds":195
-      },
-      {
-        "player":"Marcell Ozuna",
-        "market":"batter_hits",
-        "line":1.5,
+        "line":0.5,
         "odds":-280
+      },
+      {
+        "player":"Marcell Ozuna",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":195
       },
       {
         "player":"Ozzie Albies",
@@ -4212,6 +6649,14 @@
     "spreads_baltimore_orioles_odds":null,
     "spreads_los_angeles_angels_line":null,
     "spreads_los_angeles_angels_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_minnesota_twins_line":null,
@@ -4270,28 +6715,52 @@
     "spreads_st._louis_cardinals_odds":null,
     "pitcher_props":[
       {
-        "player":"Ryan Yarbrough",
+        "player":"Garrett Crochet",
         "market":"pitcher_strikeouts",
-        "line":4.5,
-        "odds":106
-      },
-      {
-        "player":"Ryan Yarbrough",
-        "market":"pitcher_strikeouts",
-        "line":4.5,
-        "odds":-140
+        "line":8.5,
+        "odds":118
       },
       {
         "player":"Garrett Crochet",
         "market":"pitcher_strikeouts",
         "line":8.5,
-        "odds":110
+        "odds":-150
+      },
+      {
+        "player":"Ryan Yarbrough",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":-114
+      },
+      {
+        "player":"Ryan Yarbrough",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":-114
       },
       {
         "player":"Garrett Crochet",
         "market":"pitcher_strikeouts",
         "line":8.5,
-        "odds":-140
+        "odds":115
+      },
+      {
+        "player":"Garrett Crochet",
+        "market":"pitcher_strikeouts",
+        "line":8.5,
+        "odds":-150
+      },
+      {
+        "player":"Ryan Yarbrough",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":-105
+      },
+      {
+        "player":"Ryan Yarbrough",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":-125
       }
     ],
     "batter_props":[
@@ -4299,7 +6768,13 @@
         "player":"Jarren Duran",
         "market":"batter_hits",
         "line":2.5,
-        "odds":950
+        "odds":900
+      },
+      {
+        "player":"Paul Goldschmidt",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1000
       },
       {
         "player":"Cody Bellinger",
@@ -4320,7 +6795,7 @@
         "odds":1200
       },
       {
-        "player":"Paul Goldschmidt",
+        "player":"Romy Gonzalez",
         "market":"batter_hits",
         "line":2.5,
         "odds":1300
@@ -4329,10 +6804,10 @@
         "player":"Rafael Devers",
         "market":"batter_hits",
         "line":2.5,
-        "odds":1400
+        "odds":1300
       },
       {
-        "player":"Romy Gonzalez",
+        "player":"Roman Anthony",
         "market":"batter_hits",
         "line":2.5,
         "odds":1500
@@ -4344,22 +6819,16 @@
         "odds":1600
       },
       {
-        "player":"Roman Anthony",
+        "player":"Carlos Narvaez",
         "market":"batter_hits",
         "line":2.5,
         "odds":1700
       },
       {
-        "player":"Carlos Narvaez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1800
-      },
-      {
         "player":"Ceddanne Rafaela",
         "market":"batter_hits",
         "line":2.5,
-        "odds":1800
+        "odds":2000
       },
       {
         "player":"Oswald Peraza",
@@ -4371,7 +6840,7 @@
         "player":"DJ LeMahieu",
         "market":"batter_hits",
         "line":2.5,
-        "odds":2200
+        "odds":2100
       },
       {
         "player":"Trevor Story",
@@ -4383,25 +6852,25 @@
         "player":"Anthony Volpe",
         "market":"batter_hits",
         "line":2.5,
-        "odds":2300
-      },
-      {
-        "player":"Jasson Dom\u00ednguez",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":2300
+        "odds":2400
       },
       {
         "player":"Kristian Campbell",
         "market":"batter_hits",
         "line":2.5,
-        "odds":2400
+        "odds":2500
+      },
+      {
+        "player":"Jasson Dom\u00ednguez",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2500
       },
       {
         "player":"Austin Wells",
         "market":"batter_hits",
         "line":2.5,
-        "odds":2400
+        "odds":2800
       },
       {
         "player":"Jarren Duran",
@@ -4413,22 +6882,28 @@
         "player":"Cody Bellinger",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-250
+        "odds":-240
       },
       {
-        "player":"Aaron Judge",
+        "player":"Romy Gonzalez",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-220
+        "odds":-240
       },
       {
         "player":"Rafael Devers",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-220
+        "odds":-230
       },
       {
         "player":"Paul Goldschmidt",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-230
+      },
+      {
+        "player":"Aaron Judge",
         "market":"batter_hits",
         "line":0.5,
         "odds":-220
@@ -4446,10 +6921,10 @@
         "odds":-220
       },
       {
-        "player":"Romy Gonzalez",
+        "player":"Carlos Narvaez",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-210
+        "odds":-200
       },
       {
         "player":"Abraham Toro",
@@ -4464,16 +6939,10 @@
         "odds":-190
       },
       {
-        "player":"Carlos Narvaez",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-180
-      },
-      {
         "player":"Trevor Story",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-180
+        "odds":-175
       },
       {
         "player":"Kristian Campbell",
@@ -4488,13 +6957,13 @@
         "odds":-165
       },
       {
-        "player":"Anthony Volpe",
+        "player":"DJ LeMahieu",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-160
+        "odds":-155
       },
       {
-        "player":"DJ LeMahieu",
+        "player":"Anthony Volpe",
         "market":"batter_hits",
         "line":0.5,
         "odds":-155
@@ -4509,7 +6978,7 @@
         "player":"Austin Wells",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-145
+        "odds":-140
       },
       {
         "player":"Jarren Duran",
@@ -4518,10 +6987,22 @@
         "odds":195
       },
       {
-        "player":"Cody Bellinger",
+        "player":"Paul Goldschmidt",
         "market":"batter_hits",
         "line":1.5,
         "odds":210
+      },
+      {
+        "player":"Cody Bellinger",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":220
+      },
+      {
+        "player":"Romy Gonzalez",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":240
       },
       {
         "player":"Aaron Judge",
@@ -4530,25 +7011,13 @@
         "odds":240
       },
       {
-        "player":"Ben Rice",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":240
-      },
-      {
-        "player":"Romy Gonzalez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":250
-      },
-      {
-        "player":"Paul Goldschmidt",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":250
-      },
-      {
         "player":"Rafael Devers",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":250
+      },
+      {
+        "player":"Ben Rice",
         "market":"batter_hits",
         "line":1.5,
         "odds":250
@@ -4566,13 +7035,13 @@
         "odds":290
       },
       {
-        "player":"Ceddanne Rafaela",
+        "player":"Carlos Narvaez",
         "market":"batter_hits",
         "line":1.5,
-        "odds":310
+        "odds":300
       },
       {
-        "player":"Carlos Narvaez",
+        "player":"Ceddanne Rafaela",
         "market":"batter_hits",
         "line":1.5,
         "odds":320
@@ -4587,16 +7056,10 @@
         "player":"Oswald Peraza",
         "market":"batter_hits",
         "line":1.5,
-        "odds":350
+        "odds":360
       },
       {
         "player":"DJ LeMahieu",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":370
-      },
-      {
-        "player":"Anthony Volpe",
         "market":"batter_hits",
         "line":1.5,
         "odds":370
@@ -4608,28 +7071,34 @@
         "odds":380
       },
       {
-        "player":"Jasson Dom\u00ednguez",
+        "player":"Anthony Volpe",
         "market":"batter_hits",
         "line":1.5,
-        "odds":400
+        "odds":390
       },
       {
-        "player":"Austin Wells",
+        "player":"Jasson Dom\u00ednguez",
         "market":"batter_hits",
         "line":1.5,
         "odds":410
       },
       {
+        "player":"Austin Wells",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":430
+      },
+      {
         "player":"Aaron Judge",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":285
+        "odds":265
       },
       {
         "player":"Rafael Devers",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":500
+        "odds":470
       },
       {
         "player":"Ben Rice",
@@ -4638,25 +7107,25 @@
         "odds":560
       },
       {
+        "player":"Paul Goldschmidt",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":630
+      },
+      {
         "player":"Roman Anthony",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":680
       },
       {
-        "player":"Carlos Narvaez",
+        "player":"Cody Bellinger",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":750
+        "odds":700
       },
       {
         "player":"Trevor Story",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":750
-      },
-      {
-        "player":"Cody Bellinger",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":750
@@ -4668,19 +7137,25 @@
         "odds":750
       },
       {
+        "player":"Carlos Narvaez",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":800
+      },
+      {
         "player":"Oswald Peraza",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":800
       },
       {
-        "player":"Paul Goldschmidt",
+        "player":"Jasson Dom\u00ednguez",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":800
+        "odds":870
       },
       {
-        "player":"Jasson Dom\u00ednguez",
+        "player":"Austin Wells",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":870
@@ -4707,13 +7182,7 @@
         "player":"Abraham Toro",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":900
-      },
-      {
-        "player":"Austin Wells",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":900
+        "odds":1000
       },
       {
         "player":"Anthony Volpe",
@@ -4725,7 +7194,223 @@
         "player":"DJ LeMahieu",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":1060
+        "odds":1100
+      },
+      {
+        "player":"Paul Goldschmidt",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":190
+      },
+      {
+        "player":"Paul Goldschmidt",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":-275
+      },
+      {
+        "player":"Jarren Duran",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-270
+      },
+      {
+        "player":"Jarren Duran",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":190
+      },
+      {
+        "player":"Abraham Toro",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-240
+      },
+      {
+        "player":"Abraham Toro",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":170
+      },
+      {
+        "player":"Carlos Narvaez",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-235
+      },
+      {
+        "player":"Carlos Narvaez",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":165
+      },
+      {
+        "player":"Rafael Devers",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-230
+      },
+      {
+        "player":"Rafael Devers",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":160
+      },
+      {
+        "player":"Aaron Judge",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-225
+      },
+      {
+        "player":"Aaron Judge",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":160
+      },
+      {
+        "player":"Rob Refsnyder",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-220
+      },
+      {
+        "player":"Rob Refsnyder",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":155
+      },
+      {
+        "player":"Romy Gonzalez",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-220
+      },
+      {
+        "player":"Romy Gonzalez",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":155
+      },
+      {
+        "player":"Cody Bellinger",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-215
+      },
+      {
+        "player":"Cody Bellinger",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":150
+      },
+      {
+        "player":"Trevor Story",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-215
+      },
+      {
+        "player":"Trevor Story",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":150
+      },
+      {
+        "player":"DJ LeMahieu",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-190
+      },
+      {
+        "player":"DJ LeMahieu",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":135
+      },
+      {
+        "player":"Roman Anthony",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-180
+      },
+      {
+        "player":"Roman Anthony",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":130
+      },
+      {
+        "player":"Anthony Volpe",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-175
+      },
+      {
+        "player":"Anthony Volpe",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":125
+      },
+      {
+        "player":"Kristian Campbell",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-175
+      },
+      {
+        "player":"Kristian Campbell",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":125
+      },
+      {
+        "player":"Trent Grisham",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-155
+      },
+      {
+        "player":"Trent Grisham",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":110
+      },
+      {
+        "player":"Jazz Chisholm Jr.",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-145
+      },
+      {
+        "player":"Jazz Chisholm Jr.",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":100
+      },
+      {
+        "player":"Austin Wells",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-140
+      },
+      {
+        "player":"Austin Wells",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":100
+      },
+      {
+        "player":"Jasson Dom\u00ednguez",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-140
+      },
+      {
+        "player":"Jasson Dom\u00ednguez",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":100
       }
     ],
     "game_date":1749772800000
@@ -4746,7 +7431,7 @@
     "totals_over_line":9.5,
     "totals_over_odds":-105,
     "totals_under_line":9.5,
-    "totals_under_odds":-115,
+    "totals_under_odds":-116,
     "h2h_kansas_city_royals_line":null,
     "h2h_kansas_city_royals_odds":null,
     "h2h_oakland_athletics_line":null,
@@ -4779,6 +7464,14 @@
     "spreads_baltimore_orioles_odds":null,
     "spreads_los_angeles_angels_line":null,
     "spreads_los_angeles_angels_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_minnesota_twins_line":null,
@@ -4812,9 +7505,9 @@
     "spreads_new_york_yankees_line":null,
     "spreads_new_york_yankees_odds":null,
     "h2h_arizona_diamondbacks_line":null,
-    "h2h_arizona_diamondbacks_odds":-123.0,
+    "h2h_arizona_diamondbacks_odds":-126.0,
     "h2h_san_diego_padres_line":null,
-    "h2h_san_diego_padres_odds":101.0,
+    "h2h_san_diego_padres_odds":104.0,
     "spreads_arizona_diamondbacks_line":-1.5,
     "spreads_arizona_diamondbacks_odds":160.0,
     "spreads_san_diego_padres_line":1.5,
@@ -4840,25 +7533,25 @@
         "player":"Stephen Kolek",
         "market":"pitcher_strikeouts",
         "line":3.5,
-        "odds":120
+        "odds":118
       },
       {
         "player":"Stephen Kolek",
         "market":"pitcher_strikeouts",
         "line":3.5,
-        "odds":-160
+        "odds":-158
       },
       {
         "player":"Ryne Nelson",
         "market":"pitcher_strikeouts",
         "line":3.5,
-        "odds":120
+        "odds":106
       },
       {
         "player":"Ryne Nelson",
         "market":"pitcher_strikeouts",
         "line":3.5,
-        "odds":-152
+        "odds":-134
       },
       {
         "player":"Ryne Nelson",
@@ -4890,19 +7583,13 @@
         "player":"Luis Arraez",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-370
+        "odds":-380
       },
       {
         "player":"Fernando Tatis Jr.",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-350
-      },
-      {
-        "player":"Manny Machado",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-350
+        "odds":-360
       },
       {
         "player":"Jackson Merrill",
@@ -4911,16 +7598,16 @@
         "odds":-340
       },
       {
+        "player":"Manny Machado",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-340
+      },
+      {
         "player":"Corbin Carroll",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-290
-      },
-      {
-        "player":"Xander Bogaerts",
-        "market":"batter_hits",
-        "line":0.5,
-        "odds":-280
+        "odds":-310
       },
       {
         "player":"Lourdes Gurriel Jr.",
@@ -4929,19 +7616,25 @@
         "odds":-280
       },
       {
+        "player":"Xander Bogaerts",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-270
+      },
+      {
         "player":"Josh Naylor",
         "market":"batter_hits",
         "line":0.5,
         "odds":-270
       },
       {
-        "player":"Gabriel Moreno",
+        "player":"Ketel Marte",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-250
+        "odds":-260
       },
       {
-        "player":"Ketel Marte",
+        "player":"Gabriel Moreno",
         "market":"batter_hits",
         "line":0.5,
         "odds":-250
@@ -4956,7 +7649,7 @@
         "player":"Eugenio Suarez",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-230
+        "odds":-220
       },
       {
         "player":"Geraldo Perdomo",
@@ -4974,40 +7667,40 @@
         "player":"Jake Cronenworth",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-195
+        "odds":-190
       },
       {
         "player":"Pavin Smith",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-170
+        "odds":-165
       },
       {
         "player":"Elias Diaz",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-165
+        "odds":-160
       },
       {
         "player":"Tyler Wade",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-120
+        "odds":-125
       },
       {
         "player":"Luis Arraez",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":550
+      },
+      {
+        "player":"Fernando Tatis Jr.",
         "market":"batter_hits",
         "line":2.5,
         "odds":600
       },
       {
         "player":"Manny Machado",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":650
-      },
-      {
-        "player":"Fernando Tatis Jr.",
         "market":"batter_hits",
         "line":2.5,
         "odds":650
@@ -5022,7 +7715,7 @@
         "player":"Corbin Carroll",
         "market":"batter_hits",
         "line":2.5,
-        "odds":850
+        "odds":800
       },
       {
         "player":"Xander Bogaerts",
@@ -5034,13 +7727,7 @@
         "player":"Lourdes Gurriel Jr.",
         "market":"batter_hits",
         "line":2.5,
-        "odds":1000
-      },
-      {
-        "player":"Josh Naylor",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1000
+        "odds":1100
       },
       {
         "player":"Ketel Marte",
@@ -5055,10 +7742,16 @@
         "odds":1100
       },
       {
-        "player":"Gavin Sheets",
+        "player":"Josh Naylor",
         "market":"batter_hits",
         "line":2.5,
         "odds":1100
+      },
+      {
+        "player":"Gavin Sheets",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1200
       },
       {
         "player":"Eugenio Suarez",
@@ -5070,13 +7763,7 @@
         "player":"Geraldo Perdomo",
         "market":"batter_hits",
         "line":2.5,
-        "odds":1400
-      },
-      {
-        "player":"Jake Cronenworth",
-        "market":"batter_hits",
-        "line":2.5,
-        "odds":1600
+        "odds":1500
       },
       {
         "player":"Alek Thomas",
@@ -5085,22 +7772,28 @@
         "odds":1700
       },
       {
-        "player":"Pavin Smith",
+        "player":"Jake Cronenworth",
         "market":"batter_hits",
         "line":2.5,
-        "odds":2100
+        "odds":1700
       },
       {
-        "player":"Elias Diaz",
+        "player":"Pavin Smith",
         "market":"batter_hits",
         "line":2.5,
         "odds":2200
       },
       {
+        "player":"Elias Diaz",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2400
+      },
+      {
         "player":"Tyler Wade",
         "market":"batter_hits",
         "line":2.5,
-        "odds":3500
+        "odds":3400
       },
       {
         "player":"Luis Arraez",
@@ -5112,37 +7805,37 @@
         "player":"Fernando Tatis Jr.",
         "market":"batter_hits",
         "line":1.5,
-        "odds":145
+        "odds":140
       },
       {
         "player":"Manny Machado",
         "market":"batter_hits",
         "line":1.5,
-        "odds":150
+        "odds":155
       },
       {
         "player":"Jackson Merrill",
         "market":"batter_hits",
         "line":1.5,
-        "odds":150
+        "odds":155
       },
       {
         "player":"Corbin Carroll",
         "market":"batter_hits",
         "line":1.5,
-        "odds":175
+        "odds":170
+      },
+      {
+        "player":"Xander Bogaerts",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":195
       },
       {
         "player":"Lourdes Gurriel Jr.",
         "market":"batter_hits",
         "line":1.5,
         "odds":195
-      },
-      {
-        "player":"Xander Bogaerts",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":200
       },
       {
         "player":"Josh Naylor",
@@ -5154,13 +7847,13 @@
         "player":"Ketel Marte",
         "market":"batter_hits",
         "line":1.5,
-        "odds":210
+        "odds":220
       },
       {
         "player":"Gabriel Moreno",
         "market":"batter_hits",
         "line":1.5,
-        "odds":210
+        "odds":220
       },
       {
         "player":"Gavin Sheets",
@@ -5172,7 +7865,7 @@
         "player":"Eugenio Suarez",
         "market":"batter_hits",
         "line":1.5,
-        "odds":250
+        "odds":260
       },
       {
         "player":"Geraldo Perdomo",
@@ -5184,25 +7877,25 @@
         "player":"Jake Cronenworth",
         "market":"batter_hits",
         "line":1.5,
-        "odds":300
+        "odds":290
       },
       {
         "player":"Alek Thomas",
         "market":"batter_hits",
         "line":1.5,
-        "odds":300
-      },
-      {
-        "player":"Elias Diaz",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":360
+        "odds":310
       },
       {
         "player":"Pavin Smith",
         "market":"batter_hits",
         "line":1.5,
         "odds":360
+      },
+      {
+        "player":"Elias Diaz",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":380
       },
       {
         "player":"Tyler Wade",
@@ -5214,19 +7907,19 @@
         "player":"Corbin Carroll",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":470
+        "odds":460
       },
       {
         "player":"Manny Machado",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":480
+        "odds":470
       },
       {
         "player":"Fernando Tatis Jr.",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":500
+        "odds":480
       },
       {
         "player":"Ketel Marte",
@@ -5235,13 +7928,13 @@
         "odds":500
       },
       {
-        "player":"Eugenio Suarez",
+        "player":"Jackson Merrill",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":540
+        "odds":560
       },
       {
-        "player":"Jackson Merrill",
+        "player":"Eugenio Suarez",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":560
@@ -5250,22 +7943,16 @@
         "player":"Gavin Sheets",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":680
+        "odds":630
       },
       {
         "player":"Josh Naylor",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":750
+        "odds":800
       },
       {
         "player":"Lourdes Gurriel Jr.",
-        "market":"batter_home_runs",
-        "line":0.5,
-        "odds":870
-      },
-      {
-        "player":"Jake Cronenworth",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":870
@@ -5283,10 +7970,16 @@
         "odds":900
       },
       {
-        "player":"Elias Diaz",
+        "player":"Jake Cronenworth",
         "market":"batter_home_runs",
         "line":0.5,
         "odds":900
+      },
+      {
+        "player":"Elias Diaz",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1000
       },
       {
         "player":"Geraldo Perdomo",
@@ -5304,7 +7997,7 @@
         "player":"Gabriel Moreno",
         "market":"batter_home_runs",
         "line":0.5,
-        "odds":1100
+        "odds":1200
       },
       {
         "player":"Luis Arraez",
@@ -5551,9 +8244,9 @@
     "spreads_toronto_blue_jays_line":null,
     "spreads_toronto_blue_jays_odds":null,
     "totals_over_line":9.0,
-    "totals_over_odds":-105,
+    "totals_over_odds":-103,
     "totals_under_line":9.0,
-    "totals_under_odds":-115,
+    "totals_under_odds":-118,
     "h2h_kansas_city_royals_line":null,
     "h2h_kansas_city_royals_odds":null,
     "h2h_oakland_athletics_line":null,
@@ -5586,6 +8279,14 @@
     "spreads_baltimore_orioles_odds":null,
     "spreads_los_angeles_angels_line":null,
     "spreads_los_angeles_angels_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_minnesota_twins_line":null,
@@ -5627,13 +8328,13 @@
     "spreads_san_diego_padres_line":null,
     "spreads_san_diego_padres_odds":null,
     "h2h_miami_marlins_line":null,
-    "h2h_miami_marlins_odds":101.0,
+    "h2h_miami_marlins_odds":104.0,
     "h2h_washington_nationals_line":null,
-    "h2h_washington_nationals_odds":-123.0,
+    "h2h_washington_nationals_odds":-126.0,
     "spreads_miami_marlins_line":1.5,
-    "spreads_miami_marlins_odds":-191.0,
+    "spreads_miami_marlins_odds":-194.0,
     "spreads_washington_nationals_line":-1.5,
-    "spreads_washington_nationals_odds":155.0,
+    "spreads_washington_nationals_odds":158.0,
     "h2h_milwaukee_brewers_line":null,
     "h2h_milwaukee_brewers_odds":null,
     "h2h_st._louis_cardinals_line":null,
@@ -5644,102 +8345,666 @@
     "spreads_st._louis_cardinals_odds":null,
     "pitcher_props":[
       {
+        "player":"Edward Cabrera",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":-158
+      },
+      {
+        "player":"Edward Cabrera",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":118
+      },
+      {
         "player":"Mitchell Parker",
         "market":"pitcher_strikeouts",
-        "line":3.5,
-        "odds":-150
+        "line":4.5,
+        "odds":120
+      },
+      {
+        "player":"Mitchell Parker",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":-152
+      },
+      {
+        "player":"Edward Cabrera",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":-160
+      },
+      {
+        "player":"Edward Cabrera",
+        "market":"pitcher_strikeouts",
+        "line":4.5,
+        "odds":120
       },
       {
         "player":"Mitchell Parker",
         "market":"pitcher_strikeouts",
         "line":3.5,
-        "odds":115
+        "odds":-175
+      },
+      {
+        "player":"Mitchell Parker",
+        "market":"pitcher_strikeouts",
+        "line":3.5,
+        "odds":135
       }
     ],
     "batter_props":[
       {
         "player":"Xavier Edwards",
         "market":"batter_hits",
-        "line":1.5,
-        "odds":150
+        "line":2.5,
+        "odds":650
+      },
+      {
+        "player":"Agust\u00edn Ram\u00edrez",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":950
+      },
+      {
+        "player":"Otto Lopez",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":950
+      },
+      {
+        "player":"Heriberto Hernandez",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1000
+      },
+      {
+        "player":"Eric Wagaman",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1000
+      },
+      {
+        "player":"CJ Abrams",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1100
+      },
+      {
+        "player":"Luis Garcia Jr.",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1200
+      },
+      {
+        "player":"Connor Norby",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1400
+      },
+      {
+        "player":"Dane Myers",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1500
+      },
+      {
+        "player":"James Wood",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1500
+      },
+      {
+        "player":"Nathaniel Lowe",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1600
+      },
+      {
+        "player":"Keibert Ruiz",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1800
+      },
+      {
+        "player":"Josh Bell",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1800
+      },
+      {
+        "player":"Nick Fortes",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2100
+      },
+      {
+        "player":"Jose Tena",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2200
+      },
+      {
+        "player":"Alex Call",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2400
+      },
+      {
+        "player":"Robert Hassell III",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2600
+      },
+      {
+        "player":"Javier Sanoja",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2800
+      },
+      {
+        "player":"Xavier Edwards",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-360
+      },
+      {
+        "player":"Otto Lopez",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-280
+      },
+      {
+        "player":"Eric Wagaman",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-280
+      },
+      {
+        "player":"Agust\u00edn Ram\u00edrez",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-270
+      },
+      {
+        "player":"CJ Abrams",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-250
+      },
+      {
+        "player":"Heriberto Hernandez",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-250
+      },
+      {
+        "player":"Luis Garcia Jr.",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-240
+      },
+      {
+        "player":"Connor Norby",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-220
+      },
+      {
+        "player":"Nathaniel Lowe",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
+        "player":"Dane Myers",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-200
+      },
+      {
+        "player":"Josh Bell",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-195
+      },
+      {
+        "player":"James Wood",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-190
+      },
+      {
+        "player":"Keibert Ruiz",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-185
+      },
+      {
+        "player":"Nick Fortes",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-170
+      },
+      {
+        "player":"Jose Tena",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-170
+      },
+      {
+        "player":"Robert Hassell III",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-160
+      },
+      {
+        "player":"Alex Call",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-155
+      },
+      {
+        "player":"Javier Sanoja",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-145
       },
       {
         "player":"Xavier Edwards",
         "market":"batter_hits",
         "line":1.5,
-        "odds":-215
+        "odds":140
+      },
+      {
+        "player":"Eric Wagaman",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":195
       },
       {
         "player":"Otto Lopez",
         "market":"batter_hits",
         "line":1.5,
-        "odds":170
+        "odds":195
+      },
+      {
+        "player":"Agust\u00edn Ram\u00edrez",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":190
+      },
+      {
+        "player":"Heriberto Hernandez",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":210
+      },
+      {
+        "player":"CJ Abrams",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":220
+      },
+      {
+        "player":"Luis Garcia Jr.",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":220
+      },
+      {
+        "player":"Connor Norby",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":260
+      },
+      {
+        "player":"Dane Myers",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":270
+      },
+      {
+        "player":"Nathaniel Lowe",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":280
+      },
+      {
+        "player":"James Wood",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":290
+      },
+      {
+        "player":"Keibert Ruiz",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":310
+      },
+      {
+        "player":"Josh Bell",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":310
+      },
+      {
+        "player":"Jose Tena",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":350
+      },
+      {
+        "player":"Nick Fortes",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":350
+      },
+      {
+        "player":"Robert Hassell III",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":390
+      },
+      {
+        "player":"Alex Call",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":400
+      },
+      {
+        "player":"Javier Sanoja",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":450
+      },
+      {
+        "player":"Agust\u00edn Ram\u00edrez",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":450
+      },
+      {
+        "player":"James Wood",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":460
+      },
+      {
+        "player":"Josh Bell",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":520
+      },
+      {
+        "player":"Connor Norby",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":560
+      },
+      {
+        "player":"CJ Abrams",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":560
+      },
+      {
+        "player":"Heriberto Hernandez",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":600
+      },
+      {
+        "player":"Eric Wagaman",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":600
+      },
+      {
+        "player":"Dane Myers",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":600
+      },
+      {
+        "player":"Luis Garcia Jr.",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":680
+      },
+      {
+        "player":"Nathaniel Lowe",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":750
+      },
+      {
+        "player":"Nick Fortes",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":750
+      },
+      {
+        "player":"Otto Lopez",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":800
+      },
+      {
+        "player":"Keibert Ruiz",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":870
+      },
+      {
+        "player":"Jose Tena",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":900
+      },
+      {
+        "player":"Robert Hassell III",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":900
+      },
+      {
+        "player":"Alex Call",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":900
+      },
+      {
+        "player":"Xavier Edwards",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1060
+      },
+      {
+        "player":"Javier Sanoja",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1100
+      },
+      {
+        "player":"Xavier Edwards",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":155
+      },
+      {
+        "player":"Xavier Edwards",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":-220
+      },
+      {
+        "player":"Agust\u00edn Ram\u00edrez",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":165
+      },
+      {
+        "player":"Agust\u00edn Ram\u00edrez",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":-235
       },
       {
         "player":"Otto Lopez",
         "market":"batter_hits",
         "line":1.5,
+        "odds":175
+      },
+      {
+        "player":"Otto Lopez",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":-250
+      },
+      {
+        "player":"CJ Abrams",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":190
+      },
+      {
+        "player":"CJ Abrams",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":-275
+      },
+      {
+        "player":"Luis Garcia Jr.",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-275
+      },
+      {
+        "player":"Luis Garcia Jr.",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":195
+      },
+      {
+        "player":"Heriberto Hernandez",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-250
+      },
+      {
+        "player":"Heriberto Hernandez",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":175
+      },
+      {
+        "player":"Eric Wagaman",
+        "market":"batter_hits",
+        "line":0.5,
         "odds":-245
       },
       {
-        "player":"Agust\u00edn Ram\u00edrez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":185
-      },
-      {
-        "player":"Agust\u00edn Ram\u00edrez",
-        "market":"batter_hits",
-        "line":1.5,
-        "odds":-270
-      },
-      {
         "player":"Eric Wagaman",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-265
+        "odds":175
       },
       {
-        "player":"Eric Wagaman",
+        "player":"Josh Bell",
         "market":"batter_hits",
         "line":0.5,
-        "odds":185
+        "odds":-235
       },
       {
-        "player":"Heriberto Hernandez",
+        "player":"Josh Bell",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-255
+        "odds":165
       },
       {
-        "player":"Heriberto Hernandez",
+        "player":"Nathaniel Lowe",
         "market":"batter_hits",
         "line":0.5,
-        "odds":180
+        "odds":-235
+      },
+      {
+        "player":"Nathaniel Lowe",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":165
       },
       {
         "player":"Connor Norby",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-225
+        "odds":-220
       },
       {
         "player":"Connor Norby",
         "market":"batter_hits",
         "line":0.5,
-        "odds":160
+        "odds":155
+      },
+      {
+        "player":"Keibert Ruiz",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-215
+      },
+      {
+        "player":"Keibert Ruiz",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":150
+      },
+      {
+        "player":"James Wood",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-205
+      },
+      {
+        "player":"James Wood",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":145
+      },
+      {
+        "player":"Jose Tena",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-205
+      },
+      {
+        "player":"Jose Tena",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":145
       },
       {
         "player":"Dane Myers",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-180
+        "odds":-200
       },
       {
         "player":"Dane Myers",
         "market":"batter_hits",
         "line":0.5,
-        "odds":130
+        "odds":140
+      },
+      {
+        "player":"Alex Call",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-175
+      },
+      {
+        "player":"Alex Call",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":125
       },
       {
         "player":"Nick Fortes",
@@ -5754,16 +9019,28 @@
         "odds":125
       },
       {
-        "player":"Javier Sanoja",
+        "player":"Robert Hassell III",
         "market":"batter_hits",
         "line":0.5,
-        "odds":-150
+        "odds":-175
+      },
+      {
+        "player":"Robert Hassell III",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":125
       },
       {
         "player":"Javier Sanoja",
         "market":"batter_hits",
         "line":0.5,
-        "odds":105
+        "odds":-160
+      },
+      {
+        "player":"Javier Sanoja",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":115
       }
     ],
     "game_date":1749772800000
@@ -5817,6 +9094,14 @@
     "spreads_baltimore_orioles_odds":null,
     "spreads_los_angeles_angels_line":null,
     "spreads_los_angeles_angels_odds":null,
+    "h2h_cincinnati_reds_line":null,
+    "h2h_cincinnati_reds_odds":null,
+    "h2h_detroit_tigers_line":null,
+    "h2h_detroit_tigers_odds":null,
+    "spreads_cincinnati_reds_line":null,
+    "spreads_cincinnati_reds_odds":null,
+    "spreads_detroit_tigers_line":null,
+    "spreads_detroit_tigers_odds":null,
     "h2h_houston_astros_line":null,
     "h2h_houston_astros_odds":null,
     "h2h_minnesota_twins_line":null,
@@ -5873,8 +9158,670 @@
     "spreads_milwaukee_brewers_odds":138.0,
     "spreads_st._louis_cardinals_line":1.5,
     "spreads_st._louis_cardinals_odds":-169.0,
-    "pitcher_props":null,
-    "batter_props":null,
+    "pitcher_props":[
+      {
+        "player":"Freddy Peralta",
+        "market":"pitcher_strikeouts",
+        "line":5.5,
+        "odds":-168
+      },
+      {
+        "player":"Freddy Peralta",
+        "market":"pitcher_strikeouts",
+        "line":5.5,
+        "odds":130
+      },
+      {
+        "player":"Erick Fedde",
+        "market":"pitcher_strikeouts",
+        "line":3.5,
+        "odds":-194
+      },
+      {
+        "player":"Erick Fedde",
+        "market":"pitcher_strikeouts",
+        "line":3.5,
+        "odds":144
+      },
+      {
+        "player":"Freddy Peralta",
+        "market":"pitcher_strikeouts",
+        "line":5.5,
+        "odds":-165
+      },
+      {
+        "player":"Freddy Peralta",
+        "market":"pitcher_strikeouts",
+        "line":5.5,
+        "odds":125
+      },
+      {
+        "player":"Erick Fedde",
+        "market":"pitcher_strikeouts",
+        "line":3.5,
+        "odds":-150
+      },
+      {
+        "player":"Erick Fedde",
+        "market":"pitcher_strikeouts",
+        "line":3.5,
+        "odds":115
+      }
+    ],
+    "batter_props":[
+      {
+        "player":"Jackson Chourio",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1300
+      },
+      {
+        "player":"Christian Yelich",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1400
+      },
+      {
+        "player":"Sal Frelick",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1500
+      },
+      {
+        "player":"Masyn Winn",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1600
+      },
+      {
+        "player":"Brice Turang",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1700
+      },
+      {
+        "player":"Ivan Herrera",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1700
+      },
+      {
+        "player":"Alec Burleson",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":1800
+      },
+      {
+        "player":"Willson Contreras",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2000
+      },
+      {
+        "player":"Nolan Arenado",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2300
+      },
+      {
+        "player":"Lars Nootbaar",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2400
+      },
+      {
+        "player":"Caleb Durbin",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2600
+      },
+      {
+        "player":"Rhys Hoskins",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2600
+      },
+      {
+        "player":"Joey Ortiz",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":2800
+      },
+      {
+        "player":"Isaac Collins",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":3100
+      },
+      {
+        "player":"Pedro Pages",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":3200
+      },
+      {
+        "player":"Nolan Gorman",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":5000
+      },
+      {
+        "player":"Victor Scott II",
+        "market":"batter_hits",
+        "line":2.5,
+        "odds":5500
+      },
+      {
+        "player":"Jackson Chourio",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-230
+      },
+      {
+        "player":"Christian Yelich",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-220
+      },
+      {
+        "player":"Sal Frelick",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-210
+      },
+      {
+        "player":"Brice Turang",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-190
+      },
+      {
+        "player":"Masyn Winn",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-185
+      },
+      {
+        "player":"Ivan Herrera",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-180
+      },
+      {
+        "player":"Alec Burleson",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-170
+      },
+      {
+        "player":"Nolan Arenado",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-165
+      },
+      {
+        "player":"Willson Contreras",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-160
+      },
+      {
+        "player":"Caleb Durbin",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-155
+      },
+      {
+        "player":"Lars Nootbaar",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-150
+      },
+      {
+        "player":"Rhys Hoskins",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-150
+      },
+      {
+        "player":"Isaac Collins",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-145
+      },
+      {
+        "player":"Joey Ortiz",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-140
+      },
+      {
+        "player":"Pedro Pages",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-125
+      },
+      {
+        "player":"Nolan Gorman",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":100
+      },
+      {
+        "player":"Victor Scott II",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":105
+      },
+      {
+        "player":"Jackson Chourio",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":230
+      },
+      {
+        "player":"Sal Frelick",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":260
+      },
+      {
+        "player":"Christian Yelich",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":260
+      },
+      {
+        "player":"Brice Turang",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":300
+      },
+      {
+        "player":"Masyn Winn",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":300
+      },
+      {
+        "player":"Ivan Herrera",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":310
+      },
+      {
+        "player":"Alec Burleson",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":340
+      },
+      {
+        "player":"Willson Contreras",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":350
+      },
+      {
+        "player":"Nolan Arenado",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":370
+      },
+      {
+        "player":"Lars Nootbaar",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":400
+      },
+      {
+        "player":"Caleb Durbin",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":410
+      },
+      {
+        "player":"Rhys Hoskins",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":430
+      },
+      {
+        "player":"Isaac Collins",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":450
+      },
+      {
+        "player":"Joey Ortiz",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":480
+      },
+      {
+        "player":"Pedro Pages",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":500
+      },
+      {
+        "player":"Nolan Gorman",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":700
+      },
+      {
+        "player":"Victor Scott II",
+        "market":"batter_hits",
+        "line":1.5,
+        "odds":750
+      },
+      {
+        "player":"Rhys Hoskins",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":460
+      },
+      {
+        "player":"Willson Contreras",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":500
+      },
+      {
+        "player":"Alec Burleson",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":540
+      },
+      {
+        "player":"Christian Yelich",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":560
+      },
+      {
+        "player":"Lars Nootbaar",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":560
+      },
+      {
+        "player":"Nolan Gorman",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":560
+      },
+      {
+        "player":"Ivan Herrera",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":600
+      },
+      {
+        "player":"Jackson Chourio",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":680
+      },
+      {
+        "player":"Pedro Pages",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":750
+      },
+      {
+        "player":"Masyn Winn",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":750
+      },
+      {
+        "player":"Nolan Arenado",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":750
+      },
+      {
+        "player":"Isaac Collins",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":830
+      },
+      {
+        "player":"Brice Turang",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1060
+      },
+      {
+        "player":"Caleb Durbin",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1060
+      },
+      {
+        "player":"Sal Frelick",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1200
+      },
+      {
+        "player":"Victor Scott II",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1300
+      },
+      {
+        "player":"Joey Ortiz",
+        "market":"batter_home_runs",
+        "line":0.5,
+        "odds":1400
+      },
+      {
+        "player":"Jackson Chourio",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-275
+      },
+      {
+        "player":"Jackson Chourio",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":200
+      },
+      {
+        "player":"Sal Frelick",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-250
+      },
+      {
+        "player":"Sal Frelick",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":180
+      },
+      {
+        "player":"Christian Yelich",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-230
+      },
+      {
+        "player":"Christian Yelich",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":165
+      },
+      {
+        "player":"Masyn Winn",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-195
+      },
+      {
+        "player":"Masyn Winn",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":145
+      },
+      {
+        "player":"Ivan Herrera",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-190
+      },
+      {
+        "player":"Ivan Herrera",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":140
+      },
+      {
+        "player":"Brice Turang",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-180
+      },
+      {
+        "player":"Brice Turang",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":130
+      },
+      {
+        "player":"Alec Burleson",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-165
+      },
+      {
+        "player":"Alec Burleson",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":125
+      },
+      {
+        "player":"Yohel Pozo",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-165
+      },
+      {
+        "player":"Yohel Pozo",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":120
+      },
+      {
+        "player":"Caleb Durbin",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-160
+      },
+      {
+        "player":"Caleb Durbin",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":115
+      },
+      {
+        "player":"Nolan Arenado",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-160
+      },
+      {
+        "player":"Nolan Arenado",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":120
+      },
+      {
+        "player":"Willson Contreras",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-160
+      },
+      {
+        "player":"Willson Contreras",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":115
+      },
+      {
+        "player":"Rhys Hoskins",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-155
+      },
+      {
+        "player":"Rhys Hoskins",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":115
+      },
+      {
+        "player":"Lars Nootbaar",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-145
+      },
+      {
+        "player":"Lars Nootbaar",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":110
+      },
+      {
+        "player":"Isaac Collins",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-140
+      },
+      {
+        "player":"Isaac Collins",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":105
+      },
+      {
+        "player":"Joey Ortiz",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-135
+      },
+      {
+        "player":"Joey Ortiz",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":100
+      },
+      {
+        "player":"Nolan Gorman",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":100
+      },
+      {
+        "player":"Nolan Gorman",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-135
+      },
+      {
+        "player":"Victor Scott II",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":105
+      },
+      {
+        "player":"Victor Scott II",
+        "market":"batter_hits",
+        "line":0.5,
+        "odds":-140
+      }
+    ],
     "game_date":1749859200000
   }
 ]

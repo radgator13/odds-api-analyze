@@ -1,145 +1,297 @@
 event_id,home_team,away_team,commence_time,bookmaker,last_update,market,participant,description,raw_name,line,odds
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,Philadelphia Phillies,,-220
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,San Diego Padres,,184
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,Philadelphia Phillies,-1.5,-108
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,San Diego Padres,1.5,-111
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Over,9.0,100
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Under,9.0,-122
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,Philadelphia Phillies,,-225
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,San Diego Padres,,181
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,Philadelphia Phillies,-1.5,-108
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,San Diego Padres,1.5,-112
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Over,9.0,101
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Under,9.0,-123
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,Philadelphia Phillies,,-212
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,San Diego Padres,,190
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,Philadelphia Phillies,-1.5,-110
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,San Diego Padres,1.5,-110
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Over,9.0,105
-b13b2f7f2ac839a25206cd275d505723,Philadelphia Phillies,San Diego Padres,2025-06-30T22:31:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Under,9.0,-125
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,Pittsburgh Pirates,,-108
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,St. Louis Cardinals,,-108
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,Pittsburgh Pirates,1.5,-178
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,St. Louis Cardinals,-1.5,146
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Over,8.5,-122
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Under,8.5,100
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,Pittsburgh Pirates,,-110
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,St. Louis Cardinals,,100
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,Pittsburgh Pirates,-1.5,180
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,St. Louis Cardinals,1.5,-210
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Over,9.0,-105
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Under,9.0,-115
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,Pittsburgh Pirates,,-113
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,St. Louis Cardinals,,-108
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,Pittsburgh Pirates,1.5,-181
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,St. Louis Cardinals,-1.5,148
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Over,9.0,-103
-a67e67200398a1a93a52d7661c26ef2e,Pittsburgh Pirates,St. Louis Cardinals,2025-06-30T22:41:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Under,9.0,-118
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,New York Yankees,,-144
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,Toronto Blue Jays,,122
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,New York Yankees,-1.5,118
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,Toronto Blue Jays,1.5,-142
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Over,8.5,-104
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Under,8.5,-118
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,New York Yankees,,-145
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,Toronto Blue Jays,,119
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,New York Yankees,-1.5,112
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,Toronto Blue Jays,1.5,-136
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Over,8.5,-105
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Under,8.5,-115
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,New York Yankees,,-137
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,Toronto Blue Jays,,124
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,New York Yankees,-1.5,115
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,Toronto Blue Jays,1.5,-135
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Over,8.0,-125
-3948fbda49d7aaf8cc653b2767e01bab,Toronto Blue Jays,New York Yankees,2025-06-30T23:08:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Under,8.0,105
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,Boston Red Sox,,-172
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,Cincinnati Reds,,144
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,Boston Red Sox,-1.5,125
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,Cincinnati Reds,1.5,-150
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Over,7.5,-115
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Under,7.5,-105
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,Boston Red Sox,,-165
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,Cincinnati Reds,,149
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,Boston Red Sox,-1.5,120
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,Cincinnati Reds,1.5,-140
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Over,7.5,-118
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Under,7.5,-102
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,Boston Red Sox,,-176
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,Cincinnati Reds,,144
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,Boston Red Sox,-1.5,118
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,Cincinnati Reds,1.5,-144
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Over,7.5,-116
-e6576ee83b1dd0a421f903ecd1439cd0,Boston Red Sox,Cincinnati Reds,2025-06-30T23:11:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Under,7.5,-105
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,Oakland Athletics,,150
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,Tampa Bay Rays,,-178
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,Oakland Athletics,1.5,-146
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,Tampa Bay Rays,-1.5,122
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Over,8.0,-120
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Under,8.0,-102
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,Oakland Athletics,,150
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,Tampa Bay Rays,,-166
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,Oakland Athletics,1.5,-132
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,Tampa Bay Rays,-1.5,112
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Over,8.0,-116
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Under,8.0,-104
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,Oakland Athletics,,144
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,Tampa Bay Rays,,-176
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,Oakland Athletics,1.5,-137
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,Tampa Bay Rays,-1.5,113
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Over,8.0,-115
-78a1c37a4790906908747eca68346db8,Tampa Bay Rays,Oakland Athletics,2025-06-30T23:36:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Under,8.0,-106
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,Baltimore Orioles,,-112
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,Texas Rangers,,-104
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,Baltimore Orioles,-1.5,150
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,Texas Rangers,1.5,-182
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Over,8.5,-110
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Under,8.5,-110
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,Baltimore Orioles,,-111
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,Texas Rangers,,101
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,Baltimore Orioles,-1.5,148
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,Texas Rangers,1.5,-168
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Over,8.5,-107
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Under,8.5,-113
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,Baltimore Orioles,,-114
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,Texas Rangers,,-107
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,Baltimore Orioles,-1.5,149
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,Texas Rangers,1.5,-182
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Over,8.5,-109
-4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Under,8.5,-111
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,Arizona Diamondbacks,,118
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,San Francisco Giants,,-138
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,Arizona Diamondbacks,1.5,-142
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,San Francisco Giants,-1.5,118
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Over,8.0,-115
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Under,8.0,-105
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,Arizona Diamondbacks,,108
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,San Francisco Giants,,-132
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,Arizona Diamondbacks,1.5,-151
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,San Francisco Giants,-1.5,124
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Over,8.5,-105
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Under,8.5,-115
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,Arizona Diamondbacks,,115
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,San Francisco Giants,,-127
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,Arizona Diamondbacks,1.5,-150
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,San Francisco Giants,-1.5,130
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Over,8.0,-125
-dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Under,8.0,105
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,Kansas City Royals,,136
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,FanDuel,2025-06-30T15:03:15Z,h2h,,,Seattle Mariners,,-162
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,Kansas City Royals,1.5,-162
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,FanDuel,2025-06-30T15:03:15Z,spreads,,,Seattle Mariners,-1.5,134
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Over,7.5,100
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,FanDuel,2025-06-30T15:03:15Z,totals,,,Under,7.5,-122
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,Kansas City Royals,,138
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,h2h,,,Seattle Mariners,,-152
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,Kansas City Royals,1.5,-160
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,spreads,,,Seattle Mariners,-1.5,140
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Over,7.5,102
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,BetOnline.ag,2025-06-30T15:04:50Z,totals,,,Under,7.5,-122
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,Kansas City Royals,,134
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,DraftKings,2025-06-30T15:04:50Z,h2h,,,Seattle Mariners,,-164
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,Kansas City Royals,1.5,-164
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,DraftKings,2025-06-30T15:04:50Z,spreads,,,Seattle Mariners,-1.5,134
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Over,7.5,101
-328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,DraftKings,2025-06-30T15:04:50Z,totals,,,Under,7.5,-123
+4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Baltimore Orioles,,-290
+4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Texas Rangers,,215
+4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Baltimore Orioles,,-295
+4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Texas Rangers,,215
+4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Baltimore Orioles,-1.5,180
+4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Texas Rangers,1.5,-241
+4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,15.5,141
+4a15791ca063882962da98916e2a299e,Texas Rangers,Baltimore Orioles,2025-07-01T00:06:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,15.5,-186
+dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Arizona Diamondbacks,,-560
+dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,San Francisco Giants,,370
+dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Arizona Diamondbacks,-1.5,110
+dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,San Francisco Giants,1.5,-146
+dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,7.5,112
+dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,7.5,-148
+dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Arizona Diamondbacks,,-532
+dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,San Francisco Giants,,350
+dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Arizona Diamondbacks,-1.5,120
+dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,San Francisco Giants,1.5,-156
+dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,7.5,111
+dc5ff1aa459c684b257cf7bd1a79e941,Arizona Diamondbacks,San Francisco Giants,2025-07-01T01:41:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,7.5,-145
+328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Kansas City Royals,,3000
+328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Seattle Mariners,,-50000
+328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Kansas City Royals,4.5,-210
+328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Seattle Mariners,-4.5,154
+328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,7.5,102
+328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,7.5,-136
+328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Kansas City Royals,5.5,-272
+328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Seattle Mariners,-5.5,200
+328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,8.5,139
+328ef5ad25957c2c1d5ed018e22fea20,Seattle Mariners,Kansas City Royals,2025-07-01T01:41:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,8.5,-183
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,New York Yankees,,-160
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,Toronto Blue Jays,,145
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,New York Yankees,-1.5,103
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,Toronto Blue Jays,1.5,-123
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Over,8.0,-105
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Under,8.0,-115
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,New York Yankees,,-164
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Toronto Blue Jays,,138
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,New York Yankees,-1.5,105
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Toronto Blue Jays,1.5,-126
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,8.0,-105
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,8.0,-115
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,New York Yankees,,-172
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Toronto Blue Jays,,140
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,New York Yankees,-1.5,102
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Toronto Blue Jays,1.5,-124
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,8.0,-102
+7429389ce90915ed19b41bb47351e347,Toronto Blue Jays,New York Yankees,2025-07-01T19:07:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,8.0,-119
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,Philadelphia Phillies,,-163
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,San Diego Padres,,147
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,Philadelphia Phillies,-1.5,130
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,San Diego Padres,1.5,-150
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Over,8.5,100
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Under,8.5,-120
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Philadelphia Phillies,,-172
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,San Diego Padres,,144
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Philadelphia Phillies,-1.5,122
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,San Diego Padres,1.5,-146
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,8.5,102
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,8.5,-124
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Philadelphia Phillies,,-175
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,San Diego Padres,,143
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Philadelphia Phillies,-1.5,123
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,San Diego Padres,1.5,-150
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,8.5,-103
+1b6b4644becdd32e8e3c165ad2e76bc6,Philadelphia Phillies,San Diego Padres,2025-07-01T22:30:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,8.5,-119
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,Miami Marlins,,129
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,Minnesota Twins,,-142
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,Miami Marlins,1.5,-140
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,Minnesota Twins,-1.5,120
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Over,7.5,-115
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Under,7.5,-105
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Miami Marlins,,118
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Minnesota Twins,,-138
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Miami Marlins,1.5,-144
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Minnesota Twins,-1.5,120
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,7.5,-115
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,7.5,-105
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Miami Marlins,,118
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Minnesota Twins,,-144
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Miami Marlins,1.5,-150
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Minnesota Twins,-1.5,123
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,7.5,-116
+e87267b47970a5cc7064b42747a515c4,Miami Marlins,Minnesota Twins,2025-07-01T22:40:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,7.5,-105
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,Pittsburgh Pirates,,-165
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,St. Louis Cardinals,,149
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,Pittsburgh Pirates,-1.5,135
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,St. Louis Cardinals,1.5,-155
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Over,7.0,-125
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Under,7.0,105
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Pittsburgh Pirates,,-164
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,St. Louis Cardinals,,138
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Pittsburgh Pirates,-1.5,130
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,St. Louis Cardinals,1.5,-156
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,7.0,-118
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,7.0,-104
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Pittsburgh Pirates,,-169
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,St. Louis Cardinals,,138
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Pittsburgh Pirates,-1.5,134
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,St. Louis Cardinals,1.5,-163
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,7.5,102
+463df2d107d48fbb600adb9d0f6563a3,Pittsburgh Pirates,St. Louis Cardinals,2025-07-01T22:40:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,7.5,-123
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,Detroit Tigers,,-155
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,Washington Nationals,,140
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,Detroit Tigers,-1.5,100
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,Washington Nationals,1.5,-120
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Over,9.5,100
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Under,9.5,-120
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Detroit Tigers,,-162
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Washington Nationals,,136
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Detroit Tigers,-1.5,-102
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Washington Nationals,1.5,-118
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,9.5,100
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,9.5,-122
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Detroit Tigers,,-163
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Washington Nationals,,133
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Detroit Tigers,-1.5,-101
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Washington Nationals,1.5,-121
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,9.5,-102
+4098e4d4f4b73f31f90f1c1125b3afe3,Washington Nationals,Detroit Tigers,2025-07-01T22:45:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,9.5,-119
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,Oakland Athletics,,149
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,Tampa Bay Rays,,-165
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,Oakland Athletics,1.5,-150
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,Tampa Bay Rays,-1.5,130
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Over,8.5,-120
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Under,8.5,100
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Oakland Athletics,,142
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Tampa Bay Rays,,-168
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Oakland Athletics,1.5,-146
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Tampa Bay Rays,-1.5,122
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,8.5,-118
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,8.5,-104
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Oakland Athletics,,140
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Tampa Bay Rays,,-172
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Oakland Athletics,1.5,-150
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Tampa Bay Rays,-1.5,123
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,8.5,-120
+78df76c4c3d4b013322daf9f09ab099b,Tampa Bay Rays,Oakland Athletics,2025-07-01T23:05:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,8.5,-101
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,Boston Red Sox,,-110
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,BetOnline.ag,2025-07-01T03:28:53Z,h2h,,,Cincinnati Reds,,100
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,Boston Red Sox,-1.5,174
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,BetOnline.ag,2025-07-01T03:28:53Z,spreads,,,Cincinnati Reds,1.5,-200
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Over,10.0,-105
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,BetOnline.ag,2025-07-01T03:28:53Z,totals,,,Under,10.0,-115
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Boston Red Sox,,-118
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Cincinnati Reds,,100
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Boston Red Sox,1.5,-178
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Cincinnati Reds,-1.5,146
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,10.0,-105
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,10.0,-115
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Boston Red Sox,,-115
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Cincinnati Reds,,-105
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Boston Red Sox,1.5,-177
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Cincinnati Reds,-1.5,145
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,10.0,-105
+c412b910d5af5712e9d0343d96f03c46,Boston Red Sox,Cincinnati Reds,2025-07-01T23:10:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,10.0,-116
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Milwaukee Brewers,,109
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,New York Mets,,-120
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Milwaukee Brewers,1.5,-190
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,New York Mets,-1.5,165
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Over,8.0,-125
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Under,8.0,105
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Milwaukee Brewers,,110
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,New York Mets,,-130
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Milwaukee Brewers,1.5,-192
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,New York Mets,-1.5,158
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,8.5,-105
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,8.5,-115
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Milwaukee Brewers,,104
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,New York Mets,,-127
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Milwaukee Brewers,1.5,-194
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,New York Mets,-1.5,158
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,8.5,-107
+079a194e0f0cc15b9f64fb895b944f4b,New York Mets,Milwaukee Brewers,2025-07-01T23:10:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,8.5,-113
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Atlanta Braves,,-155
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Los Angeles Angels,,140
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Atlanta Braves,-1.5,130
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Los Angeles Angels,1.5,-150
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Over,9.5,-110
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Under,9.5,-110
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Atlanta Braves,,-168
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Los Angeles Angels,,142
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Atlanta Braves,-1.5,118
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Los Angeles Angels,1.5,-142
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,9.5,-110
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,9.5,-110
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Atlanta Braves,,-164
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Los Angeles Angels,,134
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Atlanta Braves,-1.5,123
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Los Angeles Angels,1.5,-150
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,9.5,-110
+2ea439034c34af5096638d1ce8e9106d,Atlanta Braves,Los Angeles Angels,2025-07-01T23:15:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,9.5,-110
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Baltimore Orioles,,175
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Texas Rangers,,-195
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Baltimore Orioles,1.5,-125
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Texas Rangers,-1.5,105
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Over,7.0,-118
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Under,7.0,-102
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Baltimore Orioles,,166
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Texas Rangers,,-198
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Baltimore Orioles,1.5,-130
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Texas Rangers,-1.5,108
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,7.5,100
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,7.5,-122
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Baltimore Orioles,,168
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Texas Rangers,,-208
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Baltimore Orioles,1.5,-132
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Texas Rangers,-1.5,108
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,7.0,-121
+5380c17195459f1753676ad232f1cac4,Texas Rangers,Baltimore Orioles,2025-07-02T00:05:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,7.0,-101
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Chicago Cubs,,-165
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Cleveland Guardians,,149
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Chicago Cubs,-1.5,130
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Cleveland Guardians,1.5,-150
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Over,8.0,-110
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Under,8.0,-110
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Chicago Cubs,,-162
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Cleveland Guardians,,136
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Chicago Cubs,,-176
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Cleveland Guardians,,144
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Chicago Cubs,-1.5,128
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Cleveland Guardians,1.5,-156
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,8.0,-106
+092f744db7cfd6008f4d6196cb49c49e,Chicago Cubs,Cleveland Guardians,2025-07-02T00:05:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,8.0,-114
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Colorado Rockies,,147
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Houston Astros,,-163
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Colorado Rockies,1.5,-105
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Houston Astros,-1.5,-115
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Over,11.5,100
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Under,11.5,-120
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Colorado Rockies,,144
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Houston Astros,,-172
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Colorado Rockies,1.5,-106
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Houston Astros,-1.5,-113
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,11.5,100
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,11.5,-122
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Colorado Rockies,,144
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Houston Astros,,-176
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Colorado Rockies,1.5,-103
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Houston Astros,-1.5,-118
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,11.5,-102
+4b8db063a5ed1f0ab876c04b2909b64f,Colorado Rockies,Houston Astros,2025-07-02T00:40:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,11.5,-120
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Arizona Diamondbacks,,-130
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,San Francisco Giants,,118
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Arizona Diamondbacks,-1.5,157
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,San Francisco Giants,1.5,-180
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Over,9.0,-120
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Under,9.0,100
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Arizona Diamondbacks,,-137
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,San Francisco Giants,,112
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Arizona Diamondbacks,-1.5,148
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,San Francisco Giants,1.5,-182
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,9.5,101
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,9.5,-123
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Arizona Diamondbacks,,-136
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,San Francisco Giants,,116
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Arizona Diamondbacks,-1.5,140
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,San Francisco Giants,1.5,-170
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,9.5,100
+1c72242ca74fa52fb3761fbda8b4a6fb,Arizona Diamondbacks,San Francisco Giants,2025-07-02T01:40:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,9.5,-122
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Kansas City Royals,,118
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Seattle Mariners,,-130
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Kansas City Royals,1.5,-180
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Seattle Mariners,-1.5,157
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Over,8.0,-125
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Under,8.0,105
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Kansas City Royals,,110
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Seattle Mariners,,-130
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Kansas City Royals,1.5,-184
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Seattle Mariners,-1.5,152
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,8.5,100
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,8.5,-122
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Kansas City Royals,,113
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Seattle Mariners,,-137
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Kansas City Royals,1.5,-182
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Seattle Mariners,-1.5,149
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,8.5,-103
+943cb20cfe89667c526872bd3c558cf7,Seattle Mariners,Kansas City Royals,2025-07-02T01:40:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,8.5,-117
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Chicago White Sox,,269
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,BetOnline.ag,2025-07-01T03:29:23Z,h2h,,,Los Angeles Dodgers,,-305
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Chicago White Sox,1.5,130
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,BetOnline.ag,2025-07-01T03:29:23Z,spreads,,,Los Angeles Dodgers,-1.5,-150
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Over,8.5,-105
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,BetOnline.ag,2025-07-01T03:29:23Z,totals,,,Under,8.5,-115
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Chicago White Sox,,262
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,DraftKings,2025-07-01T03:29:09Z,h2h,,,Los Angeles Dodgers,,-338
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Chicago White Sox,1.5,128
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,DraftKings,2025-07-01T03:29:09Z,spreads,,,Los Angeles Dodgers,-1.5,-156
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Over,8.5,-103
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,DraftKings,2025-07-01T03:29:09Z,totals,,,Under,8.5,-117
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Chicago White Sox,,260
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,FanDuel,2025-07-01T03:27:04Z,h2h,,,Los Angeles Dodgers,,-320
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Chicago White Sox,1.5,122
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,FanDuel,2025-07-01T03:27:04Z,spreads,,,Los Angeles Dodgers,-1.5,-146
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Over,8.5,-105
+42ba15953072510b555b6ce094486273,Los Angeles Dodgers,Chicago White Sox,2025-07-02T02:10:00Z,FanDuel,2025-07-01T03:27:04Z,totals,,,Under,8.5,-115

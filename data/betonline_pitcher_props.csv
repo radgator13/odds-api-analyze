@@ -1,97 +1,157 @@
 event_id,home_team,away_team,commence_time,bookmaker,last_update,market,participant,description,raw_name,line,odds
-f419d8e9c58162f8438267e823f31f6a,Minnesota Twins,Tampa Bay Rays,2025-07-05T18:11:00Z,DraftKings,2025-07-05T08:00:09Z,pitcher_strikeouts,,Taj Bradley,Over,4.5,-145
-f419d8e9c58162f8438267e823f31f6a,Minnesota Twins,Tampa Bay Rays,2025-07-05T18:11:00Z,DraftKings,2025-07-05T08:00:09Z,pitcher_strikeouts,,Taj Bradley,Under,4.5,110
-3228f9b80daeec530a5d115e984cc12c,Chicago Cubs,St. Louis Cardinals,2025-07-05T18:21:00Z,FanDuel,2025-07-05T08:00:53Z,pitcher_strikeouts,,Matthew Liberatore,Over,4.5,116
-3228f9b80daeec530a5d115e984cc12c,Chicago Cubs,St. Louis Cardinals,2025-07-05T18:21:00Z,FanDuel,2025-07-05T08:00:53Z,pitcher_strikeouts,,Matthew Liberatore,Under,4.5,-154
-3228f9b80daeec530a5d115e984cc12c,Chicago Cubs,St. Louis Cardinals,2025-07-05T18:21:00Z,DraftKings,2025-07-05T08:00:57Z,pitcher_strikeouts,,Matthew Liberatore,Over,4.5,125
-3228f9b80daeec530a5d115e984cc12c,Chicago Cubs,St. Louis Cardinals,2025-07-05T18:21:00Z,DraftKings,2025-07-05T08:00:57Z,pitcher_strikeouts,,Matthew Liberatore,Under,4.5,-165
-d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,FanDuel,2025-07-05T08:00:34Z,pitcher_strikeouts,,Max Scherzer,Over,6.5,122
-d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,FanDuel,2025-07-05T08:00:34Z,pitcher_strikeouts,,Max Scherzer,Under,6.5,-154
-d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,FanDuel,2025-07-05T08:00:34Z,pitcher_strikeouts,,Jack Kochanowicz,Over,2.5,-138
-d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,FanDuel,2025-07-05T08:00:34Z,pitcher_strikeouts,,Jack Kochanowicz,Under,2.5,104
-d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,DraftKings,2025-07-05T08:00:35Z,pitcher_strikeouts,,Max Scherzer,Over,6.5,115
-d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,DraftKings,2025-07-05T08:00:35Z,pitcher_strikeouts,,Max Scherzer,Under,6.5,-150
-d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,DraftKings,2025-07-05T08:00:35Z,pitcher_strikeouts,,Jack Kochanowicz,Over,2.5,-130
-d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,DraftKings,2025-07-05T08:00:35Z,pitcher_strikeouts,,Jack Kochanowicz,Under,2.5,100
-bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,FanDuel,2025-07-05T08:00:36Z,pitcher_strikeouts,,Mitchell Parker,Over,4.5,-124
-bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,FanDuel,2025-07-05T08:00:36Z,pitcher_strikeouts,,Mitchell Parker,Under,4.5,-102
-bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,FanDuel,2025-07-05T08:00:36Z,pitcher_strikeouts,,Walker Buehler,Over,4.5,120
-bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,FanDuel,2025-07-05T08:00:36Z,pitcher_strikeouts,,Walker Buehler,Under,4.5,-160
-bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T07:59:29Z,pitcher_strikeouts,,Mitchell Parker,Over,4.5,-119
-bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T07:59:29Z,pitcher_strikeouts,,Mitchell Parker,Under,4.5,-109
-bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T07:59:29Z,pitcher_strikeouts,,Walker Buehler,Over,3.5,-154
-bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T07:59:29Z,pitcher_strikeouts,,Walker Buehler,Under,3.5,118
-bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,DraftKings,2025-07-05T08:00:48Z,pitcher_strikeouts,,Mitchell Parker,Over,4.5,-125
-bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,DraftKings,2025-07-05T08:00:48Z,pitcher_strikeouts,,Mitchell Parker,Under,4.5,-105
-bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,DraftKings,2025-07-05T08:00:48Z,pitcher_strikeouts,,Walker Buehler,Over,3.5,-160
-bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,DraftKings,2025-07-05T08:00:48Z,pitcher_strikeouts,,Walker Buehler,Under,3.5,125
-2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,FanDuel,2025-07-05T08:00:46Z,pitcher_strikeouts,,Ranger Suarez,Over,5.5,-140
-2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,FanDuel,2025-07-05T08:00:46Z,pitcher_strikeouts,,Ranger Suarez,Under,5.5,110
-2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,FanDuel,2025-07-05T08:00:46Z,pitcher_strikeouts,,Nick Lodolo,Over,5.5,118
-2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,FanDuel,2025-07-05T08:00:46Z,pitcher_strikeouts,,Nick Lodolo,Under,5.5,-158
-2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T08:00:50Z,pitcher_strikeouts,,Ranger Suarez,Over,5.5,-154
-2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T08:00:50Z,pitcher_strikeouts,,Ranger Suarez,Under,5.5,118
-2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T08:00:50Z,pitcher_strikeouts,,Nick Lodolo,Over,5.5,112
-2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T08:00:50Z,pitcher_strikeouts,,Nick Lodolo,Under,5.5,-145
-2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,DraftKings,2025-07-05T08:00:57Z,pitcher_strikeouts,,Ranger Suarez,Over,5.5,-145
-2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,DraftKings,2025-07-05T08:00:57Z,pitcher_strikeouts,,Ranger Suarez,Under,5.5,110
-2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,DraftKings,2025-07-05T08:00:57Z,pitcher_strikeouts,,Nick Lodolo,Over,5.5,125
-2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,DraftKings,2025-07-05T08:00:57Z,pitcher_strikeouts,,Nick Lodolo,Under,5.5,-160
-931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:00:53Z,pitcher_strikeouts,,Ryne Nelson,Over,3.5,-118
-931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:00:53Z,pitcher_strikeouts,,Ryne Nelson,Under,3.5,-108
-931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:00:53Z,pitcher_strikeouts,,Michael Wacha,Over,4.5,106
-931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:00:53Z,pitcher_strikeouts,,Michael Wacha,Under,4.5,-140
-97fa82fcb0e8c45cc8d95138ba318b24,Atlanta Braves,Baltimore Orioles,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:01:13Z,pitcher_strikeouts,,Dean Kremer,Over,4.5,-114
-97fa82fcb0e8c45cc8d95138ba318b24,Atlanta Braves,Baltimore Orioles,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:01:13Z,pitcher_strikeouts,,Dean Kremer,Under,4.5,-114
-28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:01:04Z,pitcher_strikeouts,,Chad Patrick,Over,5.5,116
-28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:01:04Z,pitcher_strikeouts,,Chad Patrick,Under,5.5,-154
-28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:01:04Z,pitcher_strikeouts,,Cal Quantrill,Over,3.5,106
-28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:01:04Z,pitcher_strikeouts,,Cal Quantrill,Under,3.5,-136
-28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,DraftKings,2025-07-05T08:00:26Z,pitcher_strikeouts,,Chad Patrick,Over,5.5,125
-28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,DraftKings,2025-07-05T08:00:26Z,pitcher_strikeouts,,Chad Patrick,Under,5.5,-160
-28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,DraftKings,2025-07-05T08:00:26Z,pitcher_strikeouts,,Cal Quantrill,Over,3.5,120
-28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,DraftKings,2025-07-05T08:00:26Z,pitcher_strikeouts,,Cal Quantrill,Under,3.5,-155
-87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:01:11Z,pitcher_strikeouts,,Carlos Rodon,Over,5.5,-186
-87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:01:11Z,pitcher_strikeouts,,Carlos Rodon,Under,5.5,138
-87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:01:11Z,pitcher_strikeouts,,Frankie Montas,Over,5.5,108
-87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,FanDuel,2025-07-05T08:01:11Z,pitcher_strikeouts,,Frankie Montas,Under,5.5,-138
-87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T08:00:34Z,pitcher_strikeouts,,Carlos Rodon,Over,6.5,118
-87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T08:00:34Z,pitcher_strikeouts,,Carlos Rodon,Under,6.5,-154
-87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T08:00:34Z,pitcher_strikeouts,,Frankie Montas,Over,5.5,102
-87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T08:00:34Z,pitcher_strikeouts,,Frankie Montas,Under,5.5,-132
-87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,DraftKings,2025-07-05T08:00:35Z,pitcher_strikeouts,,Carlos Rodon,Over,6.5,115
-87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,DraftKings,2025-07-05T08:00:35Z,pitcher_strikeouts,,Carlos Rodon,Under,6.5,-145
-87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,DraftKings,2025-07-05T08:00:35Z,pitcher_strikeouts,,Frankie Montas,Over,5.5,100
-87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,DraftKings,2025-07-05T08:00:35Z,pitcher_strikeouts,,Frankie Montas,Under,5.5,-130
-a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,FanDuel,2025-07-05T08:00:51Z,pitcher_strikeouts,,Logan Allen,Over,4.5,-102
-a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,FanDuel,2025-07-05T08:00:51Z,pitcher_strikeouts,,Logan Allen,Under,4.5,-126
-a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,FanDuel,2025-07-05T08:00:51Z,pitcher_strikeouts,,Casey Mize,Over,4.5,110
-a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,FanDuel,2025-07-05T08:00:51Z,pitcher_strikeouts,,Casey Mize,Under,4.5,-146
-9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,FanDuel,2025-07-05T08:00:37Z,pitcher_strikeouts,,Framber Valdez,Over,5.5,120
-9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,FanDuel,2025-07-05T08:00:37Z,pitcher_strikeouts,,Framber Valdez,Under,5.5,-160
-9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,DraftKings,2025-07-05T08:00:10Z,pitcher_strikeouts,,Framber Valdez,Over,4.5,-155
-9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,DraftKings,2025-07-05T08:00:10Z,pitcher_strikeouts,,Framber Valdez,Under,4.5,120
-9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,DraftKings,2025-07-05T08:00:10Z,pitcher_strikeouts,,Shohei Ohtani,Over,1.5,-175
-9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,DraftKings,2025-07-05T08:00:10Z,pitcher_strikeouts,,Shohei Ohtani,Under,1.5,135
-f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,FanDuel,2025-07-05T08:00:53Z,pitcher_strikeouts,,Jonathan Cannon,Over,4.5,120
-f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,FanDuel,2025-07-05T08:00:53Z,pitcher_strikeouts,,Jonathan Cannon,Under,4.5,-160
-f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,FanDuel,2025-07-05T08:00:53Z,pitcher_strikeouts,,German Marquez,Over,3.5,-154
-f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,FanDuel,2025-07-05T08:00:53Z,pitcher_strikeouts,,German Marquez,Under,3.5,120
-5015c6d6f41f162719f1ceae88dfaabe,San Diego Padres,Texas Rangers,2025-07-06T01:40:00Z,FanDuel,2025-07-05T08:01:16Z,pitcher_strikeouts,,Patrick Corbin,Over,3.5,-122
-5015c6d6f41f162719f1ceae88dfaabe,San Diego Padres,Texas Rangers,2025-07-06T01:40:00Z,FanDuel,2025-07-05T08:01:16Z,pitcher_strikeouts,,Patrick Corbin,Under,3.5,-108
-172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,FanDuel,2025-07-05T08:00:40Z,pitcher_strikeouts,,Luis Severino,Over,4.5,-108
-172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,FanDuel,2025-07-05T08:00:40Z,pitcher_strikeouts,,Luis Severino,Under,4.5,-118
-172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,FanDuel,2025-07-05T08:00:40Z,pitcher_strikeouts,,Logan Webb,Over,6.5,-158
-172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,FanDuel,2025-07-05T08:00:40Z,pitcher_strikeouts,,Logan Webb,Under,6.5,118
-172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,DraftKings,2025-07-05T08:00:40Z,pitcher_strikeouts,,Logan Webb,Over,6.5,-145
-172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,DraftKings,2025-07-05T08:00:40Z,pitcher_strikeouts,,Logan Webb,Under,6.5,110
-172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,DraftKings,2025-07-05T08:00:40Z,pitcher_strikeouts,,Luis Severino,Over,4.5,-105
-172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,DraftKings,2025-07-05T08:00:40Z,pitcher_strikeouts,,Luis Severino,Under,4.5,-120
-b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,FanDuel,2025-07-05T08:00:45Z,pitcher_strikeouts,,Mike Burrows,Over,4.5,-136
-b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,FanDuel,2025-07-05T08:00:45Z,pitcher_strikeouts,,Mike Burrows,Under,4.5,102
-b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,FanDuel,2025-07-05T08:00:45Z,pitcher_strikeouts,,Luis Castillo,Over,5.5,-122
-b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,FanDuel,2025-07-05T08:00:45Z,pitcher_strikeouts,,Luis Castillo,Under,5.5,-104
-b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,DraftKings,2025-07-05T08:01:06Z,pitcher_strikeouts,,Luis Castillo,Over,5.5,-120
-b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,DraftKings,2025-07-05T08:01:06Z,pitcher_strikeouts,,Luis Castillo,Under,5.5,-110
-b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,DraftKings,2025-07-05T08:01:06Z,pitcher_strikeouts,,Mike Burrows,Over,4.5,-110
-b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,DraftKings,2025-07-05T08:01:06Z,pitcher_strikeouts,,Mike Burrows,Under,4.5,-115
+f419d8e9c58162f8438267e823f31f6a,Minnesota Twins,Tampa Bay Rays,2025-07-05T18:11:00Z,FanDuel,2025-07-05T15:03:49Z,pitcher_strikeouts,,Taj Bradley,Over,5.5,124
+f419d8e9c58162f8438267e823f31f6a,Minnesota Twins,Tampa Bay Rays,2025-07-05T18:11:00Z,FanDuel,2025-07-05T15:03:49Z,pitcher_strikeouts,,Taj Bradley,Under,5.5,-158
+f419d8e9c58162f8438267e823f31f6a,Minnesota Twins,Tampa Bay Rays,2025-07-05T18:11:00Z,DraftKings,2025-07-05T15:04:09Z,pitcher_strikeouts,,Taj Bradley,Over,4.5,-165
+f419d8e9c58162f8438267e823f31f6a,Minnesota Twins,Tampa Bay Rays,2025-07-05T18:11:00Z,DraftKings,2025-07-05T15:04:09Z,pitcher_strikeouts,,Taj Bradley,Under,4.5,125
+3228f9b80daeec530a5d115e984cc12c,Chicago Cubs,St. Louis Cardinals,2025-07-05T18:21:00Z,FanDuel,2025-07-05T15:03:40Z,pitcher_strikeouts,,Matthew Liberatore,Over,4.5,126
+3228f9b80daeec530a5d115e984cc12c,Chicago Cubs,St. Louis Cardinals,2025-07-05T18:21:00Z,FanDuel,2025-07-05T15:03:40Z,pitcher_strikeouts,,Matthew Liberatore,Under,4.5,-162
+3228f9b80daeec530a5d115e984cc12c,Chicago Cubs,St. Louis Cardinals,2025-07-05T18:21:00Z,BetOnline.ag,2025-07-05T15:01:09Z,pitcher_strikeouts,,Matthew Liberatore,Over,4.5,128
+3228f9b80daeec530a5d115e984cc12c,Chicago Cubs,St. Louis Cardinals,2025-07-05T18:21:00Z,BetOnline.ag,2025-07-05T15:01:09Z,pitcher_strikeouts,,Matthew Liberatore,Under,4.5,-167
+3228f9b80daeec530a5d115e984cc12c,Chicago Cubs,St. Louis Cardinals,2025-07-05T18:21:00Z,DraftKings,2025-07-05T15:03:00Z,pitcher_strikeouts,,Matthew Liberatore,Over,4.5,130
+3228f9b80daeec530a5d115e984cc12c,Chicago Cubs,St. Louis Cardinals,2025-07-05T18:21:00Z,DraftKings,2025-07-05T15:03:00Z,pitcher_strikeouts,,Matthew Liberatore,Under,4.5,-170
+d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,FanDuel,2025-07-05T15:01:35Z,pitcher_strikeouts,,Max Scherzer,Over,6.5,128
+d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,FanDuel,2025-07-05T15:01:35Z,pitcher_strikeouts,,Max Scherzer,Under,6.5,-164
+d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,FanDuel,2025-07-05T15:01:35Z,pitcher_strikeouts,,Jack Kochanowicz,Over,2.5,-138
+d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,FanDuel,2025-07-05T15:01:35Z,pitcher_strikeouts,,Jack Kochanowicz,Under,2.5,108
+d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,BetOnline.ag,2025-07-05T15:03:43Z,pitcher_strikeouts,,Max Scherzer,Over,6.5,120
+d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,BetOnline.ag,2025-07-05T15:03:43Z,pitcher_strikeouts,,Max Scherzer,Under,6.5,-156
+d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,BetOnline.ag,2025-07-05T15:03:43Z,pitcher_strikeouts,,Jack Kochanowicz,Over,2.5,-127
+d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,BetOnline.ag,2025-07-05T15:03:43Z,pitcher_strikeouts,,Jack Kochanowicz,Under,2.5,-102
+d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,DraftKings,2025-07-05T15:03:51Z,pitcher_strikeouts,,Max Scherzer,Over,6.5,115
+d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,DraftKings,2025-07-05T15:03:51Z,pitcher_strikeouts,,Max Scherzer,Under,6.5,-150
+d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,DraftKings,2025-07-05T15:03:51Z,pitcher_strikeouts,,Jack Kochanowicz,Over,2.5,-130
+d7115ecb2be778f6cd10f7d7d96807ec,Toronto Blue Jays,Los Angeles Angels,2025-07-05T19:08:00Z,DraftKings,2025-07-05T15:03:51Z,pitcher_strikeouts,,Jack Kochanowicz,Under,2.5,100
+bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,FanDuel,2025-07-05T15:04:07Z,pitcher_strikeouts,,Mitchell Parker,Over,4.5,-122
+bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,FanDuel,2025-07-05T15:04:07Z,pitcher_strikeouts,,Mitchell Parker,Under,4.5,-104
+bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,FanDuel,2025-07-05T15:04:07Z,pitcher_strikeouts,,Walker Buehler,Over,4.5,124
+bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,FanDuel,2025-07-05T15:04:07Z,pitcher_strikeouts,,Walker Buehler,Under,4.5,-158
+bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T15:01:57Z,pitcher_strikeouts,,Mitchell Parker,Over,4.5,-116
+bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T15:01:57Z,pitcher_strikeouts,,Mitchell Parker,Under,4.5,-111
+bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T15:01:57Z,pitcher_strikeouts,,Walker Buehler,Over,3.5,-156
+bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T15:01:57Z,pitcher_strikeouts,,Walker Buehler,Under,3.5,120
+bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,DraftKings,2025-07-05T15:04:00Z,pitcher_strikeouts,,Mitchell Parker,Over,4.5,-120
+bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,DraftKings,2025-07-05T15:04:00Z,pitcher_strikeouts,,Mitchell Parker,Under,4.5,-110
+bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,DraftKings,2025-07-05T15:04:00Z,pitcher_strikeouts,,Walker Buehler,Over,3.5,-165
+bb72cd1add818c6bf68648ba08fa9ba5,Washington Nationals,Boston Red Sox,2025-07-05T20:06:00Z,DraftKings,2025-07-05T15:04:00Z,pitcher_strikeouts,,Walker Buehler,Under,3.5,125
+2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,FanDuel,2025-07-05T15:03:57Z,pitcher_strikeouts,,Ranger Suarez,Over,5.5,-142
+2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,FanDuel,2025-07-05T15:03:57Z,pitcher_strikeouts,,Ranger Suarez,Under,5.5,112
+2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,FanDuel,2025-07-05T15:03:57Z,pitcher_strikeouts,,Nick Lodolo,Over,5.5,124
+2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,FanDuel,2025-07-05T15:03:57Z,pitcher_strikeouts,,Nick Lodolo,Under,5.5,-158
+2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T15:00:49Z,pitcher_strikeouts,,Ranger Suarez,Over,5.5,-147
+2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T15:00:49Z,pitcher_strikeouts,,Ranger Suarez,Under,5.5,113
+2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T15:00:49Z,pitcher_strikeouts,,Nick Lodolo,Over,5.5,117
+2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,BetOnline.ag,2025-07-05T15:00:49Z,pitcher_strikeouts,,Nick Lodolo,Under,5.5,-152
+2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,DraftKings,2025-07-05T15:03:22Z,pitcher_strikeouts,,Ranger Suarez,Over,5.5,-150
+2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,DraftKings,2025-07-05T15:03:22Z,pitcher_strikeouts,,Ranger Suarez,Under,5.5,115
+2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,DraftKings,2025-07-05T15:03:22Z,pitcher_strikeouts,,Nick Lodolo,Over,5.5,115
+2f2c508b627f4f88aafef1742439fe1b,Philadelphia Phillies,Cincinnati Reds,2025-07-05T20:06:00Z,DraftKings,2025-07-05T15:03:22Z,pitcher_strikeouts,,Nick Lodolo,Under,5.5,-145
+931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:04:13Z,pitcher_strikeouts,,Ryne Nelson,Over,3.5,-142
+931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:04:13Z,pitcher_strikeouts,,Ryne Nelson,Under,3.5,112
+931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:04:13Z,pitcher_strikeouts,,Michael Wacha,Over,4.5,108
+931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:04:13Z,pitcher_strikeouts,,Michael Wacha,Under,4.5,-138
+931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:03:33Z,pitcher_strikeouts,,Michael Wacha,Over,4.5,125
+931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:03:33Z,pitcher_strikeouts,,Michael Wacha,Under,4.5,-165
+931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:03:33Z,pitcher_strikeouts,,Ryne Nelson,Over,3.5,-125
+931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:03:33Z,pitcher_strikeouts,,Ryne Nelson,Under,3.5,-105
+931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T15:01:55Z,pitcher_strikeouts,,Ryne Nelson,Over,3.5,-143
+931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T15:01:55Z,pitcher_strikeouts,,Ryne Nelson,Under,3.5,110
+931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T15:01:55Z,pitcher_strikeouts,,Michael Wacha,Over,4.5,117
+931b692275abf1c3c3956b9f99e5ff64,Arizona Diamondbacks,Kansas City Royals,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T15:01:55Z,pitcher_strikeouts,,Michael Wacha,Under,4.5,-152
+97fa82fcb0e8c45cc8d95138ba318b24,Atlanta Braves,Baltimore Orioles,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:03:48Z,pitcher_strikeouts,,Dean Kremer,Over,4.5,-113
+97fa82fcb0e8c45cc8d95138ba318b24,Atlanta Braves,Baltimore Orioles,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:03:48Z,pitcher_strikeouts,,Dean Kremer,Under,4.5,-113
+97fa82fcb0e8c45cc8d95138ba318b24,Atlanta Braves,Baltimore Orioles,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:03:54Z,pitcher_strikeouts,,Dean Kremer,Over,4.5,-110
+97fa82fcb0e8c45cc8d95138ba318b24,Atlanta Braves,Baltimore Orioles,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:03:54Z,pitcher_strikeouts,,Dean Kremer,Under,4.5,-120
+97fa82fcb0e8c45cc8d95138ba318b24,Atlanta Braves,Baltimore Orioles,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T15:03:50Z,pitcher_strikeouts,,Dean Kremer,Over,4.5,-103
+97fa82fcb0e8c45cc8d95138ba318b24,Atlanta Braves,Baltimore Orioles,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T15:03:50Z,pitcher_strikeouts,,Dean Kremer,Under,4.5,-125
+28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:03:48Z,pitcher_strikeouts,,Chad Patrick,Over,5.5,126
+28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:03:48Z,pitcher_strikeouts,,Chad Patrick,Under,5.5,-162
+28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:03:48Z,pitcher_strikeouts,,Cal Quantrill,Over,3.5,106
+28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:03:48Z,pitcher_strikeouts,,Cal Quantrill,Under,3.5,-134
+28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T14:58:18Z,pitcher_strikeouts,,Chad Patrick,Over,5.5,130
+28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T14:58:18Z,pitcher_strikeouts,,Chad Patrick,Under,5.5,-169
+28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T14:58:18Z,pitcher_strikeouts,,Cal Quantrill,Over,3.5,113
+28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T14:58:18Z,pitcher_strikeouts,,Cal Quantrill,Under,3.5,-147
+28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:03:47Z,pitcher_strikeouts,,Chad Patrick,Over,5.5,125
+28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:03:47Z,pitcher_strikeouts,,Chad Patrick,Under,5.5,-160
+28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:03:47Z,pitcher_strikeouts,,Cal Quantrill,Over,3.5,120
+28660ee867ddb997d00b7b7f32bc4cdc,Miami Marlins,Milwaukee Brewers,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:03:47Z,pitcher_strikeouts,,Cal Quantrill,Under,3.5,-155
+87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:04:01Z,pitcher_strikeouts,,Carlos Rodon,Over,5.5,-178
+87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:04:01Z,pitcher_strikeouts,,Carlos Rodon,Under,5.5,138
+87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:04:01Z,pitcher_strikeouts,,Frankie Montas,Over,5.5,108
+87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,FanDuel,2025-07-05T15:04:01Z,pitcher_strikeouts,,Frankie Montas,Under,5.5,-136
+87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T15:03:57Z,pitcher_strikeouts,,Carlos Rodon,Over,6.5,118
+87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T15:03:57Z,pitcher_strikeouts,,Carlos Rodon,Under,6.5,-154
+87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T15:03:57Z,pitcher_strikeouts,,Frankie Montas,Over,5.5,104
+87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,BetOnline.ag,2025-07-05T15:03:57Z,pitcher_strikeouts,,Frankie Montas,Under,5.5,-135
+87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:04:07Z,pitcher_strikeouts,,Carlos Rodon,Over,6.5,120
+87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:04:07Z,pitcher_strikeouts,,Carlos Rodon,Under,6.5,-155
+87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:04:07Z,pitcher_strikeouts,,Frankie Montas,Over,5.5,-105
+87ee9a84f9647f333d08acccfb1fb139,New York Mets,New York Yankees,2025-07-05T20:11:00Z,DraftKings,2025-07-05T15:04:07Z,pitcher_strikeouts,,Frankie Montas,Under,5.5,-125
+a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,FanDuel,2025-07-05T15:03:06Z,pitcher_strikeouts,,Logan Allen,Over,4.5,110
+a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,FanDuel,2025-07-05T15:03:06Z,pitcher_strikeouts,,Logan Allen,Under,4.5,-140
+a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,FanDuel,2025-07-05T15:03:06Z,pitcher_strikeouts,,Casey Mize,Over,4.5,110
+a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,FanDuel,2025-07-05T15:03:06Z,pitcher_strikeouts,,Casey Mize,Under,4.5,-146
+a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,BetOnline.ag,2025-07-05T15:03:10Z,pitcher_strikeouts,,Casey Mize,Over,4.5,120
+a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,BetOnline.ag,2025-07-05T15:03:10Z,pitcher_strikeouts,,Casey Mize,Under,4.5,-156
+a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,BetOnline.ag,2025-07-05T15:03:10Z,pitcher_strikeouts,,Logan Allen,Over,4.5,120
+a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,BetOnline.ag,2025-07-05T15:03:10Z,pitcher_strikeouts,,Logan Allen,Under,4.5,-156
+a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,DraftKings,2025-07-05T15:02:22Z,pitcher_strikeouts,,Logan Allen,Over,4.5,105
+a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,DraftKings,2025-07-05T15:02:22Z,pitcher_strikeouts,,Logan Allen,Under,4.5,-140
+a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,DraftKings,2025-07-05T15:02:22Z,pitcher_strikeouts,,Casey Mize,Over,4.5,120
+a124407c558a21eea81379bc951a8221,Cleveland Guardians,Detroit Tigers,2025-07-05T23:16:00Z,DraftKings,2025-07-05T15:02:22Z,pitcher_strikeouts,,Casey Mize,Under,4.5,-160
+9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,FanDuel,2025-07-05T15:03:59Z,pitcher_strikeouts,,Framber Valdez,Over,5.5,120
+9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,FanDuel,2025-07-05T15:03:59Z,pitcher_strikeouts,,Framber Valdez,Under,5.5,-160
+9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,BetOnline.ag,2025-07-05T15:03:24Z,pitcher_strikeouts,,Framber Valdez,Over,4.5,-161
+9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,BetOnline.ag,2025-07-05T15:03:24Z,pitcher_strikeouts,,Framber Valdez,Under,4.5,123
+9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,BetOnline.ag,2025-07-05T15:03:24Z,pitcher_strikeouts,,Shohei Ohtani,Over,1.5,-179
+9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,BetOnline.ag,2025-07-05T15:03:24Z,pitcher_strikeouts,,Shohei Ohtani,Under,1.5,137
+9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,DraftKings,2025-07-05T15:03:41Z,pitcher_strikeouts,,Framber Valdez,Over,4.5,-165
+9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,DraftKings,2025-07-05T15:03:41Z,pitcher_strikeouts,,Framber Valdez,Under,4.5,125
+9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,DraftKings,2025-07-05T15:03:41Z,pitcher_strikeouts,,Shohei Ohtani,Over,1.5,-185
+9e9bee3657097360682fe49ad0d26f23,Los Angeles Dodgers,Houston Astros,2025-07-05T23:16:00Z,DraftKings,2025-07-05T15:03:41Z,pitcher_strikeouts,,Shohei Ohtani,Under,1.5,140
+f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,FanDuel,2025-07-05T15:03:32Z,pitcher_strikeouts,,German Marquez,Over,3.5,-152
+f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,FanDuel,2025-07-05T15:03:32Z,pitcher_strikeouts,,German Marquez,Under,3.5,120
+f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,FanDuel,2025-07-05T15:03:32Z,pitcher_strikeouts,,Jonathan Cannon,Over,4.5,122
+f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,FanDuel,2025-07-05T15:03:32Z,pitcher_strikeouts,,Jonathan Cannon,Under,4.5,-162
+f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,BetOnline.ag,2025-07-05T15:04:01Z,pitcher_strikeouts,,German Marquez,Over,3.5,-152
+f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,BetOnline.ag,2025-07-05T15:04:01Z,pitcher_strikeouts,,German Marquez,Under,3.5,116
+f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,BetOnline.ag,2025-07-05T15:04:01Z,pitcher_strikeouts,,Jonathan Cannon,Over,4.5,120
+f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,BetOnline.ag,2025-07-05T15:04:01Z,pitcher_strikeouts,,Jonathan Cannon,Under,4.5,-156
+f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,DraftKings,2025-07-05T15:04:02Z,pitcher_strikeouts,,Jonathan Cannon,Over,4.5,115
+f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,DraftKings,2025-07-05T15:04:02Z,pitcher_strikeouts,,Jonathan Cannon,Under,4.5,-150
+f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,DraftKings,2025-07-05T15:04:02Z,pitcher_strikeouts,,German Marquez,Over,3.5,-145
+f08f96bf9f01a363e19c3f4009641edc,Colorado Rockies,Chicago White Sox,2025-07-06T01:11:00Z,DraftKings,2025-07-05T15:04:02Z,pitcher_strikeouts,,German Marquez,Under,3.5,110
+5015c6d6f41f162719f1ceae88dfaabe,San Diego Padres,Texas Rangers,2025-07-06T01:40:00Z,FanDuel,2025-07-05T15:04:06Z,pitcher_strikeouts,,Patrick Corbin,Over,3.5,-122
+5015c6d6f41f162719f1ceae88dfaabe,San Diego Padres,Texas Rangers,2025-07-06T01:40:00Z,FanDuel,2025-07-05T15:04:06Z,pitcher_strikeouts,,Patrick Corbin,Under,3.5,-108
+5015c6d6f41f162719f1ceae88dfaabe,San Diego Padres,Texas Rangers,2025-07-06T01:40:00Z,BetOnline.ag,2025-07-05T15:00:16Z,pitcher_strikeouts,,Stephen Kolek,Over,4.5,128
+5015c6d6f41f162719f1ceae88dfaabe,San Diego Padres,Texas Rangers,2025-07-06T01:40:00Z,BetOnline.ag,2025-07-05T15:00:16Z,pitcher_strikeouts,,Stephen Kolek,Under,4.5,-167
+5015c6d6f41f162719f1ceae88dfaabe,San Diego Padres,Texas Rangers,2025-07-06T01:40:00Z,BetOnline.ag,2025-07-05T15:00:16Z,pitcher_strikeouts,,Patrick Corbin,Over,3.5,-122
+5015c6d6f41f162719f1ceae88dfaabe,San Diego Padres,Texas Rangers,2025-07-06T01:40:00Z,BetOnline.ag,2025-07-05T15:00:16Z,pitcher_strikeouts,,Patrick Corbin,Under,3.5,-106
+5015c6d6f41f162719f1ceae88dfaabe,San Diego Padres,Texas Rangers,2025-07-06T01:40:00Z,DraftKings,2025-07-05T15:04:16Z,pitcher_strikeouts,,Stephen Kolek,Over,4.5,125
+5015c6d6f41f162719f1ceae88dfaabe,San Diego Padres,Texas Rangers,2025-07-06T01:40:00Z,DraftKings,2025-07-05T15:04:16Z,pitcher_strikeouts,,Stephen Kolek,Under,4.5,-160
+5015c6d6f41f162719f1ceae88dfaabe,San Diego Padres,Texas Rangers,2025-07-06T01:40:00Z,DraftKings,2025-07-05T15:04:16Z,pitcher_strikeouts,,Patrick Corbin,Over,3.5,-130
+5015c6d6f41f162719f1ceae88dfaabe,San Diego Padres,Texas Rangers,2025-07-06T01:40:00Z,DraftKings,2025-07-05T15:04:16Z,pitcher_strikeouts,,Patrick Corbin,Under,3.5,100
+172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,FanDuel,2025-07-05T15:04:05Z,pitcher_strikeouts,,Luis Severino,Over,4.5,-108
+172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,FanDuel,2025-07-05T15:04:05Z,pitcher_strikeouts,,Luis Severino,Under,4.5,-118
+172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,FanDuel,2025-07-05T15:04:05Z,pitcher_strikeouts,,Logan Webb,Over,6.5,-144
+172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,FanDuel,2025-07-05T15:04:05Z,pitcher_strikeouts,,Logan Webb,Under,6.5,108
+172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,BetOnline.ag,2025-07-05T15:01:46Z,pitcher_strikeouts,,Logan Webb,Over,6.5,-137
+172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,BetOnline.ag,2025-07-05T15:01:46Z,pitcher_strikeouts,,Logan Webb,Under,6.5,106
+172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,BetOnline.ag,2025-07-05T15:01:46Z,pitcher_strikeouts,,Luis Severino,Over,4.5,-120
+172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,BetOnline.ag,2025-07-05T15:01:46Z,pitcher_strikeouts,,Luis Severino,Under,4.5,-108
+172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,DraftKings,2025-07-05T15:04:21Z,pitcher_strikeouts,,Logan Webb,Over,6.5,-140
+172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,DraftKings,2025-07-05T15:04:21Z,pitcher_strikeouts,,Logan Webb,Under,6.5,105
+172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,DraftKings,2025-07-05T15:04:21Z,pitcher_strikeouts,,Luis Severino,Over,4.5,-125
+172e4b20975aaa5fa3537758bc05cdf4,Oakland Athletics,San Francisco Giants,2025-07-06T02:06:00Z,DraftKings,2025-07-05T15:04:21Z,pitcher_strikeouts,,Luis Severino,Under,4.5,-105
+b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,FanDuel,2025-07-05T15:03:53Z,pitcher_strikeouts,,Mike Burrows,Over,4.5,-132
+b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,FanDuel,2025-07-05T15:03:53Z,pitcher_strikeouts,,Mike Burrows,Under,4.5,100
+b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,FanDuel,2025-07-05T15:03:53Z,pitcher_strikeouts,,Luis Castillo,Over,5.5,-122
+b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,FanDuel,2025-07-05T15:03:53Z,pitcher_strikeouts,,Luis Castillo,Under,5.5,-104
+b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,BetOnline.ag,2025-07-05T15:03:46Z,pitcher_strikeouts,,Mike Burrows,Over,4.5,-119
+b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,BetOnline.ag,2025-07-05T15:03:46Z,pitcher_strikeouts,,Mike Burrows,Under,4.5,-109
+b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,BetOnline.ag,2025-07-05T15:03:46Z,pitcher_strikeouts,,Luis Castillo,Over,5.5,-128
+b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,BetOnline.ag,2025-07-05T15:03:46Z,pitcher_strikeouts,,Luis Castillo,Under,5.5,-101
+b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,DraftKings,2025-07-05T15:03:26Z,pitcher_strikeouts,,Luis Castillo,Over,5.5,-135
+b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,DraftKings,2025-07-05T15:03:26Z,pitcher_strikeouts,,Luis Castillo,Under,5.5,105
+b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,DraftKings,2025-07-05T15:03:26Z,pitcher_strikeouts,,Mike Burrows,Over,4.5,-125
+b5c7a5d7c8b514f9a2962c355346946d,Seattle Mariners,Pittsburgh Pirates,2025-07-06T02:10:00Z,DraftKings,2025-07-05T15:03:26Z,pitcher_strikeouts,,Mike Burrows,Under,4.5,-105
